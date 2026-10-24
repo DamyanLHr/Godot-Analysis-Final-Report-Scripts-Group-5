@@ -1,6 +1,6 @@
 # Godot quality and health measurements: 2IRR80 Capstone, Group 5
 
-Scripts behind the *Project quality* metrics (M1–M7) and the *Project health* filtering and
+Scripts behind the *Project quality* metrics (M1–M8) and the *Project health* filtering and
 contributor categories in our final report. Every number in the report can be re-created with the
 commands below.
 
@@ -15,13 +15,13 @@ commands below.
 
 | Tool | Version | Used for |
 |---|---|---|
-| SciTools Understand | 8.0, build 1264 (`und version`) | M1 cross-check, M2, M7 comment ratio, graphs |
+| SciTools Understand | 8.0, build 1264 (`und version`) | M1 cross-check, M3, M8 comment ratio, graphs |
 | lizard | 1.24.1 (pip) | M1 cyclomatic complexity (primary) |
-| clang-tidy | 22.1.3 (bundled with Visual Studio 18) | M1 cognitive complexity of selected functions |
+| clang-tidy | 22.1.3 (bundled with Visual Studio 18) | M2 cognitive complexity of selected functions |
 | SCons | 4.11.1 (pip), with MSVC 14.5 / Windows SDK 10.0.26100.0 | only to generate `compile_commands.json` and `*.gen.h` for clang-tidy |
-| Simian | 2.5.10 (`Tools/simian.jar`), Java 21 | M4 duplication |
-| Godot `doc/tools/doc_status.py` | in the repository at the snapshot | M7 API documentation coverage |
-| git | 2.x | M6 churn and all git-based health data |
+| Simian | 2.5.10 (`Tools/simian.jar`), Java 21 | M5 duplication |
+| Godot `doc/tools/doc_status.py` | in the repository at the snapshot | M8 API documentation coverage |
+| git | 2.x | M7 churn and all git-based health data |
 | gambit-disambig | 1.0.5 (pip) | alias detection, measure 2 |
 | rabbit-ng | 3.0.0 (pip, separate venv) | bot detection, validation |
 | pandas / matplotlib / numpy | see `requirements.txt` | analysis and plots |
@@ -45,14 +45,14 @@ bash quality/und_build.sh                       # Understand DB + metrics CSV (a
 UP="C:/Program Files/SciTools/bin/pc-win64/upython.exe"                          # report figures,
 for f in $("$UP" quality/und_graphs.py --list); do                              # one process each
   "$UP" quality/und_graphs.py quality/understand/godot-57277407.und quality/out/figures "$f"; done
-.venv/Scripts/python quality/compose_m3.py                                       # M3 figure, 3 graphs side by side
+.venv/Scripts/python quality/compose_m3.py                                       # M4 figure, 3 graphs side by side
 bash quality/lizard_run.sh                      # M1 primary: lizard CCN per function
-bash quality/simian_run.sh                      # M4: per module, thresholds 6 and 10
-.venv/Scripts/python quality/layer_violations.py   # M3
-.venv/Scripts/python quality/test_reach.py         # M5
-.venv/Scripts/python quality/hotspots.py           # M6 (needs und_export output)
-.venv/Scripts/python quality/summarise_quality.py  # M1/M2/M7 tables + lizard vs Understand check
-(cd ../godot && python doc/tools/doc_status.py -p doc/classes modules/*/doc_classes platform/*/doc_classes)   # M7
+bash quality/simian_run.sh                      # M5: per module, thresholds 6 and 10
+.venv/Scripts/python quality/layer_violations.py   # M4
+.venv/Scripts/python quality/test_reach.py         # M6
+.venv/Scripts/python quality/hotspots.py           # M7 (needs und_export output)
+.venv/Scripts/python quality/summarise_quality.py  # M1/M3/M8 tables + lizard vs Understand check
+(cd ../godot && python doc/tools/doc_status.py -p doc/classes modules/*/doc_classes platform/*/doc_classes)   # M8
 
 # Cognitive complexity (clang-tidy) runs on a git-archive COPY, because it generates build files:
 mkdir -p work/src-57277407 && git -C ../godot archive 57277407 | tar -x -C work/src-57277407
