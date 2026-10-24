@@ -16,6 +16,7 @@ cd "foreign  - Alexia"
 ../.venv/Scripts/python run_all.py               # everything
 ../.venv/Scripts/python run_all.py --list        # metric names
 ../.venv/Scripts/python run_all.py commits actions former-key   # a subset
+../.venv/Scripts/python all_time_key.py          # P4 over people: all-time key contributors no longer key
 ```
 
 `METRICS_DATA` and `METRICS_OUT` override the data and output folders. The window lives in
@@ -61,6 +62,7 @@ Alexia's chart and number scripts, read from `out/` after `run_all.py`. Each run
 | `P2_newcomer_commit_share.csv` | Newcomer % of commits per month |
 | `P3_assignees.csv`, `P3_assignee_status_summary.csv` | Status of everyone assigned to open issues |
 | `P4_former_key_contributors.csv` | Per closed milestone: top-10 % PR authors no longer key |
+| `P4_all_time_key_contributors.csv` | `all_time_key.py`: everyone who was top-10 % in any closed milestone, once each, with whether they are key now and their current status |
 | `summary.md` | One-line results for everything |
 
 ## Definitions as implemented

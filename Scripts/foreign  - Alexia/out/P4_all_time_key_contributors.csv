@@ -1,0 +1,201 @@
+login,milestones_as_key,milestones,currently_key,current_status
+akien-mga,17,2.0;2.1;3.1;3.0;3.2;3.3;3.4;3.5;4.0;4.1;4.2;4.3;3.6;4.4;4.5;4.6;4.7,True,key
+bruvzg,15,3.1;3.0;3.2;3.3;3.4;3.5;4.0;4.1;4.2;4.3;3.6;4.4;4.5;4.6;4.7,True,key
+calinou,14,3.1;3.2;3.3;3.4;3.5;4.0;4.1;4.2;4.3;3.6;4.4;4.5;4.6;4.7,True,key
+m4gr3d,13,3.2;3.3;3.4;3.5;4.0;4.1;4.2;4.3;3.6;4.4;4.5;4.6;4.7,True,key
+aaronfranke,12,3.1;3.2;3.4;4.0;4.1;4.2;4.3;3.6;4.4;4.5;4.6;4.7,True,key
+clayjohn,11,3.1;3.2;3.4;4.0;4.1;4.2;4.3;4.4;4.5;4.6;4.7,True,key
+kleonc,11,3.4;3.5;4.0;4.1;4.2;4.3;3.6;4.4;4.5;4.6;4.7,True,key
+kobewi,11,3.2;3.5;4.0;4.1;4.2;4.3;3.6;4.4;4.5;4.6;4.7,True,key
+randomshaper,11,2.1;3.1;3.0;3.2;3.3;3.5;4.0;4.1;4.2;4.3;4.4,False,dormant
+timothyqiu,11,3.2;3.4;3.5;4.0;4.1;4.2;4.3;3.6;4.4;4.5;4.6,False,dormant
+yeldhamdev,11,3.1;3.0;3.2;4.0;4.1;4.2;4.3;4.4;4.5;4.6;4.7,True,key
+bastiaanolij,9,3.1;3.0;3.2;4.0;4.1;4.2;4.3;4.4;4.6,True,key
+chaosus,9,3.1;3.2;3.3;3.5;4.0;4.2;4.3;4.4;4.7,True,key
+faless,9,3.1;3.0;3.2;3.3;3.4;4.0;4.2;4.3;4.4,False,other active
+athousandships,8,4.0;4.1;4.2;4.3;3.6;4.4;4.5;4.7,True,key
+dsnopek,8,4.0;4.1;4.2;4.3;4.4;4.5;4.6;4.7,True,key
+raulsntos,8,3.4;4.0;4.1;4.2;4.3;3.6;4.4;4.5,True,key
+smix8,8,3.5;4.0;4.1;4.2;4.3;3.6;4.4;4.5,True,key
+tokageitlab,8,4.0;4.1;4.2;4.3;4.4;4.5;4.6;4.7,True,key
+dalexeev,7,4.0;4.1;4.2;4.3;4.4;4.5;4.7,True,key
+lawnjelly,7,3.2;3.3;3.4;3.5;4.0;3.6;4.5,True,key
+saracenone,7,2.0;2.1;3.0;3.2;4.0;4.2;4.4,False,left
+vnen,7,2.0;2.1;3.1;3.0;3.2;4.0;4.3,False,inactive (not established)
+deralmas,6,4.0;4.3;4.4;4.5;4.6;4.7,True,key
+groud,6,3.1;3.0;3.2;4.0;4.2;4.3,False,left
+mihe,6,4.2;4.3;4.4;4.5;4.6;4.7,True,key
+neikeq,6,2.0;2.1;3.1;3.0;3.2;4.0,False,no commits in the last 2 years
+repiteo,6,4.2;4.3;4.4;4.5;4.6;4.7,True,key
+rindbee,6,4.0;4.1;4.2;4.3;4.5;4.6,True,key
+yurisizov,6,3.4;3.5;4.0;4.1;4.2;4.3,False,no commits in the last 2 years
+dariosamo,5,4.2;4.3;4.4;4.5;4.6,True,key
+holonproduction,5,4.3;4.4;4.5;4.6;4.7,True,key
+kitbdev,5,4.3;4.4;4.5;4.6;4.7,True,key
+madmiraal,5,3.2;3.3;3.4;3.5;4.0,False,no commits in the last 2 years
+mickeon,5,4.0;4.3;3.6;4.4;4.5,False,other active
+paulb23,5,2.1;3.1;3.0;3.2;4.0,False,no commits in the last 2 years
+ryevdokimov,5,4.3;4.4;4.5;4.6;4.7,True,key
+sauermann,5,4.0;4.1;4.2;4.3;4.4,False,left
+volzhs,5,2.1;3.1;3.0;3.2;4.0,False,no commits in the last 2 years
+aaronp64,4,4.3;4.4;4.5;4.6,False,dormant
+adamscott,4,4.0;4.3;4.4;4.5,False,other active
+bluecube3310,4,4.3;4.4;4.5;4.6,True,key
+bojidar-bg,4,2.1;3.1;3.0;3.2,False,no commits in the last 2 years
+giganzo,4,4.4;4.5;4.6;4.7,True,key
+ivorforce,4,4.4;4.5;4.6;4.7,True,key
+leonkrause,4,2.0;2.1;3.1;3.0,False,no commits in the last 2 years
+pouleyketchoupp,4,3.2;3.3;3.4;4.0,False,no commits in the last 2 years
+stuartcarnie,4,4.4;4.5;4.6;4.7,True,key
+syntaxerror247,4,4.4;4.5;4.6;4.7,True,key
+27thliz,3,2.0;2.1;3.0,False,no commits in the last 2 years
+andreacatania,3,3.1;3.0;4.0,False,no commits in the last 2 years
+cbscribe,3,3.1;3.0;3.2,False,no commits in the last 2 years
+chubercik,3,4.3;4.5;4.7,False,other active
+deejaylsp,3,4.0;4.5;4.6,True,key
+fire,3,3.1;3.2;4.0,False,dormant
+geequlim,3,2.1;3.0;3.2,False,no commits in the last 2 years
+geometror,3,4.0;4.3;4.4,False,other active
+hpvb,3,3.1;3.0;4.4,False,other active
+jfons,3,3.1;3.2;4.0,False,no commits in the last 2 years
+jsjtxietian,3,4.2;4.3;4.4,False,no commits in the last 2 years
+lyuma,3,4.0;4.1;4.3,False,dormant
+marcelofg55,3,2.1;3.1;3.0,False,no commits in the last 2 years
+mewpurpur,3,4.0;4.1;4.2,False,dormant
+mhilbrunner,3,3.1;3.0;4.0,False,dormant
+passivestar,3,4.3;4.4;4.6,True,key
+paulloz,3,3.1;4.0;4.3,False,other active
+rburing,3,4.0;4.1;4.3,False,other active
+redworkde,3,4.0;4.1;4.2,False,no commits in the last 2 years
+rubonnek,3,3.1;3.5;4.0,False,other active
+rune-scape,3,4.0;4.3;4.4,False,inactive (not established)
+willnationsdev,3,3.1;3.0;3.2,False,no commits in the last 2 years
+zylann,3,3.1;3.0;4.0,False,other active
+ajreckof,2,4.1;4.3,False,other active
+anutrix,2,3.2;4.0,False,no commits in the last 2 years
+arkology,2,4.5;4.6,True,key
+bitsawer,2,4.1;4.2,False,no commits in the last 2 years
+blueskythlikesclouds,2,4.6;4.7,True,key+newcomer
+darksylinc,2,4.2;4.4,False,left
+djrm,2,2.1;3.0,False,no commits in the last 2 years
+endragor,2,3.1;3.0,False,no commits in the last 2 years
+guilhermefelipecgs,2,3.1;3.2,False,no commits in the last 2 years
+hilderin,2,4.3;4.4,False,left
+ibrahn,2,3.1;3.2,False,inactive (not established)
+karroffel,2,3.1;3.0,False,no commits in the last 2 years
+lodetrick,2,4.5;4.6,False,dormant
+lupodharkael,2,3.1;3.2,False,no commits in the last 2 years
+maran23,2,4.0;4.1,False,inactive (not established)
+naithar,2,3.3;4.0,False,no commits in the last 2 years
+qarmin,2,3.2;4.0,False,no commits in the last 2 years
+redmser,2,4.0;4.3,False,left
+reduz,2,4.0;4.1,False,left
+touilleman,2,3.0;4.0,False,inactive (not established)
+vaner-org,2,4.6;4.7,True,key
+whalesstate,2,4.4;4.6,False,dormant
+xrayez,2,3.2;4.0,False,no commits in the last 2 years
+aaronrecord,1,4.0,False,no commits in the last 2 years
+akosmo,1,4.7,True,key+newcomer
+alexholly,1,3.1,False,no commits in the last 2 years
+allenwp,1,4.7,True,key
+anilbk,1,4.0,False,no commits in the last 2 years
+anvilfolk,1,4.0,False,inactive (not established)
+aqnuep,1,3.2,False,no commits in the last 2 years
+asmaloney,1,4.0,False,no commits in the last 2 years
+beicause,1,4.5,False,dormant
+blackiris,1,4.0,False,no commits in the last 2 years
+briansemrau,1,4.0,False,no commits in the last 2 years
+brno32,1,4.1,False,no commits in the last 2 years
+cdemirer,1,4.0,False,other active
+codecustard,1,3.2,False,no commits in the last 2 years
+contezero,1,4.0,False,no commits in the last 2 years
+cookiebadger,1,4.3,False,other active
+creikey,1,3.2,False,no commits in the last 2 years
+dankan1890,1,3.2,False,no commits in the last 2 years
+darkkilauea,1,4.0,False,other active
+dragmz,1,3.1,False,no commits in the last 2 years
+dreamscometrue,1,4.0,False,no commits in the last 2 years
+dugramen,1,4.5,False,dormant
+dzil123,1,4.0,False,no commits in the last 2 years
+edwardchanch,1,4.7,True,key+newcomer
+elasota,1,3.1,False,no commits in the last 2 years
+ellenhp,1,4.0,False,no commits in the last 2 years
+ericezam,1,4.0,False,inactive (not established)
+fabriceci,1,4.0,False,no commits in the last 2 years
+fire-forge,1,4.0,False,no commits in the last 2 years
+floppyhammer,1,4.0,False,no commits in the last 2 years
+foxydevloper,1,4.0,False,no commits in the last 2 years
+gallilus,1,4.0,False,no commits in the last 2 years
+garychia,1,4.2,False,no commits in the last 2 years
+gongpha,1,4.0,False,other active
+hasa1002,1,4.0,False,no commits in the last 2 years
+havi05,1,4.4,False,left
+hbina,1,3.2,False,no commits in the last 2 years
+hoelzl,1,3.0,False,no commits in the last 2 years
+hoontee,1,4.0,False,no commits in the last 2 years
+isylvox,1,3.0,False,no commits in the last 2 years
+j08ny,1,2.1,False,no commits in the last 2 years
+jbuck3,1,3.2,False,no commits in the last 2 years
+jmb462,1,4.0,False,no commits in the last 2 years
+jummit,1,4.0,False,no commits in the last 2 years
+kaleb-reid,1,4.6,True,dormant
+kellythomas,1,3.1,False,no commits in the last 2 years
+klowner,1,4.0,False,no commits in the last 2 years
+kubecz3k,1,3.0,False,no commits in the last 2 years
+kuruk-mm,1,4.0,False,inactive (not established)
+leezh,1,3.0,False,no commits in the last 2 years
+listwon,1,4.0,False,other active
+madequa,1,3.2,False,no commits in the last 2 years
+malcolmnixon,1,4.3,False,no commits in the last 2 years
+marcuselg,1,4.0,False,no commits in the last 2 years
+marianognu,1,2.0,False,inactive (not established)
+marxin,1,3.1,False,no commits in the last 2 years
+mbrlabs,1,4.0,False,no commits in the last 2 years
+meorge,1,4.5,True,key
+merumelu,1,3.2,False,no commits in the last 2 years
+minuskube,1,4.0,False,no commits in the last 2 years
+mrcdk,1,3.1,False,other active
+mrushyendra,1,4.0,False,no commits in the last 2 years
+nathanfranke,1,4.0,False,no commits in the last 2 years
+nathanwarden,1,3.0,False,no commits in the last 2 years
+nikitalita,1,4.6,True,key
+nilsirl,1,3.2,False,no commits in the last 2 years
+nintorch,1,4.7,True,key
+ovnuniarchos,1,2.0,False,no commits in the last 2 years
+pafuent,1,4.4,False,dormant
+piet-g,1,3.1,False,no commits in the last 2 years
+pjb3005,1,3.1,False,no commits in the last 2 years
+rafallus,1,4.0,False,no commits in the last 2 years
+raphael2048,1,3.2,False,no commits in the last 2 years
+raykoopa,1,3.0,False,no commits in the last 2 years
+razoric480,1,4.0,False,no commits in the last 2 years
+rcorre,1,4.0,False,no commits in the last 2 years
+revolupowered,1,4.0,False,no commits in the last 2 years
+robfram,1,3.1,False,no commits in the last 2 years
+romulox-x,1,2.0,False,no commits in the last 2 years
+rsubtil,1,4.0,False,other active
+ryan-000,1,4.7,True,key
+scony,1,4.0,False,no commits in the last 2 years
+septn,1,4.2,False,no commits in the last 2 years
+sersoong,1,2.1,False,no commits in the last 2 years
+sirquartz,1,4.0,False,no commits in the last 2 years
+skyace65,1,4.0,False,other active
+skylucilfer,1,4.0,False,no commits in the last 2 years
+snailrhymer,1,4.0,False,no commits in the last 2 years
+starryworm,1,4.7,True,key
+stijn-h,1,4.0,False,inactive (not established)
+technoporg,1,4.0,False,no commits in the last 2 years
+tetrapod00,1,4.4,False,left
+thakeenathees,1,4.0,False,no commits in the last 2 years
+theoway,1,4.0,False,no commits in the last 2 years
+thesofox,1,4.3,False,other active
+toger5,1,3.0,False,no commits in the last 2 years
+trollodel,1,4.0,False,no commits in the last 2 years
+twistedtwigleg,1,4.0,False,no commits in the last 2 years
+vonagam,1,4.0,False,no commits in the last 2 years
+williamd67,1,4.0,False,no commits in the last 2 years
+xsellier,1,2.1,False,inactive (not established)
+yyf233333,1,4.5,False,dormant
+zaevi,1,4.0,False,left
+zakstam,1,3.2,False,no commits in the last 2 years
+zombietype,1,3.1,False,no commits in the last 2 years
