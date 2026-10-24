@@ -1,0 +1,17 @@
+[hotspots] window 2025-09-16T00:00:00Z..2026-09-16T23:59:59Z: 4119 commits kept, 83 mechanical commits excluded
+[hotspots] 2252 files with churn and complexity -> C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\quality\out\hotspots.csv
+  219329  churn=157  SumCC= 1397  editor/editor_node.cpp
+  118028  churn= 76  SumCC= 1553  scene/gui/tree.cpp
+  114165  churn= 59  SumCC= 1935  servers/rendering/rendering_device.cpp
+  107250  churn= 55  SumCC= 1950  scene/gui/text_edit.cpp
+  101304  churn=  8  SumCC=12663  tests/scene/test_text_edit.cpp
+   89284  churn= 52  SumCC= 1717  scene/gui/rich_text_label.cpp
+   85557  churn= 79  SumCC= 1083  editor/inspector/editor_inspector.cpp
+   83268  churn= 54  SumCC= 1542  editor/animation/animation_track_editor.cpp
+   70122  churn= 87  SumCC=  806  editor/docks/scene_tree_dock.cpp
+   67104  churn= 48  SumCC= 1398  platform/windows/display_server_windows.cpp
+   66920  churn= 28  SumCC= 2390  servers/rendering/shader_language.cpp
+   62880  churn= 80  SumCC=  786  editor/script/script_editor_plugin.cpp
+   57933  churn= 41  SumCC= 1413  modules/gltf/gltf_document.cpp
+   57456  churn= 48  SumCC= 1197  drivers/d3d12/rendering_device_driver_d3d12.cpp
+   52632  churn= 68  SumCC=  774  editor/docks/filesystem_dock.cpp

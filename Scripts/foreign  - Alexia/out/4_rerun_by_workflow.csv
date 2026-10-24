@@ -1,0 +1,9 @@
+workflow,runs,first_attempt_failed,failed_and_rerun,passed_on_rerun,rerun_success_pct,flaky_share_of_failures_pct
+🔗 GHA,27517,4153,418,368,88.04,8.86
+🧹 Cache Cleanup,1196,0,0,0,,
+.github/workflows/web_builds.yml,2,2,0,0,,0.0
+.github/workflows/runner.yml,10,10,0,0,,0.0
+.github/workflows/static_checks.yml,2,2,0,0,,0.0
+npm_and_yarn in /platform/web for js-yaml - Update #1167257178,1,0,0,0,,
+Graph Update: pip in /. #1446760352,1,0,0,0,,
+Graph Update: pip in /. #1550094562,1,0,0,0,,

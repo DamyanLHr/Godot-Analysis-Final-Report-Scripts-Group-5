@@ -1,0 +1,550 @@
+Similarity Analyser 2.5.10 - http://www.harukizaemon.com/simian
+Copyright (c) 2003-2018 Simon Harris.  All rights reserved.
+Simian is not free unless used solely for non-commercial or evaluation purposes.
+{failOnDuplication=true, ignoreCharacterCase=true, ignoreCurlyBraces=true, ignoreIdentifierCase=true, ignoreModifiers=true, ignoreStringCase=true, language=C++, threshold=10}
+Found 10 duplicate lines with fingerprint be143845b7c7f6e21de0b83efe9e83a4 in the following files:
+ Between lines 1556 and 1570 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_parser.cpp
+ Between lines 467 and 481 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\json.cpp
+Found 10 duplicate lines with fingerprint 7cee87a0ee857e105a917223217beeb0 in the following files:
+ Between lines 3679 and 3694 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\ustring.cpp
+ Between lines 3622 and 3637 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\ustring.cpp
+Found 10 duplicate lines with fingerprint 73e5bd339ae5fbed5c0cf42e5b7e221d in the following files:
+ Between lines 1303 and 1317 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_parser.cpp
+ Between lines 1220 and 1234 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_parser.cpp
+Found 10 duplicate lines with fingerprint a733f684a74e38c36e7212d908607bbe in the following files:
+ Between lines 522 and 537 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\a_star_grid_2d.cpp
+ Between lines 335 and 350 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\a_star.cpp
+Found 10 duplicate lines with fingerprint aa9382cc02ccb6494deceeb2a0fc37e0 in the following files:
+ Between lines 129 and 144 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\rect2i.h
+ Between lines 191 and 206 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\rect2.h
+Found 10 duplicate lines with fingerprint 3d8a5d3634a27268eae680496bdb8d21 in the following files:
+ Between lines 603 and 615 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\binder_common.h
+ Between lines 585 and 597 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\binder_common.h
+ Between lines 567 and 579 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\binder_common.h
+ Between lines 537 and 549 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\binder_common.h
+ Between lines 210 and 222 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\binder_common.h
+ Between lines 159 and 171 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\binder_common.h
+Found 10 duplicate lines with fingerprint 1db05b343a50489494c1d08d95b37825 in the following files:
+ Between lines 4903 and 4918 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\ustring.cpp
+ Between lines 293 and 308 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\node_path.cpp
+Found 10 duplicate lines with fingerprint eae2fde4b516c6d3a1f8d3fdc5293a17 in the following files:
+ Between lines 294 and 304 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\geometry_2d.h
+ Between lines 372 and 382 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\core_bind.h
+Found 10 duplicate lines with fingerprint 3552b6c1a1f3210ba4b928b1c850430a in the following files:
+ Between lines 434 and 445 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_op.h
+ Between lines 408 and 419 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_op.h
+Found 10 duplicate lines with fingerprint 1d355e391e0a72a1ee57d13491fd9dfe in the following files:
+ Between lines 3157 and 3166 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+ Between lines 263 and 272 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+Found 10 duplicate lines with fingerprint ab0871d940760b83a57117ab370655b2 in the following files:
+ Between lines 403 and 416 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\triangle_mesh.cpp
+ Between lines 295 and 308 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\triangle_mesh.cpp
+ Between lines 187 and 200 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\triangle_mesh.cpp
+Found 10 duplicate lines with fingerprint fb7550d09ce3fd4ce4aa2962ddb13926 in the following files:
+ Between lines 969 and 985 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\file_access.cpp
+ Between lines 943 and 958 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\file_access.cpp
+Found 10 duplicate lines with fingerprint 75e1da57d3666e82a7017dca7dfa8f8a in the following files:
+ Between lines 550 and 561 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\vector3.h
+ Between lines 85 and 96 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\vector4.cpp
+ Between lines 56 and 67 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\vector2.cpp
+Found 10 duplicate lines with fingerprint 63852fe3360cf77a7bd9eb2b288adef6 in the following files:
+ Between lines 556 and 565 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_construct.h
+ Between lines 472 and 481 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_construct.h
+Found 10 duplicate lines with fingerprint 7e09866d49f2cd7414c7f3bb6eee5d49 in the following files:
+ Between lines 3580 and 3589 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+ Between lines 1471 and 1480 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+Found 10 duplicate lines with fingerprint cbef291d3a96f239c7d74581f21e35a2 in the following files:
+ Between lines 223 and 232 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_utility.cpp
+ Between lines 179 and 188 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_utility.cpp
+ Between lines 135 and 144 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_utility.cpp
+Found 10 duplicate lines with fingerprint 5ffbd82d6fa13be016bd10837bb0de37 in the following files:
+ Between lines 74 and 83 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\resource_saver.h
+ Between lines 101 and 110 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\core_bind.h
+Found 10 duplicate lines with fingerprint 84509dfca5d424381c7513c14f2d2379 in the following files:
+ Between lines 3293 and 3306 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\image.cpp
+ Between lines 3250 and 3263 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\image.cpp
+Found 10 duplicate lines with fingerprint f7bcd2c25274a6ca29a7cb4c850394ee in the following files:
+ Between lines 155 and 166 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\file_access_zip.cpp
+ Between lines 120 and 131 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\file_access_zip.cpp
+Found 10 duplicate lines with fingerprint 4d116a354bf0655bb9a8128271f00f93 in the following files:
+ Between lines 508 and 518 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\templates\hash_set.h
+ Between lines 447 and 457 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\templates\hash_set.h
+Found 10 duplicate lines with fingerprint 25596bffdcde4c5a5c750ecc2de074c4 in the following files:
+ Between lines 197 and 212 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\rect2i.h
+ Between lines 267 and 282 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\rect2.h
+Found 10 duplicate lines with fingerprint 58bbe77ae7f5f9fe819151dc9d4bbd3c in the following files:
+ Between lines 331 and 342 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\os\os.h
+ Between lines 286 and 297 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\core_bind.h
+Found 10 duplicate lines with fingerprint e0958c63ace90ebabf2aff09fa992d05 in the following files:
+ Between lines 793 and 802 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\extension\gdextension_special_compat_hashes.cpp
+ Between lines 592 and 601 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\extension\gdextension_special_compat_hashes.cpp
+Found 10 duplicate lines with fingerprint 278945a6eee0e75e5f0750a374b0f548 in the following files:
+ Between lines 879 and 888 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\input\input_event.cpp
+ Between lines 846 and 855 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\input\input_event.cpp
+Found 10 duplicate lines with fingerprint 07850d4314f0bf3f5c99352441a524ec in the following files:
+ Between lines 804 and 813 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\extension\gdextension_special_compat_hashes.cpp
+ Between lines 603 and 612 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\extension\gdextension_special_compat_hashes.cpp
+Found 10 duplicate lines with fingerprint f054bf22dde6c03529887ae0680a2632 in the following files:
+ Between lines 1422 and 1435 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_call.cpp
+ Between lines 1391 and 1404 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_call.cpp
+Found 10 duplicate lines with fingerprint 847fb9a027b3723c9880d8d3da219131 in the following files:
+ Between lines 358 and 367 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\resource.cpp
+ Between lines 238 and 247 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\packed_data_container.cpp
+Found 10 duplicate lines with fingerprint dbdfa329e7c7c4e294cdda51b781c58b in the following files:
+ Between lines 540 and 549 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_call.cpp
+ Between lines 490 and 499 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_call.cpp
+ Between lines 440 and 449 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_call.cpp
+Found 10 duplicate lines with fingerprint 357a03aa72f273508181e84a28d95568 in the following files:
+ Between lines 3480 and 3489 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant.cpp
+ Between lines 3417 and 3426 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant.cpp
+Found 10 duplicate lines with fingerprint 6e367659164752de046a62cdea8850de in the following files:
+ Between lines 1098 and 1109 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\resource_format_binary.cpp
+ Between lines 1057 and 1068 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\resource_format_binary.cpp
+ Between lines 923 and 934 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\resource_format_binary.cpp
+Found 10 duplicate lines with fingerprint b35600740753991f8815361f67dbd2c2 in the following files:
+ Between lines 488 and 497 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_setget.cpp
+ Between lines 414 and 423 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_setget.cpp
+ Between lines 341 and 350 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_setget.cpp
+Found 10 duplicate lines with fingerprint af085d88b2c4413f7d6a25d370ac5a98 in the following files:
+ Between lines 143 and 159 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\templates\rb_set.h
+ Between lines 170 and 186 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\templates\rb_map.h
+ Between lines 191 and 207 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\templates\list.h
+Found 10 duplicate lines with fingerprint ad23f8369cc76bddca9cb8ffd7d56444 in the following files:
+ Between lines 393 and 405 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\templates\hash_map.h
+ Between lines 343 and 355 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\templates\hash_map.h
+Found 10 duplicate lines with fingerprint 8caec9ea186222854e9a024c52795a4a in the following files:
+ Between lines 75 and 87 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\stream_peer_uds.cpp
+ Between lines 77 and 89 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\stream_peer_tcp.cpp
+Found 10 duplicate lines with fingerprint ffc675d744600a4eb434af9f9e1fa42c in the following files:
+ Between lines 5481 and 5493 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\ustring.cpp
+ Between lines 5439 and 5451 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\ustring.cpp
+Found 10 duplicate lines with fingerprint 8a0fbc62c95c5fbb781595b1b27a7813 in the following files:
+ Between lines 646 and 655 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_setget.cpp
+ Between lines 590 and 599 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_setget.cpp
+ Between lines 534 and 543 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_setget.cpp
+Found 11 duplicate lines with fingerprint e7d589380380bd9d36b137c595681bbf in the following files:
+ Between lines 125 and 137 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\object\callable_mp.h
+ Between lines 194 and 206 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\object\callable_mp.h
+Found 11 duplicate lines with fingerprint 7538bd9eac1fa2e28c64290402474b30 in the following files:
+ Between lines 562 and 572 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_setget.cpp
+ Between lines 618 and 628 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_setget.cpp
+Found 11 duplicate lines with fingerprint b93837aa4d2b5aa62fda2eafff01a42b in the following files:
+ Between lines 86 and 101 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\file_access_zip.h
+ Between lines 79 and 94 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\file_access_compressed.h
+ Between lines 74 and 89 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\file_access_encrypted.h
+Found 11 duplicate lines with fingerprint 4de6b27255041158a1be912247dd7034 in the following files:
+ Between lines 107 and 121 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\core_constants.cpp
+ Between lines 198 and 212 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\core_constants.cpp
+Found 11 duplicate lines with fingerprint fd9fa228f9ee4209538950b1c34f8b10 in the following files:
+ Between lines 397 and 407 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+ Between lines 1138 and 1148 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+Found 11 duplicate lines with fingerprint 4696a4f704642862bced4863c3da7685 in the following files:
+ Between lines 77 and 94 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\templates\hash_map.h
+ Between lines 61 and 78 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\templates\hash_set.h
+Found 11 duplicate lines with fingerprint 2f3fb6eb04968cf286349abb15079c39 in the following files:
+ Between lines 42 and 52 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+ Between lines 2892 and 2902 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+Found 11 duplicate lines with fingerprint 29ffcb981d71f22d6699f3fd76e93be2 in the following files:
+ Between lines 1249 and 1261 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\resource_format_binary.cpp
+ Between lines 2355 and 2367 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\resource_format_binary.cpp
+Found 11 duplicate lines with fingerprint 2a174284699a50be41e870ad25b29047 in the following files:
+ Between lines 85 and 97 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\vector4.cpp
+ Between lines 550 and 562 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\vector3.h
+Found 11 duplicate lines with fingerprint c211b1cf7284d66dcf77c835821e1694 in the following files:
+ Between lines 60 and 76 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\bvh_cull.inc
+ Between lines 90 and 106 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\bvh_cull.inc
+ Between lines 120 and 136 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\bvh_cull.inc
+ Between lines 150 and 167 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\bvh_cull.inc
+Found 11 duplicate lines with fingerprint a39202402d53647a66bae654a98c49c0 in the following files:
+ Between lines 1070 and 1082 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\image.cpp
+ Between lines 1088 and 1100 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\image.cpp
+Found 11 duplicate lines with fingerprint 2f74697df551e42754a8c82b8c40e0e5 in the following files:
+ Between lines 111 and 127 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\geometry_2d.h
+ Between lines 336 and 352 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\geometry_3d.h
+Found 11 duplicate lines with fingerprint 2cb8d138cce6748588f5806400a2ca37 in the following files:
+ Between lines 1279 and 1295 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\resource_format_binary.cpp
+ Between lines 2385 and 2400 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\resource_format_binary.cpp
+Found 11 duplicate lines with fingerprint d34f4287253510f2652a5b3d6383345b in the following files:
+ Between lines 90 and 105 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\core_constants.cpp
+ Between lines 181 and 196 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\core_constants.cpp
+Found 11 duplicate lines with fingerprint 297217b59ade01ad05407951229d5d1b in the following files:
+ Between lines 110 and 123 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\object\callable_mp.h
+ Between lines 179 and 192 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\object\callable_mp.h
+Found 11 duplicate lines with fingerprint 1b44a6358d2710a4c292158cb4e670c3 in the following files:
+ Between lines 1319 and 1329 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_utility.cpp
+ Between lines 1529 and 1539 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_utility.cpp
+Found 11 duplicate lines with fingerprint 5252955499dc921d6e8e05ad9bb4067c in the following files:
+ Between lines 56 and 66 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+ Between lines 2907 and 2917 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+Found 12 duplicate lines with fingerprint 8599a9d3788e3e2c79c8ac3fd292027d in the following files:
+ Between lines 544 and 564 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\templates\rid_owner.h
+ Between lines 488 and 509 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\templates\rid_owner.h
+Found 12 duplicate lines with fingerprint d8a0f69c8dc2a0900369b9a22d6fdacf in the following files:
+ Between lines 66 and 83 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_caster.h
+ Between lines 54 and 71 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_caster.h
+Found 12 duplicate lines with fingerprint 12d63e92220008d913e26aa4cdc28652 in the following files:
+ Between lines 1404 and 1415 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_utility.cpp
+ Between lines 1328 and 1339 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_utility.cpp
+ Between lines 1292 and 1303 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_utility.cpp
+ Between lines 1366 and 1377 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_utility.cpp
+Found 12 duplicate lines with fingerprint 81d1021694f6e84bc1b3ec649d20e7dc in the following files:
+ Between lines 659 and 671 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\templates\hash_map.h
+ Between lines 612 and 624 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\templates\hash_map.h
+Found 12 duplicate lines with fingerprint a746552b9dd42c1fbc839802e3f47ddf in the following files:
+ Between lines 73 and 84 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_setget.h
+ Between lines 40 and 51 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_setget.h
+Found 12 duplicate lines with fingerprint a4b7b82bdf41732c77e11cb89fb2b354 in the following files:
+ Between lines 165 and 179 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\core_constants.cpp
+ Between lines 74 and 88 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\core_constants.cpp
+Found 12 duplicate lines with fingerprint 2db9484a2fa62a794dd437217eb1f287 in the following files:
+ Between lines 1669 and 1682 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_parser.cpp
+ Between lines 1647 and 1660 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_parser.cpp
+Found 12 duplicate lines with fingerprint 5e3b2e2b5d12b667879c98de3511c501 in the following files:
+ Between lines 142 and 153 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_setget.h
+ Between lines 109 and 120 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_setget.h
+Found 12 duplicate lines with fingerprint 23ffe49c8390a81591a35b8bf71b407f in the following files:
+ Between lines 94 and 109 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\templates\rb_set.h
+ Between lines 166 and 181 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\templates\list.h
+Found 12 duplicate lines with fingerprint 88d15aeee6847a1390ad364b2e2cf928 in the following files:
+ Between lines 657 and 674 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\doc_data.h
+ Between lines 311 and 328 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\doc_data.h
+ Between lines 167 and 184 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\doc_data.h
+ Between lines 831 and 848 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\doc_data.h
+ Between lines 437 and 454 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\doc_data.h
+Found 12 duplicate lines with fingerprint 6daf84f5c503f6b244efd022f5042776 in the following files:
+ Between lines 1517 and 1528 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_utility.cpp
+ Between lines 1472 and 1483 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_utility.cpp
+ Between lines 1427 and 1438 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_utility.cpp
+Found 12 duplicate lines with fingerprint f49a73996be8b6b7326072a204de7dff in the following files:
+ Between lines 997 and 1008 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\extension\gdextension_special_compat_hashes.cpp
+ Between lines 222 and 233 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\extension\gdextension_special_compat_hashes.cpp
+Found 12 duplicate lines with fingerprint 55a5981100bbafd43d2faada10a3116e in the following files:
+ Between lines 211 and 222 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_setget.h
+ Between lines 178 and 189 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_setget.h
+Found 12 duplicate lines with fingerprint 7b8e49bd46e004785fe21b34171b9093 in the following files:
+ Between lines 436 and 452 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\input\input_event.h
+ Between lines 292 and 308 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\input\input_event.h
+Found 12 duplicate lines with fingerprint e96ecee43c25e545611f2b3508e48271 in the following files:
+ Between lines 3304 and 3315 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+ Between lines 1165 and 1176 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+ Between lines 419 and 430 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+Found 12 duplicate lines with fingerprint 2d14261d7e3ab4bd4e8866536717f2fb in the following files:
+ Between lines 1494 and 1505 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_utility.cpp
+ Between lines 1449 and 1460 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_utility.cpp
+Found 13 duplicate lines with fingerprint eebcaa99648cf2990b11ad8d376bbac3 in the following files:
+ Between lines 852 and 864 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+ Between lines 3010 and 3022 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+Found 13 duplicate lines with fingerprint b9d81f8128bfc2e11235533ca4c626d7 in the following files:
+ Between lines 4425 and 4438 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\ustring.cpp
+ Between lines 4450 and 4463 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\ustring.cpp
+Found 13 duplicate lines with fingerprint 4a0e723e6dc6af2c521f1ad2baf3dcd7 in the following files:
+ Between lines 206 and 223 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\triangle_mesh.cpp
+ Between lines 314 and 331 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\triangle_mesh.cpp
+Found 13 duplicate lines with fingerprint 48a3baec2123a566892d0e382554f56b in the following files:
+ Between lines 437 and 449 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_call.cpp
+ Between lines 537 and 549 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_call.cpp
+Found 13 duplicate lines with fingerprint 7ba7c8d4400590f6a0384b17a9d86ecd in the following files:
+ Between lines 1378 and 1390 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\image.cpp
+ Between lines 1393 and 1405 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\image.cpp
+Found 13 duplicate lines with fingerprint e7950a9c8de01592d4a1443fcae591e6 in the following files:
+ Between lines 1167 and 1182 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant.cpp
+ Between lines 2699 and 2714 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant.cpp
+Found 13 duplicate lines with fingerprint e03f6eb15aab2961326afc920e10cbbd in the following files:
+ Between lines 337 and 352 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\resource_importer.cpp
+ Between lines 1495 and 1510 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\resource_loader.cpp
+Found 13 duplicate lines with fingerprint 808b7b6badcca313cb5ad48217e49d9a in the following files:
+ Between lines 603 and 615 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+ Between lines 3515 and 3527 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+Found 13 duplicate lines with fingerprint a84460974f190c77049e68cf26886bc0 in the following files:
+ Between lines 477 and 489 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+ Between lines 3363 and 3375 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+Found 14 duplicate lines with fingerprint b8dfa8dad0729e0cb6b6fe9bcd68dac7 in the following files:
+ Between lines 519 and 532 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_call.cpp
+ Between lines 379 and 392 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_call.cpp
+Found 14 duplicate lines with fingerprint 050b5cbdacecd5b0ae6ee3bb8041e71e in the following files:
+ Between lines 653 and 674 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\doc_data.h
+ Between lines 307 and 328 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\doc_data.h
+ Between lines 163 and 184 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\doc_data.h
+Found 14 duplicate lines with fingerprint 4840b1bf57f77d47796b633c487bdab9 in the following files:
+ Between lines 881 and 901 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\a_star.cpp
+ Between lines 563 and 584 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\a_star_grid_2d.cpp
+ Between lines 372 and 392 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\a_star.cpp
+Found 14 duplicate lines with fingerprint 02a77d22daba27ff915468deec162e7d in the following files:
+ Between lines 3707 and 3728 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\ustring.cpp
+ Between lines 3648 and 3669 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\ustring.cpp
+Found 14 duplicate lines with fingerprint d330df9c3419a49f694c862de4186051 in the following files:
+ Between lines 1046 and 1059 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+ Between lines 295 and 308 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+Found 14 duplicate lines with fingerprint 7ade72f0177e8681730baadb4a422d87 in the following files:
+ Between lines 1523 and 1537 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\extension\gdextension_interface.cpp
+ Between lines 1483 and 1497 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\extension\gdextension_interface.cpp
+Found 14 duplicate lines with fingerprint 9d4ffd00c3988a25e09e3456df8a7a95 in the following files:
+ Between lines 3368 and 3382 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\image.cpp
+ Between lines 3283 and 3297 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\image.cpp
+Found 14 duplicate lines with fingerprint 857392cb3c5711d65b7b421abd3dffc4 in the following files:
+ Between lines 3281 and 3294 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+ Between lines 1130 and 1143 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+Found 14 duplicate lines with fingerprint 98ee761fe1f29fd8dbc6dde56f17e378 in the following files:
+ Between lines 794 and 816 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\a_star.cpp
+ Between lines 500 and 522 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\a_star.cpp
+Found 14 duplicate lines with fingerprint 78ecc847fce0d1d6309f9f5d3ca19397 in the following files:
+ Between lines 503 and 516 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_setget.cpp
+ Between lines 435 and 448 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_setget.cpp
+Found 14 duplicate lines with fingerprint db610ef5b6c8d9d028c083e363bc0ef2 in the following files:
+ Between lines 301 and 316 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant.h
+ Between lines 300 and 315 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant.h
+Found 14 duplicate lines with fingerprint b61ff91ed510cfaee1cbd1c7dc1113e9 in the following files:
+ Between lines 409 and 422 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\extension\gdextension.cpp
+ Between lines 369 and 382 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\extension\gdextension.cpp
+ Between lines 329 and 342 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\extension\gdextension.cpp
+Found 15 duplicate lines with fingerprint 2df7e55c969d6eff0a1cf2c0049c1706 in the following files:
+ Between lines 449 and 468 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\ustring.cpp
+ Between lines 481 and 500 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\ustring.cpp
+Found 15 duplicate lines with fingerprint 3d4a90d44639db65283447f9651e0608 in the following files:
+ Between lines 141 and 160 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\templates\list.h
+ Between lines 120 and 139 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\templates\rb_set.h
+Found 15 duplicate lines with fingerprint 8b04b43019343543c794bece549582d5 in the following files:
+ Between lines 1033 and 1056 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\ustring.cpp
+ Between lines 1082 and 1105 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\ustring.cpp
+Found 15 duplicate lines with fingerprint e706055ba0ccda3c260c8e0980e984c7 in the following files:
+ Between lines 1356 and 1370 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_utility.cpp
+ Between lines 1439 and 1453 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_utility.cpp
+Found 15 duplicate lines with fingerprint ce1f929ab4f27602d1ffa1a1d9e97792 in the following files:
+ Between lines 1367 and 1386 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_setget.cpp
+ Between lines 1601 and 1620 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_setget.cpp
+Found 15 duplicate lines with fingerprint fe64660ea10ea497a16e62fa03fc4d8c in the following files:
+ Between lines 311 and 335 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\doc_data.h
+ Between lines 437 and 461 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\doc_data.h
+Found 15 duplicate lines with fingerprint 019328ca2ba08edff138aebacf937014 in the following files:
+ Between lines 289 and 306 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\json.cpp
+ Between lines 249 and 266 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\expression.cpp
+ Between lines 330 and 347 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_parser.cpp
+Found 16 duplicate lines with fingerprint 1eafaf9dba6656623c1f3f2c58b71537 in the following files:
+ Between lines 156 and 177 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\os\thread.h
+ Between lines 70 and 91 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\os\thread.h
+Found 16 duplicate lines with fingerprint b4c73f0a5ec80a4fa491faadbbbdc7c6 in the following files:
+ Between lines 688 and 707 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_utility.cpp
+ Between lines 644 and 663 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_utility.cpp
+Found 16 duplicate lines with fingerprint c9cadec2da5697298fe882468e3b141d in the following files:
+ Between lines 3533 and 3548 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+ Between lines 1408 and 1423 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+ Between lines 621 and 636 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+Found 16 duplicate lines with fingerprint 4c4bb3ae2ac48dd40aa701cc43a2cc60 in the following files:
+ Between lines 228 and 243 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_setget.h
+ Between lines 192 and 207 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_setget.h
+Found 16 duplicate lines with fingerprint 38c5bbadd2e712c6d5312f06a0fff06f in the following files:
+ Between lines 90 and 105 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_setget.h
+ Between lines 54 and 69 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_setget.h
+Found 16 duplicate lines with fingerprint 534ba38dcf98b7684d53b904edc1c3a4 in the following files:
+ Between lines 3304 and 3319 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+ Between lines 419 and 434 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+Found 16 duplicate lines with fingerprint 281471898801f7c50d70063ab9b887ad in the following files:
+ Between lines 159 and 174 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_setget.h
+ Between lines 123 and 138 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_setget.h
+Found 16 duplicate lines with fingerprint 187a5680c6d38774b56f9722fb031e6c in the following files:
+ Between lines 140 and 162 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\object\method_bind_common.h
+ Between lines 56 and 78 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\object\method_bind_common.h
+ Between lines 413 and 435 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\object\method_bind_common.h
+Found 16 duplicate lines with fingerprint 0c0f5472cfe796023315220119ae0362 in the following files:
+ Between lines 641 and 656 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_call.cpp
+ Between lines 589 and 604 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_call.cpp
+Found 17 duplicate lines with fingerprint 0ebf4661c1b81d0d4aa4157749197d71 in the following files:
+ Between lines 333 and 351 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\extension\gdextension.cpp
+ Between lines 293 and 311 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\extension\gdextension.cpp
+Found 17 duplicate lines with fingerprint 07c62ab46f0e76c72ca396b4407927be in the following files:
+ Between lines 349 and 372 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\dynamic_bvh.h
+ Between lines 402 and 424 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\dynamic_bvh.h
+Found 17 duplicate lines with fingerprint 9e4815ef51a2905eb650439c4598cbbc in the following files:
+ Between lines 308 and 324 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+ Between lines 3205 and 3221 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+Found 17 duplicate lines with fingerprint e5398bfd7da55c566881a9aad207779b in the following files:
+ Between lines 140 and 160 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\a_star.h
+ Between lines 199 and 219 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\a_star.h
+Found 17 duplicate lines with fingerprint 5d525c6fd878a67aceef8cd3bf05c112 in the following files:
+ Between lines 368 and 392 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\a_star.cpp
+ Between lines 559 and 584 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\a_star_grid_2d.cpp
+Found 17 duplicate lines with fingerprint 64c619df691070eba3bd25c7d687e0f0 in the following files:
+ Between lines 1465 and 1481 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\extension\gdextension_interface.cpp
+ Between lines 1505 and 1521 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\extension\gdextension_interface.cpp
+Found 17 duplicate lines with fingerprint 30b42b8721b91e84d4f172bf12303bcc in the following files:
+ Between lines 1407 and 1423 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+ Between lines 3532 and 3548 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+Found 18 duplicate lines with fingerprint 60caf6b2c574c7b0c2faeebc9460f760 in the following files:
+ Between lines 464 and 487 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\marshalls.cpp
+ Between lines 370 and 393 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\marshalls.cpp
+Found 18 duplicate lines with fingerprint a4345daaf6801ea354432b5cba775e78 in the following files:
+ Between lines 69 and 89 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\callable_bind.h
+ Between lines 40 and 59 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\callable_bind.h
+Found 18 duplicate lines with fingerprint a98e1ec2f8dbf10aea157be59405e29a in the following files:
+ Between lines 178 and 202 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_caster.h
+ Between lines 163 and 187 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_caster.h
+Found 18 duplicate lines with fingerprint e503b09f8253cf9d6d9b72e0c9f9fd74 in the following files:
+ Between lines 187 and 209 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_parser.cpp
+ Between lines 46 and 68 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\expression.cpp
+Found 18 duplicate lines with fingerprint 101a892267c74f5752fdb3fa0814d220 in the following files:
+ Between lines 3169 and 3186 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+ Between lines 274 and 291 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+ Between lines 1019 and 1036 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+Found 18 duplicate lines with fingerprint 23a129f38c3c6d93750c53eb5a998a46 in the following files:
+ Between lines 454 and 478 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_parser.cpp
+ Between lines 385 and 409 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\expression.cpp
+Found 18 duplicate lines with fingerprint fb1f51216801e5e3fca9144ffb6b6145 in the following files:
+ Between lines 1360 and 1377 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_utility.cpp
+ Between lines 1398 and 1415 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_utility.cpp
+ Between lines 1322 and 1339 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_utility.cpp
+Found 19 duplicate lines with fingerprint 7c93560eba279162fed68dc2a88a428d in the following files:
+ Between lines 53 and 80 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\file_access_memory.h
+ Between lines 88 and 114 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\file_access_zip.h
+Found 19 duplicate lines with fingerprint 4f4151bd93b61816a49b64498e018bc9 in the following files:
+ Between lines 725 and 748 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\basis.cpp
+ Between lines 84 and 107 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\transform_interpolator.cpp
+Found 19 duplicate lines with fingerprint 29269362c74a920dbe5fbaba3412378c in the following files:
+ Between lines 325 and 343 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+ Between lines 3224 and 3242 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+Found 19 duplicate lines with fingerprint 1ca7c67f021db5ce39bcd19c8c38ac37 in the following files:
+ Between lines 1947 and 1965 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant.cpp
+ Between lines 1971 and 1989 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant.cpp
+Found 19 duplicate lines with fingerprint 1504988fdebd3bc59c5e6b3b5e0bed0e in the following files:
+ Between lines 214 and 234 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\expression.cpp
+ Between lines 295 and 315 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_parser.cpp
+ Between lines 259 and 279 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\json.cpp
+Found 20 duplicate lines with fingerprint 0b29fa642c025b5157e8fe1aa6aef27a in the following files:
+ Between lines 746 and 770 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\binder_common.h
+ Between lines 713 and 737 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\binder_common.h
+ Between lines 680 and 704 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\binder_common.h
+ Between lines 634 and 658 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\binder_common.h
+ Between lines 294 and 318 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\binder_common.h
+ Between lines 261 and 285 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\binder_common.h
+ Between lines 228 and 252 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\binder_common.h
+ Between lines 177 and 201 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\binder_common.h
+Found 20 duplicate lines with fingerprint 9aa1ec23d4c7e558bb4bb2dc7e2f8770 in the following files:
+ Between lines 143 and 175 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\templates\rb_set.h
+ Between lines 191 and 221 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\templates\list.h
+Found 20 duplicate lines with fingerprint 053eddf580da057efb0712f5bccbe08f in the following files:
+ Between lines 317 and 338 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\json.cpp
+ Between lines 281 and 302 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\json.cpp
+Found 20 duplicate lines with fingerprint 5d2a6c84e58fd84fabdc7faf339c4634 in the following files:
+ Between lines 3095 and 3114 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+ Between lines 944 and 963 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+ Between lines 209 and 228 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+Found 21 duplicate lines with fingerprint 3df7b1b048aa80863f006b14cc59ddf0 in the following files:
+ Between lines 553 and 573 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_call.cpp
+ Between lines 608 and 628 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_call.cpp
+Found 21 duplicate lines with fingerprint 7f5ff0f281804ac07423c03ad54a573f in the following files:
+ Between lines 1418 and 1438 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_utility.cpp
+ Between lines 1463 and 1483 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_utility.cpp
+Found 21 duplicate lines with fingerprint 9dc42dc30a0468e6eac95660c4b78d37 in the following files:
+ Between lines 54 and 82 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\object\method_bind_common.h
+ Between lines 138 and 166 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\object\method_bind_common.h
+Found 21 duplicate lines with fingerprint 547fc540879cec7a50c300734c5d0ee7 in the following files:
+ Between lines 283 and 307 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_construct.h
+ Between lines 340 and 364 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_construct.h
+Found 22 duplicate lines with fingerprint bf06d4fed33a21dae646f9f140e2d58d in the following files:
+ Between lines 147 and 182 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\dynamic_bvh.h
+ Between lines 271 and 306 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\aabb.h
+Found 22 duplicate lines with fingerprint d7e23c2f7b95a1f93431aaedb8ee13ea in the following files:
+ Between lines 611 and 641 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\ustring.cpp
+ Between lines 554 and 584 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\ustring.cpp
+Found 22 duplicate lines with fingerprint 04028e09b6bfb6cd9f3a11be75591666 in the following files:
+ Between lines 161 and 190 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\templates\rb_set.h
+ Between lines 191 and 220 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\templates\rb_map.h
+Found 23 duplicate lines with fingerprint 8eaf02e131672a9b9a129ae5c589d172 in the following files:
+ Between lines 249 and 281 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\triangle_mesh.cpp
+ Between lines 357 and 389 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\triangle_mesh.cpp
+ Between lines 460 and 492 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\triangle_mesh.cpp
+Found 23 duplicate lines with fingerprint af2990d2eaa4849ee2eaec08815ba30d in the following files:
+ Between lines 225 and 256 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\object\method_bind_common.h
+ Between lines 320 and 351 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\object\method_bind_common.h
+ Between lines 471 and 502 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\object\method_bind_common.h
+Found 23 duplicate lines with fingerprint 231dbebc9e31b6f3d03ce9781dd78c60 in the following files:
+ Between lines 334 and 356 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_setget.cpp
+ Between lines 407 and 429 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_setget.cpp
+Found 23 duplicate lines with fingerprint a98d603e050a2a825007098d48171473 in the following files:
+ Between lines 213 and 238 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\expression.cpp
+ Between lines 294 and 319 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_parser.cpp
+Found 23 duplicate lines with fingerprint 2aa3da21d30c0f80b2ba8617b1c2b1a0 in the following files:
+ Between lines 382 and 404 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_call.cpp
+ Between lines 422 and 444 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_call.cpp
+Found 23 duplicate lines with fingerprint bba2a5d72da561e0c27be217579d3fa0 in the following files:
+ Between lines 172 and 200 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\quaternion.cpp
+ Between lines 223 and 251 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\quaternion.cpp
+Found 25 duplicate lines with fingerprint 462c9ef61dab76394483221e39162741 in the following files:
+ Between lines 363 and 389 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\extension\gdextension.cpp
+ Between lines 403 and 429 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\extension\gdextension.cpp
+Found 25 duplicate lines with fingerprint f17e96859093cb0b4ee67a68ba0b6479 in the following files:
+ Between lines 73 and 107 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\file_access_compressed.h
+ Between lines 68 and 102 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\file_access_encrypted.h
+Found 25 duplicate lines with fingerprint 3dc608c47b711a9e01cd7dc6b5cfddcd in the following files:
+ Between lines 248 and 280 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\expression.cpp
+ Between lines 329 and 361 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_parser.cpp
+Found 25 duplicate lines with fingerprint 4fc15e91154a04eb49686f847d6fd6c1 in the following files:
+ Between lines 1057 and 1091 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\resource_format_binary.cpp
+ Between lines 1098 and 1132 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\io\resource_format_binary.cpp
+Found 26 duplicate lines with fingerprint 12bd3518442feaa023f7b3b2a633e8af in the following files:
+ Between lines 3168 and 3193 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+ Between lines 273 and 298 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+Found 28 duplicate lines with fingerprint d849931cfae2fa749b9a458c26d81ecc in the following files:
+ Between lines 3095 and 3122 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+ Between lines 209 and 236 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+Found 28 duplicate lines with fingerprint ad5a38e2c4bb1b1fa23f17a310a0c6b6 in the following files:
+ Between lines 318 and 355 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\object\method_bind_common.h
+ Between lines 223 and 260 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\object\method_bind_common.h
+Found 28 duplicate lines with fingerprint f62d05ba3c8e1da8706d3eb219c97f12 in the following files:
+ Between lines 60 and 95 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\rect2.cpp
+ Between lines 195 and 230 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\aabb.cpp
+Found 29 duplicate lines with fingerprint fa83327915f382fa78b558e1a7275c3f in the following files:
+ Between lines 130 and 158 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\math_funcs.cpp
+ Between lines 335 and 363 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\templates\hashfuncs.h
+Found 30 duplicate lines with fingerprint f304800c84841ef67f1184ef7bfd2c32 in the following files:
+ Between lines 3550 and 3579 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+ Between lines 1434 and 1463 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+ Between lines 637 and 666 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+Found 30 duplicate lines with fingerprint 0ed5a1037d95a74dfa47bb8faef02201 in the following files:
+ Between lines 273 and 316 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\string_name.cpp
+ Between lines 216 and 260 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\string_name.cpp
+Found 32 duplicate lines with fingerprint fbf608f121fbbb70a6acafdba52242ab in the following files:
+ Between lines 3550 and 3581 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+ Between lines 637 and 668 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+Found 32 duplicate lines with fingerprint cb115a7a46889e3291bb9c4b4baf3975 in the following files:
+ Between lines 450 and 481 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_setget.cpp
+ Between lines 372 and 403 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_setget.cpp
+Found 33 duplicate lines with fingerprint 4a2db429baf462fd3ca8ec138bcc65b3 in the following files:
+ Between lines 691 and 723 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+ Between lines 3608 and 3640 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+ Between lines 1499 and 1531 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+Found 34 duplicate lines with fingerprint 67c2e4d0828b103e940ad2bcb30f76ae in the following files:
+ Between lines 3607 and 3640 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+ Between lines 690 and 723 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+Found 35 duplicate lines with fingerprint ef23f23d7185026d91f7b75ca3d539a1 in the following files:
+ Between lines 244 and 294 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\templates\local_vector.h
+ Between lines 252 and 302 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\templates\vector.h
+Found 35 duplicate lines with fingerprint 693dd1a527ccdd0ea8d6c1d371ae2c93 in the following files:
+ Between lines 736 and 796 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\templates\rb_map.h
+ Between lines 642 and 702 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\templates\rb_set.h
+Found 37 duplicate lines with fingerprint 6644f3bf63fe0441c457159a5d9b9a95 in the following files:
+ Between lines 234 and 291 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\triangle_mesh.cpp
+ Between lines 342 and 399 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\math\triangle_mesh.cpp
+Found 37 duplicate lines with fingerprint 2026528a1b41c543f2fb4719fdbc617b in the following files:
+ Between lines 387 and 432 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\templates\rb_map.h
+ Between lines 340 and 385 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\templates\rb_set.h
+Found 39 duplicate lines with fingerprint c1e6217e369acb005d6a76f202c44caf in the following files:
+ Between lines 436 and 474 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+ Between lines 3321 and 3359 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+Found 39 duplicate lines with fingerprint 70305d89587d26d4e1f3dbde15c5fe15 in the following files:
+ Between lines 3326 and 3364 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+ Between lines 1190 and 1228 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\string\char_range.cpp
+Found 65 duplicate lines with fingerprint 4aa8f3f13e5cdbaf39d46971d86a33db in the following files:
+ Between lines 222 and 321 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\templates\rb_map.h
+ Between lines 192 and 291 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\templates\rb_set.h
+Found 83 duplicate lines with fingerprint 55a3cfa3bb785058af61f41adffda006 in the following files:
+ Between lines 383 and 466 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_internal.h
+ Between lines 469 and 552 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant_internal.h
+Found 109 duplicate lines with fingerprint 2c28f022aa7d43c29a7310142d5b5873 in the following files:
+ Between lines 462 and 615 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\templates\rb_map.h
+ Between lines 413 and 566 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\templates\rb_set.h
+Found 194 duplicate lines with fingerprint 5c062003f7c35d85edaca64d1ae15b0f in the following files:
+ Between lines 615 and 885 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant.cpp
+ Between lines 272 and 542 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\core\variant\variant.cpp
+Found 6062 duplicate lines in 329 blocks in 76 files
+Processed a total of 108084 significant (174198 raw) lines in 442 files
+Processing time: 1.124sec

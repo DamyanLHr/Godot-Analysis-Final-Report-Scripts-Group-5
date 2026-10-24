@@ -1,0 +1,77 @@
+Similarity Analyser 2.5.10 - http://www.harukizaemon.com/simian
+Copyright (c) 2003-2018 Simon Harris.  All rights reserved.
+Simian is not free unless used solely for non-commercial or evaluation purposes.
+{failOnDuplication=true, ignoreCharacterCase=true, ignoreCurlyBraces=true, ignoreIdentifierCase=true, ignoreModifiers=true, ignoreStringCase=true, language=C++, threshold=6}
+Found 6 duplicate lines with fingerprint ffe647a306a7ee79c67d30f3a402c354 in the following files:
+ Between lines 5295 and 5302 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\main.cpp
+ Between lines 860 and 867 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\main.cpp
+Found 7 duplicate lines with fingerprint 358e0bf23055771187aa92d85950767b in the following files:
+ Between lines 898 and 904 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\main.cpp
+ Between lines 3407 and 3413 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\main.cpp
+Found 7 duplicate lines with fingerprint f4c4be5c705428d22277d239c6f76778 in the following files:
+ Between lines 528 and 534 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 527 and 533 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 526 and 532 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 525 and 531 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 524 and 530 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 523 and 529 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 522 and 528 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 521 and 527 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 520 and 526 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 519 and 525 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 518 and 524 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 517 and 523 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 516 and 522 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 515 and 521 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 514 and 520 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 513 and 519 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 512 and 518 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 511 and 517 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 510 and 516 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 539 and 545 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 538 and 544 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 537 and 543 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 536 and 542 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 493 and 499 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+Found 8 duplicate lines with fingerprint a6a69c91fbbf1de4a06f4c72c4000938 in the following files:
+ Between lines 1679 and 1688 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\main.cpp
+ Between lines 1664 and 1673 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\main.cpp
+Found 8 duplicate lines with fingerprint 5db971fb7e2212e6d1c084bfec3b788a in the following files:
+ Between lines 5305 and 5312 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\main.cpp
+ Between lines 880 and 887 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\main.cpp
+Found 9 duplicate lines with fingerprint 1331bcbbbfca9674129377fa2551bf71 in the following files:
+ Between lines 775 and 785 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\main.cpp
+ Between lines 3777 and 3787 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\main.cpp
+Found 9 duplicate lines with fingerprint 03cba313a222e4de8019c61c44ed634b in the following files:
+ Between lines 490 and 498 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 500 and 508 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+Found 10 duplicate lines with fingerprint fc5f3d6dc3e4f5024d1934a39e04b3f7 in the following files:
+ Between lines 536 and 545 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 525 and 534 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 524 and 533 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 523 and 532 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 522 and 531 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 521 and 530 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 520 and 529 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 519 and 528 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 518 and 527 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 517 and 526 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 516 and 525 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 515 and 524 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 514 and 523 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 513 and 522 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 512 and 521 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 511 and 520 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 510 and 519 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+Found 17 duplicate lines with fingerprint 46b33019c80941a292ac8aaccf466cf3 in the following files:
+ Between lines 807 and 827 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\main.cpp
+ Between lines 3738 and 3759 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\main.cpp
+Found 17 duplicate lines with fingerprint d39c30a7101ecd062d2f7a8b16918c4e in the following files:
+ Between lines 709 and 729 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\main.cpp
+ Between lines 3209 and 3228 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\main.cpp
+Found 24 duplicate lines with fingerprint cfcd208495d565ef66e7dff9f98764da in the following files:
+ Between lines 511 and 534 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+ Between lines 510 and 533 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-split\main\performance.cpp
+Found 227 duplicate lines in 20 blocks in 2 files
+Processed a total of 4671 significant (7242 raw) lines in 9 files
+Processing time: 0.153sec

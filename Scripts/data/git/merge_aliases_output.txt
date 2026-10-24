@@ -1,0 +1,10 @@
+[merge_aliases] raw (name,email) identities with non-merge commits in window: 644
+  measure 1 .mailmap + same e-mail + same PR login and name : 602 people (79 raw identities in 37 multi-identity groups)
+  measure 2 gambit   : 601 people (81 raw identities in 38 multi-identity groups)
+  pairs merged by both: 43; mailmap only: 4; gambit only: 5
+  largest .mailmap groups:
+    ardev1.deverson@proton.me: AR <ardev1.deverson@proton.me>; AR-DEV-1 <115883839+Shakai-Dev@users.noreply.github.com>; AR-DEV-1 <mail.ardev1@protonmail.com>
+    bruvzg: Pāvels Nadtočajevs <7645683+bruvzg@users.noreply.github.com>; Pāvels Nadtočajevs <7645683+bruvzg@users.noreply.github.com>; bruvzg <7645683+bruvzg@users.noreply.github.com>
+    cykyrios: Cykyrios <cykyrios@gmail.com>; Cyril B. <53737317+Cykyrios@users.noreply.github.com>; Cyril Bissey <53737317+Cykyrios@users.noreply.github.com>
+    devloglogan@gmail.com: Logan <devloglogan@gmail.com>; Logan Lang <devloglogan@gmail.com>; devloglogan <devloglogan@gmail.com>
+    schneiderlanza@gmail.com: Lanza <schneiderlanza@gmail.com>; LanzaSchneider <lanzaschneider@conchship.net>; LanzaSchneider <schneiderlanza@gmail.com>

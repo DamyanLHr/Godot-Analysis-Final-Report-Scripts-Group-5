@@ -1,0 +1,1051 @@
+Similarity Analyser 2.5.10 - http://www.harukizaemon.com/simian
+Copyright (c) 2003-2018 Simon Harris.  All rights reserved.
+Simian is not free unless used solely for non-commercial or evaluation purposes.
+{failOnDuplication=true, ignoreCharacterCase=true, ignoreCurlyBraces=true, ignoreIdentifierCase=true, ignoreModifiers=true, ignoreStringCase=true, language=C++, threshold=10}
+Found 10 duplicate lines with fingerprint 8616fb24cf30d7aff40c409d3ab6d303 in the following files:
+ Between lines 3227 and 3238 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\text_edit.cpp
+ Between lines 1019 and 1030 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\line_edit.cpp
+Found 10 duplicate lines with fingerprint 12d6f4b8fe346badfeba50ea9eee7ecb in the following files:
+ Between lines 648 and 661 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.h
+ Between lines 181 and 194 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\label_3d.h
+Found 10 duplicate lines with fingerprint 057d0e75de7db9cc46c4c5524df0effe in the following files:
+ Between lines 2269 and 2284 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\mesh.cpp
+ Between lines 1521 and 1536 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\importer_mesh.cpp
+Found 10 duplicate lines with fingerprint e16ee3c95aca57bd09a2d0019b9548d9 in the following files:
+ Between lines 144 and 157 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\rigid_body_3d.h
+ Between lines 149 and 162 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\rigid_body_2d.h
+Found 10 duplicate lines with fingerprint 4e4b2381354e6225de6f5cec514b07e1 in the following files:
+ Between lines 1437 and 1454 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\main\scene_tree.cpp
+ Between lines 517 and 532 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\main\scene_tree.cpp
+ Between lines 455 and 469 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\main\scene_tree.cpp
+Found 10 duplicate lines with fingerprint 99576fc0ab46fadebfa74ba26643b6ba in the following files:
+ Between lines 498 and 509 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\shape_cast_3d.cpp
+ Between lines 398 and 409 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\shape_cast_2d.cpp
+Found 10 duplicate lines with fingerprint 0095f6213cedb02754de71dd98f20264 in the following files:
+ Between lines 2068 and 2082 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+ Between lines 1150 and 1164 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+ Between lines 590 and 604 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+ Between lines 538 and 552 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+ Between lines 491 and 505 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+Found 10 duplicate lines with fingerprint 5f1c5a22c7c8e4aea53745f506e9719d in the following files:
+ Between lines 833 and 848 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\navigation\navigation_agent_3d.cpp
+ Between lines 763 and 778 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\navigation\navigation_agent_2d.cpp
+Found 10 duplicate lines with fingerprint 582a551c4722b98f5b48ceb4369659a1 in the following files:
+ Between lines 418 and 427 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\area_3d.cpp
+ Between lines 266 and 275 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\area_2d.cpp
+Found 10 duplicate lines with fingerprint 34cfed73a21113190ae2c941776ccdf1 in the following files:
+ Between lines 118 and 128 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\spline_ik_3d.h
+ Between lines 96 and 106 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\spline_ik_3d.h
+Found 10 duplicate lines with fingerprint 298eff2183b8366a4f3073dec1c5da94 in the following files:
+ Between lines 39 and 50 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\character_body_3d.h
+ Between lines 39 and 50 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\character_body_2d.h
+Found 10 duplicate lines with fingerprint 269ed5573e77012f262c5ac12dc6125c in the following files:
+ Between lines 2176 and 2190 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\main\window.cpp
+ Between lines 2137 and 2151 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\main\window.cpp
+Found 10 duplicate lines with fingerprint 4ce90e7596458d33bff626ab1585cc9f in the following files:
+ Between lines 212 and 221 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\area_3d.cpp
+ Between lines 155 and 164 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\area_2d.cpp
+Found 10 duplicate lines with fingerprint 4897536a3d6e39240d8343c0cc58c7df in the following files:
+ Between lines 402 and 413 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\area_3d.cpp
+ Between lines 250 and 261 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\area_2d.cpp
+Found 10 duplicate lines with fingerprint 64e600bbed1ffc3d1c056051c594fa59 in the following files:
+ Between lines 378 and 390 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\shape_cast_3d.cpp
+ Between lines 141 and 155 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\ray_cast_3d.cpp
+Found 10 duplicate lines with fingerprint 1325784a72597f3b149a5f3855c4ad26 in the following files:
+ Between lines 556 and 567 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\area_3d.cpp
+ Between lines 483 and 495 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\area_2d.cpp
+Found 10 duplicate lines with fingerprint f07e8d6e653078b5334a7abf31f4d403 in the following files:
+ Between lines 102 and 115 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\shape_cast_3d.h
+ Between lines 85 and 98 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\shape_cast_2d.h
+Found 10 duplicate lines with fingerprint 2f978fa9f0ca8001b337ce7a430e08e3 in the following files:
+ Between lines 147 and 160 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\area_3d.h
+ Between lines 137 and 150 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\area_2d.h
+Found 10 duplicate lines with fingerprint da789a5f71df84aff811017e7f338288 in the following files:
+ Between lines 508 and 521 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\file_dialog.cpp
+ Between lines 186 and 199 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\file_dialog.cpp
+Found 10 duplicate lines with fingerprint b91404b2925cb610df976a6929877d16 in the following files:
+ Between lines 80 and 92 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\particle_process_material.h
+ Between lines 72 and 83 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\cpu_particles_3d.h
+Found 10 duplicate lines with fingerprint 6d501e03231058672bf4f553543b61fd in the following files:
+ Between lines 7592 and 7601 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\rich_text_label.cpp
+ Between lines 7336 and 7345 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\rich_text_label.cpp
+Found 10 duplicate lines with fingerprint e6539f84baffafab5d0c65d549f70936 in the following files:
+ Between lines 41 and 54 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\rigid_body_3d.h
+ Between lines 42 and 55 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\rigid_body_2d.h
+Found 10 duplicate lines with fingerprint d43171e9e88cc9c7df8559398539de9e in the following files:
+ Between lines 1785 and 1796 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\color_picker.cpp
+ Between lines 1597 and 1609 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\color_picker.cpp
+Found 10 duplicate lines with fingerprint 7b249bb4c1e38a03417ca147fbd34619 in the following files:
+ Between lines 427 and 438 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\animation\animation_blend_space_2d.cpp
+ Between lines 375 and 386 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\animation\animation_blend_space_1d.cpp
+Found 10 duplicate lines with fingerprint aa264bf331c48a4f8ff843218aecd65d in the following files:
+ Between lines 483 and 496 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\main\window.h
+ Between lines 795 and 808 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\control.h
+Found 10 duplicate lines with fingerprint eef4879db567755536e87158d6e1e734 in the following files:
+ Between lines 481 and 490 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\graph_node.cpp
+ Between lines 403 and 412 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\graph_node.cpp
+Found 10 duplicate lines with fingerprint 09b60b44069be4cda7a8bd85ddf2cf85 in the following files:
+ Between lines 94 and 108 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\main\scene_tree_fti_tests.cpp
+ Between lines 486 and 510 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\main\scene_tree_fti.cpp
+Found 10 duplicate lines with fingerprint 54fef2d783a6900872a924009f5998ac in the following files:
+ Between lines 177 and 189 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\shape_cast_2d.cpp
+ Between lines 122 and 136 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\ray_cast_2d.cpp
+Found 10 duplicate lines with fingerprint 6a84b6e7670816ac7271f7151c453ccf in the following files:
+ Between lines 284 and 296 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\audio\audio_stream_polyphonic.cpp
+ Between lines 269 and 281 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\audio\audio_stream_polyphonic.cpp
+Found 10 duplicate lines with fingerprint 31842297acf287a82dc7da34d01ec4c8 in the following files:
+ Between lines 1541 and 1555 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\main\window.cpp
+ Between lines 311 and 326 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\control.cpp
+Found 10 duplicate lines with fingerprint 1f4daf0d840a6d49da966acd7a6f1e69 in the following files:
+ Between lines 63 and 73 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\link_button.h
+ Between lines 80 and 90 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\button.h
+Found 10 duplicate lines with fingerprint 8f2d27854ad91d48429fff0108da7ad0 in the following files:
+ Between lines 233 and 247 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\code_edit.cpp
+ Between lines 111 and 124 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\code_edit.cpp
+Found 10 duplicate lines with fingerprint e2f6f368a25d52950cd4c0b7b0f633c0 in the following files:
+ Between lines 106 and 119 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\path_3d.h
+ Between lines 94 and 107 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\path_2d.h
+Found 10 duplicate lines with fingerprint e1dc9ceae85c3f0735b8dbdd2d6e84e5 in the following files:
+ Between lines 1007 and 1016 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\label.cpp
+ Between lines 873 and 882 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\label.cpp
+Found 10 duplicate lines with fingerprint b1e086011d68c88844d95037f27b8253 in the following files:
+ Between lines 1232 and 1243 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+ Between lines 1185 and 1196 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+Found 10 duplicate lines with fingerprint 5d16cd0999d75516d17da559b2aa2c60 in the following files:
+ Between lines 54 and 66 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\navigation\navigation_link_3d.h
+ Between lines 49 and 61 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\navigation\navigation_link_2d.h
+Found 10 duplicate lines with fingerprint 6c665e65c09aa70ebb12cca3ad952300 in the following files:
+ Between lines 3208 and 3225 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\text_edit.cpp
+ Between lines 1001 and 1017 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\line_edit.cpp
+Found 10 duplicate lines with fingerprint 927c0ffb61bbf52aaab6517b30a4abda in the following files:
+ Between lines 531 and 544 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\file_dialog.cpp
+ Between lines 209 and 222 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\file_dialog.cpp
+Found 10 duplicate lines with fingerprint 19ca796e2e44cda7ed32e1412e3437df in the following files:
+ Between lines 40 and 52 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\visible_on_screen_notifier_3d.h
+ Between lines 42 and 54 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\visible_on_screen_notifier_2d.h
+Found 10 duplicate lines with fingerprint f589024c1bdd28c4fa7d6387dc4eca24 in the following files:
+ Between lines 252 and 263 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\navigation\navigation_link_3d.cpp
+ Between lines 111 and 122 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\navigation\navigation_link_2d.cpp
+Found 10 duplicate lines with fingerprint 81fc687bdcbb67c092592c66ec73dc2d in the following files:
+ Between lines 493 and 502 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\audio\audio_stream_wav.cpp
+ Between lines 229 and 238 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\audio\audio_stream_wav.cpp
+Found 10 duplicate lines with fingerprint 30d5e7ce6eb27ec5ae74250054ca36e0 in the following files:
+ Between lines 1363 and 1375 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\control.cpp
+ Between lines 1229 and 1241 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\control.cpp
+Found 10 duplicate lines with fingerprint 801855ea3a80f1c8c080bfc56ce329f8 in the following files:
+ Between lines 651 and 664 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\audio_stream_player_3d.cpp
+ Between lines 246 and 259 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\audio_stream_player_2d.cpp
+Found 10 duplicate lines with fingerprint 00b58880c7f143b2cda4a1ec696f7263 in the following files:
+ Between lines 232 and 242 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\cpu_particles_3d.h
+ Between lines 234 and 244 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\cpu_particles_2d.h
+Found 10 duplicate lines with fingerprint ab4288f50efed98b51758f40d78cf72e in the following files:
+ Between lines 77 and 90 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\menu_bar.cpp
+ Between lines 55 and 68 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\menu_bar.cpp
+Found 10 duplicate lines with fingerprint 712599a18b75e3b8ab60715680bcf69e in the following files:
+ Between lines 44 and 57 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\navigation_mesh_source_geometry_data_3d.h
+ Between lines 46 and 59 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\2d\navigation_mesh_source_geometry_data_2d.h
+Found 10 duplicate lines with fingerprint 9ded02c20e8fdd4da988bdd471a10960 in the following files:
+ Between lines 428 and 440 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\main\scene_tree.cpp
+ Between lines 410 and 422 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\main\scene_tree.cpp
+Found 10 duplicate lines with fingerprint e7ec1d6fca24a38e5e76ff01550ebfb7 in the following files:
+ Between lines 570 and 582 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+ Between lines 471 and 483 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+Found 10 duplicate lines with fingerprint 688692f3827d31e457e38dd0c4ed82ef in the following files:
+ Between lines 96 and 107 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\animatable_body_3d.cpp
+ Between lines 83 and 94 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\animatable_body_2d.cpp
+Found 10 duplicate lines with fingerprint e94863c839d5cc0509cd3fb5bea7aeff in the following files:
+ Between lines 847 and 859 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\spring_bone_simulator_3d.cpp
+ Between lines 133 and 146 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\bone_constraint_3d.cpp
+Found 10 duplicate lines with fingerprint 8959118cd9596b13a9e3130a02a5fcb2 in the following files:
+ Between lines 90 and 103 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\mesh_library.cpp
+ Between lines 59 and 72 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\mesh_library.cpp
+Found 10 duplicate lines with fingerprint 36b0eb2836884d0fb8a8290cbeb15055 in the following files:
+ Between lines 162 and 175 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\lightmap_gi.cpp
+ Between lines 127 and 140 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\lightmap_gi.cpp
+Found 10 duplicate lines with fingerprint 512f4c9da23a1d31b197c8d2c71d3474 in the following files:
+ Between lines 61 and 72 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\multimesh_instance_2d.h
+ Between lines 59 and 70 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\mesh_instance_2d.h
+Found 10 duplicate lines with fingerprint 893b4c8a453155f6d68f2157887e8d46 in the following files:
+ Between lines 3159 and 3172 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\text_edit.cpp
+ Between lines 953 and 967 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\line_edit.cpp
+Found 10 duplicate lines with fingerprint 8ff7aaccf212d87fdddb041ec7546063 in the following files:
+ Between lines 40 and 52 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\panel_container.h
+ Between lines 43 and 55 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\margin_container.h
+Found 10 duplicate lines with fingerprint 886d3fd0544e55f57649a4e29fc9bddd in the following files:
+ Between lines 3480 and 3494 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\font.cpp
+ Between lines 3082 and 3096 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\font.cpp
+Found 10 duplicate lines with fingerprint de3a7c40c934ebe3935c4f360922ff59 in the following files:
+ Between lines 196 and 207 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\area_3d.cpp
+ Between lines 139 and 150 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\area_2d.cpp
+Found 10 duplicate lines with fingerprint a004a27995bad57ecc2be579b00774ea in the following files:
+ Between lines 180 and 192 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\animation\animation_blend_space_2d.h
+ Between lines 145 and 157 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\animation\animation_blend_space_1d.h
+Found 10 duplicate lines with fingerprint 08292e8a18cb6c538b4c35b6eac0380f in the following files:
+ Between lines 768 and 782 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\mesh_instance_3d.cpp
+ Between lines 584 and 598 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\mesh_instance_3d.cpp
+Found 10 duplicate lines with fingerprint dade055e8833c2d8600a48ad930f718d in the following files:
+ Between lines 130 and 143 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\immediate_mesh.cpp
+ Between lines 108 and 121 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\immediate_mesh.cpp
+Found 10 duplicate lines with fingerprint d54bf4cb0c33b4cf0784afad0cd5a65d in the following files:
+ Between lines 227 and 239 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\camera_3d.cpp
+ Between lines 92 and 104 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\audio_listener_3d.cpp
+Found 10 duplicate lines with fingerprint 169999677d2bef835963f37f89ccfdcc in the following files:
+ Between lines 278 and 287 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\color_mode.cpp
+ Between lines 181 and 190 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\color_mode.cpp
+ Between lines 80 and 89 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\color_mode.cpp
+Found 10 duplicate lines with fingerprint c5c55dee0f01edf060b08ab1d20365e2 in the following files:
+ Between lines 629 and 643 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\animation\animation_blend_space_2d.cpp
+ Between lines 456 and 470 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\animation\animation_blend_space_1d.cpp
+Found 10 duplicate lines with fingerprint 3d0d37780bc9e05bef6bd042f5c233a7 in the following files:
+ Between lines 161 and 175 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\particle_process_material.cpp
+ Between lines 658 and 672 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\material.cpp
+Found 10 duplicate lines with fingerprint 5d141ba485a8a69d63d269d9d81c5a06 in the following files:
+ Between lines 207 and 220 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\sprite_3d.h
+ Between lines 120 and 133 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\sprite_2d.h
+Found 10 duplicate lines with fingerprint 911955da4933d1241e51d07ce628dae8 in the following files:
+ Between lines 192 and 208 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\compressed_texture.h
+ Between lines 114 and 130 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\compressed_texture.h
+Found 10 duplicate lines with fingerprint 62b44dbb7c91f51d4ea88eda28ae1a9b in the following files:
+ Between lines 6603 and 6615 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\text_edit.cpp
+ Between lines 6562 and 6574 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\text_edit.cpp
+Found 10 duplicate lines with fingerprint 534808b9a718d4b17e9a3940834f26b9 in the following files:
+ Between lines 125 and 135 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\navigation\navigation_obstacle_3d.cpp
+ Between lines 113 and 123 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\navigation\navigation_obstacle_2d.cpp
+Found 10 duplicate lines with fingerprint bafa3755a18bc9fce07dffa746712669 in the following files:
+ Between lines 118 and 130 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\main\scene_tree_fti_tests.cpp
+ Between lines 545 and 562 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\main\scene_tree_fti.cpp
+Found 10 duplicate lines with fingerprint c92ca553dcc4cf526904bf06009bb49f in the following files:
+ Between lines 91 and 100 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\main\window.h
+ Between lines 157 and 166 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\control.h
+Found 10 duplicate lines with fingerprint 92d7b8d559c7e684c4863b4107c46b18 in the following files:
+ Between lines 518 and 530 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\area_3d.cpp
+ Between lines 466 and 478 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\area_2d.cpp
+Found 10 duplicate lines with fingerprint ee4137aa40322b5f55cf95383893ce10 in the following files:
+ Between lines 39 and 50 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\cylinder_shape_3d.h
+ Between lines 39 and 51 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\capsule_shape_3d.h
+Found 10 duplicate lines with fingerprint 63412ac72519afd46ec41ea507ffcf04 in the following files:
+ Between lines 462 and 471 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\graph_node.cpp
+ Between lines 383 and 392 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\graph_node.cpp
+Found 10 duplicate lines with fingerprint f437e4f38ae510526291eff3cbab0a2a in the following files:
+ Between lines 271 and 283 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\rigid_body_3d.cpp
+ Between lines 635 and 647 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\rigid_body_2d.cpp
+Found 10 duplicate lines with fingerprint fb0c604864c8254ad88ddfb8120ad339 in the following files:
+ Between lines 2048 and 2058 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\popup_menu.cpp
+ Between lines 2017 and 2027 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\popup_menu.cpp
+ Between lines 1986 and 1996 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\popup_menu.cpp
+ Between lines 1955 and 1965 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\popup_menu.cpp
+ Between lines 1925 and 1935 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\popup_menu.cpp
+ Between lines 1896 and 1906 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\popup_menu.cpp
+Found 10 duplicate lines with fingerprint a1df31d62d7ecf9d444573ca2272dfc0 in the following files:
+ Between lines 459 and 471 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\path_3d.cpp
+ Between lines 427 and 438 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\path_2d.cpp
+Found 10 duplicate lines with fingerprint 4f293751bb87ba336970a9cf680e4a97 in the following files:
+ Between lines 191 and 204 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\rigid_body_3d.h
+ Between lines 274 and 287 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\physical_bone_3d.h
+ Between lines 176 and 189 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\rigid_body_2d.h
+Found 10 duplicate lines with fingerprint df1aba4d370f3355d8bfa46aa11997e7 in the following files:
+ Between lines 114 and 129 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\remote_transform_3d.cpp
+ Between lines 123 and 138 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\remote_transform_2d.cpp
+Found 10 duplicate lines with fingerprint d330691c32146d80c5676f089e975a80 in the following files:
+ Between lines 86 and 99 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\portable_compressed_texture.h
+ Between lines 58 and 71 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\image_texture.h
+Found 11 duplicate lines with fingerprint b1035c5d8cf817d3b72436566139f17f in the following files:
+ Between lines 2016 and 2027 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\popup_menu.cpp
+ Between lines 2047 and 2058 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\popup_menu.cpp
+Found 11 duplicate lines with fingerprint de6ab7d993cc324eba67f4e15e76658e in the following files:
+ Between lines 832 and 842 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\animation\animation_mixer.cpp
+ Between lines 947 and 957 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\animation\animation_mixer.cpp
+Found 11 duplicate lines with fingerprint 8cdfb43c516bf1f291d446892d047359 in the following files:
+ Between lines 66 and 80 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\check_box.cpp
+ Between lines 70 and 84 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\check_button.cpp
+Found 11 duplicate lines with fingerprint d1345f7ec27c30dea8dfdcfe97fe08ac in the following files:
+ Between lines 1954 and 1965 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\popup_menu.cpp
+ Between lines 1985 and 1996 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\popup_menu.cpp
+Found 11 duplicate lines with fingerprint 0b8c763e14ef615fa53ce5784e7cd6b9 in the following files:
+ Between lines 66 and 81 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\navigation\navigation_link_2d.h
+ Between lines 70 and 85 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\navigation\navigation_link_3d.h
+Found 11 duplicate lines with fingerprint 421d52aacba993efcb0e52177238209f in the following files:
+ Between lines 337 and 347 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\graph_node.cpp
+ Between lines 500 and 510 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\graph_node.cpp
+Found 11 duplicate lines with fingerprint c20397c3065b38c5c96ca8a4e255cb04 in the following files:
+ Between lines 110 and 125 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\navigation\navigation_obstacle_2d.h
+ Between lines 119 and 134 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\navigation\navigation_obstacle_3d.h
+Found 11 duplicate lines with fingerprint c9477c121d429fdfca1d80d534429475 in the following files:
+ Between lines 150 and 161 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\label.cpp
+ Between lines 226 and 237 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\label.cpp
+Found 11 duplicate lines with fingerprint 08dfd661121eadf05ef70468d4ed0a82 in the following files:
+ Between lines 3791 and 3806 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+ Between lines 3071 and 3086 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\font.cpp
+Found 11 duplicate lines with fingerprint 632dd91a935bae3666d3a8c0e2bf0ebc in the following files:
+ Between lines 1821 and 1832 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\main\scene_tree.cpp
+ Between lines 1857 and 1868 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\main\scene_tree.cpp
+Found 11 duplicate lines with fingerprint ed42795f088ef75d6bed66b61046f22b in the following files:
+ Between lines 1239 and 1252 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\resource_format_text.cpp
+ Between lines 1278 and 1291 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\resource_format_text.cpp
+Found 11 duplicate lines with fingerprint 9a410f967b13acfa43c71d0c9327ddab in the following files:
+ Between lines 38 and 52 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\world_boundary_shape_3d.cpp
+ Between lines 67 and 81 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\world_boundary_shape_3d.cpp
+Found 11 duplicate lines with fingerprint 324a168a1461586d5a6e55d7f291bb37 in the following files:
+ Between lines 1642 and 1652 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+ Between lines 2216 and 2226 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+Found 11 duplicate lines with fingerprint d3cd65136d24998c6007c4859733b719 in the following files:
+ Between lines 9091 and 9101 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\text_edit.cpp
+ Between lines 9109 and 9119 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\text_edit.cpp
+Found 11 duplicate lines with fingerprint aab43f874c6972843498b5c606ebd48b in the following files:
+ Between lines 360 and 370 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\graph_node.cpp
+ Between lines 520 and 530 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\graph_node.cpp
+Found 11 duplicate lines with fingerprint 2c9ea6f8e3cc03f9f818b609ab3d70bb in the following files:
+ Between lines 117 and 131 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\ray_cast_3d.cpp
+ Between lines 209 and 223 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\shape_cast_3d.cpp
+Found 11 duplicate lines with fingerprint 3edf696b9ea520fe9e0a61f80cfb2281 in the following files:
+ Between lines 178 and 191 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\joints\joint_2d.cpp
+ Between lines 173 and 186 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\joints\joint_3d.cpp
+Found 11 duplicate lines with fingerprint 31d39bd05b2c709e06f44f078bd06871 in the following files:
+ Between lines 91 and 106 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\compressed_texture.h
+ Between lines 144 and 159 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\streamed_texture.h
+Found 11 duplicate lines with fingerprint c3a9260a11c0622d2ea84c1aa481a3ad in the following files:
+ Between lines 304 and 315 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\immediate_mesh.cpp
+ Between lines 329 and 340 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\immediate_mesh.cpp
+Found 11 duplicate lines with fingerprint 6dd3bd17b89c000e9b5ec61dd249e0f0 in the following files:
+ Between lines 3670 and 3685 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\main\node.cpp
+ Between lines 3693 and 3708 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\main\node.cpp
+Found 11 duplicate lines with fingerprint 09cab4b171150c390989c547e9b56359 in the following files:
+ Between lines 395 and 413 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\material.h
+ Between lines 138 and 155 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\particle_process_material.h
+Found 11 duplicate lines with fingerprint 5b16cf66f5595b0be361abb59b3f7573 in the following files:
+ Between lines 685 and 696 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\animated_sprite_2d.cpp
+ Between lines 1549 and 1560 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\sprite_3d.cpp
+Found 11 duplicate lines with fingerprint cacd80953cea5715c568c85db6ac52b9 in the following files:
+ Between lines 209 and 223 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\rigid_body_2d.h
+ Between lines 206 and 220 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\rigid_body_3d.h
+Found 11 duplicate lines with fingerprint b70ab10c6e0e907a38d992dddb0322cd in the following files:
+ Between lines 5925 and 5938 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\animation.cpp
+ Between lines 6039 and 6052 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\animation.cpp
+Found 11 duplicate lines with fingerprint 9e88c64aab48235bdce136614308e51d in the following files:
+ Between lines 1925 and 1939 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\popup_menu.cpp
+ Between lines 1986 and 2000 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\popup_menu.cpp
+ Between lines 2048 and 2062 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\popup_menu.cpp
+Found 11 duplicate lines with fingerprint 6169cc47c9e921b2fc6a9a15e132e584 in the following files:
+ Between lines 847 and 861 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\font.cpp
+ Between lines 876 and 890 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\font.cpp
+Found 11 duplicate lines with fingerprint c57491145a51d7858f691ddd9020104a in the following files:
+ Between lines 76 and 90 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\2d\navigation_polygon.h
+ Between lines 62 and 76 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\navigation_mesh.h
+Found 11 duplicate lines with fingerprint 08f371e744d04b23386ddf857e5f6897 in the following files:
+ Between lines 45 and 58 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\collision_object_2d.h
+ Between lines 45 and 59 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\collision_object_3d.h
+Found 11 duplicate lines with fingerprint 58e70a604ee85de002a6e30beb23f474 in the following files:
+ Between lines 6303 and 6314 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\text_edit.cpp
+ Between lines 6747 and 6758 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\text_edit.cpp
+Found 11 duplicate lines with fingerprint 0f7903b84b248620ef6674dcb15bc516 in the following files:
+ Between lines 673 and 687 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\iterate_ik_3d.cpp
+ Between lines 507 and 521 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\spline_ik_3d.cpp
+Found 11 duplicate lines with fingerprint c792999e003fe448986360ae26aff9d7 in the following files:
+ Between lines 78 and 91 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\gpu_particles_collision_3d.h
+ Between lines 324 and 337 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\gpu_particles_collision_3d.h
+Found 11 duplicate lines with fingerprint be2504cd14c6aaa95c658f79ab52d555 in the following files:
+ Between lines 56 and 68 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\navigation\navigation_link_2d.h
+ Between lines 72 and 84 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\navigation\navigation_region_2d.h
+Found 11 duplicate lines with fingerprint f4fedd0f7abe3d9323382358008366c3 in the following files:
+ Between lines 64 and 77 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\navigation\navigation_region_2d.h
+ Between lines 62 and 75 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\navigation\navigation_region_3d.h
+Found 11 duplicate lines with fingerprint 8ac47f653c9aa6c7917ec1ce87337515 in the following files:
+ Between lines 9835 and 9847 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\text_edit.cpp
+ Between lines 9875 and 9887 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\text_edit.cpp
+Found 11 duplicate lines with fingerprint addf5f896af1f646fbfaf87bbfe6ea0c in the following files:
+ Between lines 783 and 796 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\rigid_body_2d.cpp
+ Between lines 806 and 819 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\rigid_body_3d.cpp
+Found 11 duplicate lines with fingerprint b45280ea59ef9f74342cfe562848bd22 in the following files:
+ Between lines 225 and 236 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\light_3d.cpp
+ Between lines 726 and 737 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\light_3d.cpp
+Found 11 duplicate lines with fingerprint befd389e208603586cc8b1066b7cd84b in the following files:
+ Between lines 102 and 117 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\ray_cast_3d.h
+ Between lines 108 and 123 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\shape_cast_3d.h
+Found 11 duplicate lines with fingerprint 082db819546b88cb0f6f75546de0d98c in the following files:
+ Between lines 167 and 179 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\tree.cpp
+ Between lines 190 and 202 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\tree.h
+Found 11 duplicate lines with fingerprint e206429d03775e3d098cfae62e8234fa in the following files:
+ Between lines 161 and 172 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\tab_bar.h
+ Between lines 84 and 95 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\tab_container.h
+Found 11 duplicate lines with fingerprint b1255a9faf08e516da536968529f54e8 in the following files:
+ Between lines 140 and 150 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\label_3d.cpp
+ Between lines 691 and 701 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\sprite_3d.cpp
+Found 11 duplicate lines with fingerprint 7160cc74b583411f8abd331156196457 in the following files:
+ Between lines 83 and 97 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\rigid_body_2d.cpp
+ Between lines 83 and 97 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\rigid_body_3d.cpp
+Found 11 duplicate lines with fingerprint d4c5a9ba1215421b7025da4e5eb2c1be in the following files:
+ Between lines 268 and 279 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\text_paragraph.cpp
+ Between lines 541 and 552 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\label_3d.cpp
+ Between lines 3290 and 3301 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+Found 12 duplicate lines with fingerprint b39899dbc6a65a6f27b013db2fa3453d in the following files:
+ Between lines 1900 and 1912 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\animation\animation_node_state_machine.cpp
+ Between lines 1777 and 1789 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\animation\animation_node_state_machine.cpp
+Found 12 duplicate lines with fingerprint eed73ff1fdcef81893a4416c04d410d3 in the following files:
+ Between lines 560 and 577 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\mesh.cpp
+ Between lines 1226 and 1243 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\importer_mesh.cpp
+Found 12 duplicate lines with fingerprint 505c43c2133294fd872fbae354ab0319 in the following files:
+ Between lines 59 and 70 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\two_bone_ik_3d.cpp
+ Between lines 53 and 64 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\spring_bone_simulator_3d.cpp
+ Between lines 47 and 58 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\chain_ik_3d.cpp
+Found 12 duplicate lines with fingerprint 84025f205f946b067a226522b939fc6f in the following files:
+ Between lines 130 and 143 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\visible_on_screen_notifier_3d.cpp
+ Between lines 173 and 186 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\visible_on_screen_notifier_2d.cpp
+Found 12 duplicate lines with fingerprint 4c49d41981b833bcef2a520b3087775b in the following files:
+ Between lines 45 and 61 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\sprite_3d.h
+ Between lines 43 and 58 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\label_3d.h
+Found 12 duplicate lines with fingerprint f692224eb87f82a4a331490bf5d8c79d in the following files:
+ Between lines 3057 and 3070 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\text_edit.cpp
+ Between lines 876 and 889 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\code_edit.cpp
+Found 12 duplicate lines with fingerprint 723c042f73ad132627577b7477e1440f in the following files:
+ Between lines 1281 and 1297 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\tree.cpp
+ Between lines 1235 and 1251 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\tree.cpp
+Found 12 duplicate lines with fingerprint 35f1ee1bb76b7714b0cf1b3048d0329e in the following files:
+ Between lines 1272 and 1285 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\material.cpp
+ Between lines 1249 and 1262 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\material.cpp
+Found 12 duplicate lines with fingerprint 5bf8c938ff477358d0048a370270bafc in the following files:
+ Between lines 42 and 55 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\spring_bone_simulator_3d.cpp
+ Between lines 36 and 49 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\chain_ik_3d.cpp
+ Between lines 37 and 50 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\bone_twist_disperser_3d.cpp
+Found 12 duplicate lines with fingerprint d91d298d62327eb6e46e8672405890af in the following files:
+ Between lines 274 and 287 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\animation\animation_blend_space_2d.cpp
+ Between lines 243 and 256 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\animation\animation_blend_space_2d.cpp
+Found 12 duplicate lines with fingerprint 6cea98d08a337cf4b2e3a084f194b8fa in the following files:
+ Between lines 138 and 153 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\navigation\navigation_obstacle_3d.cpp
+ Between lines 126 and 141 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\navigation\navigation_obstacle_2d.cpp
+Found 12 duplicate lines with fingerprint a70ad9899e28a8dba284a69300fc9f32 in the following files:
+ Between lines 2193 and 2206 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\mesh.cpp
+ Between lines 1423 and 1436 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\importer_mesh.cpp
+Found 12 duplicate lines with fingerprint aeb67a46fe7616e555b0666b7afaced9 in the following files:
+ Between lines 94 and 109 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\collision_polygon_3d.cpp
+ Between lines 103 and 118 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\collision_polygon_2d.cpp
+Found 12 duplicate lines with fingerprint f12f4eaf7487eb1d811366f856a36ceb in the following files:
+ Between lines 1532 and 1549 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\spring_bone_simulator_3d.cpp
+ Between lines 423 and 440 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\chain_ik_3d.cpp
+Found 12 duplicate lines with fingerprint d500e8c8fbd9d8eac99f09cc67136d6a in the following files:
+ Between lines 249 and 267 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\cpu_particles_3d.cpp
+ Between lines 320 and 338 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\cpu_particles_2d.cpp
+Found 12 duplicate lines with fingerprint 2d65d341c336205d10ca2ba846c7e039 in the following files:
+ Between lines 375 and 391 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\label.cpp
+ Between lines 345 and 361 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\label.cpp
+Found 12 duplicate lines with fingerprint 1cb73c257898f0158c8510985d280a22 in the following files:
+ Between lines 370 and 383 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\grid_container.cpp
+ Between lines 450 and 463 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\flow_container.cpp
+Found 12 duplicate lines with fingerprint 32031da5c88f68b060c5e1fe687a79d5 in the following files:
+ Between lines 188 and 204 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\navigation\navigation_agent_3d.h
+ Between lines 165 and 181 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\navigation\navigation_agent_2d.h
+Found 12 duplicate lines with fingerprint b5c4af6978d4bc18117314eff9af990e in the following files:
+ Between lines 1787 and 1798 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\cpu_particles_3d.cpp
+ Between lines 1696 and 1707 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\cpu_particles_2d.cpp
+ Between lines 2704 and 2715 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\particle_process_material.cpp
+Found 12 duplicate lines with fingerprint 37a84c4a6f40bd20f7121d14105f0659 in the following files:
+ Between lines 46 and 57 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\blit_material.cpp
+ Between lines 753 and 764 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\material.cpp
+ Between lines 88 and 99 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\canvas_item_material.cpp
+Found 12 duplicate lines with fingerprint 1a8713a3746331c1044013ec77c9058e in the following files:
+ Between lines 2004 and 2016 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+ Between lines 1095 and 1107 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+ Between lines 752 and 764 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+ Between lines 432 and 444 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+Found 12 duplicate lines with fingerprint 846f14b5a4f4a2de49be8a8d36f2d17a in the following files:
+ Between lines 3633 and 3646 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\popup_menu.cpp
+ Between lines 2039 and 2052 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\item_list.cpp
+Found 12 duplicate lines with fingerprint 6c888e90703b481a0d9096a9e46b976f in the following files:
+ Between lines 1358 and 1381 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\particle_process_material.cpp
+ Between lines 2069 and 2092 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\material.cpp
+Found 12 duplicate lines with fingerprint 28f4162af3435519b3b67cfcd39b20ed in the following files:
+ Between lines 1482 and 1495 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\line_edit.cpp
+ Between lines 1311 and 1324 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\line_edit.cpp
+Found 12 duplicate lines with fingerprint e4b768018c93cb4815c650c90daf4879 in the following files:
+ Between lines 432 and 444 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\font.cpp
+ Between lines 369 and 381 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\font.cpp
+ Between lines 320 and 332 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\font.cpp
+Found 12 duplicate lines with fingerprint 0eba2eb1caeced5aa19993b35bbd27d3 in the following files:
+ Between lines 425 and 442 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\animation\easing_equations.h
+ Between lines 360 and 377 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\animation\easing_equations.h
+Found 12 duplicate lines with fingerprint e9e3b590d8b0408990f39b138eda8414 in the following files:
+ Between lines 286 and 300 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\spring_bone_simulator_3d.cpp
+ Between lines 118 and 132 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\chain_ik_3d.cpp
+ Between lines 137 and 151 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\bone_twist_disperser_3d.cpp
+Found 12 duplicate lines with fingerprint a36c3329d48934475efc012164df646c in the following files:
+ Between lines 687 and 698 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\gpu_particles_3d.cpp
+ Between lines 528 and 539 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\gpu_particles_2d.cpp
+Found 12 duplicate lines with fingerprint d1c47f4975641aef10ac917496797637 in the following files:
+ Between lines 1236 and 1252 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\sprite_3d.cpp
+ Between lines 337 and 353 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\animated_sprite_2d.cpp
+Found 12 duplicate lines with fingerprint 8c4bb93592f5393b6e80aea4c554bc6d in the following files:
+ Between lines 760 and 774 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\cpu_particles_3d.cpp
+ Between lines 806 and 820 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\cpu_particles_2d.cpp
+Found 12 duplicate lines with fingerprint bc2fae0cb0517ec0adf6308b0c47029f in the following files:
+ Between lines 162 and 175 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\spring_bone_simulator_3d.cpp
+ Between lines 72 and 85 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\chain_ik_3d.cpp
+ Between lines 84 and 97 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\bone_twist_disperser_3d.cpp
+Found 12 duplicate lines with fingerprint 406a88140b1dfe0a3314797ab3995415 in the following files:
+ Between lines 214 and 227 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\spring_bone_simulator_3d.h
+ Between lines 236 and 249 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\chain_ik_3d.h
+ Between lines 121 and 134 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\bone_twist_disperser_3d.h
+Found 12 duplicate lines with fingerprint 607e51cf26d9e5ebe06c0410f85ff026 in the following files:
+ Between lines 54 and 73 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\graph_frame.cpp
+ Between lines 142 and 161 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\graph_element.cpp
+Found 12 duplicate lines with fingerprint 76f64294197fd9dda4a22be967ce58bc in the following files:
+ Between lines 173 and 184 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\spring_bone_simulator_3d.cpp
+ Between lines 83 and 94 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\chain_ik_3d.cpp
+ Between lines 107 and 118 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\two_bone_ik_3d.cpp
+Found 12 duplicate lines with fingerprint fd3d34f92ff9a5bc638c454167cca6c4 in the following files:
+ Between lines 44 and 58 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\cylinder_shape_3d.cpp
+ Between lines 44 and 58 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\capsule_shape_3d.cpp
+Found 12 duplicate lines with fingerprint 4c59f9614325b9425e55879eaacd28a8 in the following files:
+ Between lines 2881 and 2894 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\text_edit.cpp
+ Between lines 2644 and 2657 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\text_edit.cpp
+Found 12 duplicate lines with fingerprint b430841b3b6a47e859ab37fe23458cfe in the following files:
+ Between lines 85 and 99 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\polygon_2d.h
+ Between lines 152 and 166 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\light_2d.h
+Found 13 duplicate lines with fingerprint dae0a7db2bd6d79971b3f84a5c005085 in the following files:
+ Between lines 61 and 78 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\collision_shape_2d.cpp
+ Between lines 87 and 105 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\collision_shape_3d.cpp
+Found 13 duplicate lines with fingerprint 6aca4085bab0bf0b6ec6b252b2d3830a in the following files:
+ Between lines 94 and 107 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\retarget_modifier_3d.cpp
+ Between lines 130 and 143 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\retarget_modifier_3d.cpp
+Found 13 duplicate lines with fingerprint 1584fc7d107681185ce09a60043e38ab in the following files:
+ Between lines 44 and 62 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\light_2d.cpp
+ Between lines 302 and 320 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\light_3d.cpp
+Found 13 duplicate lines with fingerprint 8c7f0e64cc09591c88f267f5692dd41a in the following files:
+ Between lines 392 and 405 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\animation\animation_blend_space_1d.cpp
+ Between lines 448 and 461 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\animation\animation_blend_space_2d.cpp
+Found 13 duplicate lines with fingerprint f489d6f4617a9202f4989a312ad8fc4d in the following files:
+ Between lines 49 and 61 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\cpu_particles_2d.h
+ Between lines 52 and 64 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\cpu_particles_3d.h
+ Between lines 50 and 62 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\particle_process_material.h
+Found 13 duplicate lines with fingerprint 42aad3852ad1de4430154a12066e392a in the following files:
+ Between lines 347 and 366 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\sprite_2d.cpp
+ Between lines 928 and 947 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\sprite_3d.cpp
+Found 13 duplicate lines with fingerprint 09b8fef5b5cffd0d5ca985ac31a87f54 in the following files:
+ Between lines 108 and 122 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\audio\audio_stream_wav.cpp
+ Between lines 172 and 186 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\audio\audio_stream_wav.h
+Found 13 duplicate lines with fingerprint 37939fc955c5e1ba071b7eee01684094 in the following files:
+ Between lines 93 and 108 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\cpu_particles_2d.h
+ Between lines 95 and 110 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\cpu_particles_3d.h
+Found 13 duplicate lines with fingerprint 7eee70cdb4bc28b67499ed0385b3fb70 in the following files:
+ Between lines 1724 and 1740 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+ Between lines 810 and 826 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+ Between lines 873 and 889 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+ Between lines 936 and 952 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+ Between lines 1800 and 1816 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+Found 13 duplicate lines with fingerprint ebac3bbce55dc47e41268a842a5d810d in the following files:
+ Between lines 827 and 846 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\label_3d.cpp
+ Between lines 3072 and 3091 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\font.cpp
+Found 13 duplicate lines with fingerprint d426dedca21996fb6b83cdc7e990c0b7 in the following files:
+ Between lines 452 and 469 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\rich_text_label.cpp
+ Between lines 484 and 501 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\rich_text_label.cpp
+ Between lines 770 and 787 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\rich_text_label.cpp
+Found 13 duplicate lines with fingerprint 5c4e886e78f01ea2c5aa061f534c8001 in the following files:
+ Between lines 516 and 528 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\label_3d.cpp
+ Between lines 3266 and 3278 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+ Between lines 554 and 566 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\button.cpp
+ Between lines 278 and 290 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\label.cpp
+ Between lines 675 and 687 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\rich_text_label.cpp
+ Between lines 9267 and 9279 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\text_edit.cpp
+Found 13 duplicate lines with fingerprint 972060e19ee0ca2204a6b02621b77eac in the following files:
+ Between lines 6140 and 6152 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\animation.cpp
+ Between lines 6277 and 6289 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\animation.cpp
+Found 13 duplicate lines with fingerprint 9232d5b2760f6913d62014971fb32a7b in the following files:
+ Between lines 41 and 54 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\check_button.cpp
+ Between lines 116 and 129 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\check_button.cpp
+Found 13 duplicate lines with fingerprint 36113341bc7cd7d1a39e7be3577fb04a in the following files:
+ Between lines 1231 and 1250 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\curve.cpp
+ Between lines 1285 and 1304 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\curve.cpp
+Found 13 duplicate lines with fingerprint 28938ecab7b345c3e4a5b2368ac48fe8 in the following files:
+ Between lines 46 and 59 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\gpu_particles_2d.h
+ Between lines 62 and 75 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\gpu_particles_3d.h
+Found 13 duplicate lines with fingerprint e0fded005fc043bcba674b851a20c036 in the following files:
+ Between lines 154 and 169 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\light_2d.h
+ Between lines 73 and 88 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\animated_sprite_2d.h
+Found 13 duplicate lines with fingerprint 2d153d1967c0e1843927652605b95f7e in the following files:
+ Between lines 4169 and 4186 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\animation.cpp
+ Between lines 4204 and 4221 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\animation.cpp
+Found 13 duplicate lines with fingerprint a859a9764ca2f6d58c1d335d8b6846a3 in the following files:
+ Between lines 1300 and 1318 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\resource_format_text.cpp
+ Between lines 1334 and 1352 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\resource_format_text.cpp
+Found 13 duplicate lines with fingerprint 6bb402db657f1d6862f44cc4fced2822 in the following files:
+ Between lines 1533 and 1545 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\cpu_particles_2d.cpp
+ Between lines 1596 and 1609 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\cpu_particles_3d.cpp
+Found 13 duplicate lines with fingerprint 2097e4f891903b0b1dfd4491a7ae4903 in the following files:
+ Between lines 186 and 204 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\navigation\navigation_agent_2d.h
+ Between lines 209 and 227 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\navigation\navigation_agent_3d.h
+Found 13 duplicate lines with fingerprint bb0fbc746fe8fb9f66bc0a11ec622386 in the following files:
+ Between lines 3715 and 3732 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\rich_text_label.cpp
+ Between lines 3740 and 3757 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\rich_text_label.cpp
+Found 13 duplicate lines with fingerprint 98509fdd0cba7000c11dc59888976f12 in the following files:
+ Between lines 56 and 76 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\navigation\navigation_region_3d.cpp
+ Between lines 613 and 633 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\navigation\navigation_region_3d.cpp
+Found 13 duplicate lines with fingerprint 4f6d12a733b8cd5ea20ac35e8a8cffc7 in the following files:
+ Between lines 2999 and 3016 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\font.cpp
+ Between lines 3313 and 3330 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\font.cpp
+Found 13 duplicate lines with fingerprint 2120078ae44a68d2e2ecbf0f81eec8d8 in the following files:
+ Between lines 2517 and 2529 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+ Between lines 2894 and 2906 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+Found 13 duplicate lines with fingerprint 52129a691737dd2bad991b091d950b89 in the following files:
+ Between lines 3201 and 3221 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\line_edit.cpp
+ Between lines 8529 and 8549 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\rich_text_label.cpp
+ Between lines 8628 and 8648 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\text_edit.cpp
+Found 13 duplicate lines with fingerprint 752a470b21e54a90fd3233e1eb13f34f in the following files:
+ Between lines 55 and 67 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\iterate_ik_3d.h
+ Between lines 82 and 94 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\spring_bone_simulator_3d.h
+ Between lines 827 and 839 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\spring_bone_simulator_3d.cpp
+Found 13 duplicate lines with fingerprint e86b43c513af2e731877543d1004ac00 in the following files:
+ Between lines 1060 and 1079 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\debugger\scene_debugger.cpp
+ Between lines 1268 and 1287 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\debugger\scene_debugger.cpp
+ Between lines 1307 and 1326 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\debugger\scene_debugger.cpp
+Found 13 duplicate lines with fingerprint 8e0587eb1d3da913d2c88500aa3f0519 in the following files:
+ Between lines 1472 and 1485 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\cpu_particles_2d.cpp
+ Between lines 602 and 615 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\gpu_particles_2d.cpp
+ Between lines 1532 and 1545 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\cpu_particles_3d.cpp
+ Between lines 758 and 771 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\gpu_particles_3d.cpp
+Found 14 duplicate lines with fingerprint 288e8420894b86902d27664145942b78 in the following files:
+ Between lines 581 and 600 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\mesh.cpp
+ Between lines 1247 and 1266 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\importer_mesh.cpp
+Found 14 duplicate lines with fingerprint 494dfd2e615899590f4caefe14e9bf8c in the following files:
+ Between lines 591 and 608 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\gpu_particles_3d.cpp
+ Between lines 763 and 780 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\gpu_particles_2d.cpp
+Found 14 duplicate lines with fingerprint bba6575e857ed57c492ec8da89a4d9f8 in the following files:
+ Between lines 675 and 689 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\rich_text_label.cpp
+ Between lines 278 and 292 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\label.cpp
+ Between lines 554 and 568 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\button.cpp
+ Between lines 516 and 530 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\label_3d.cpp
+Found 14 duplicate lines with fingerprint 5e48a3cb33b4b68ab0b78a9582821b5f in the following files:
+ Between lines 464 and 478 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\font.cpp
+ Between lines 401 and 415 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\font.cpp
+ Between lines 345 and 359 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\font.cpp
+Found 14 duplicate lines with fingerprint a36fd0e582a092334991d34f3e98e905 in the following files:
+ Between lines 544 and 562 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\streamed_texture.cpp
+ Between lines 295 and 312 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\portable_compressed_texture.cpp
+ Between lines 180 and 197 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\image_texture.cpp
+ Between lines 252 and 270 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\compressed_texture.cpp
+Found 14 duplicate lines with fingerprint e3495582af90e8178f6e70ffd8165b92 in the following files:
+ Between lines 266 and 282 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\2d\skeleton\skeleton_modification_2d_jiggle.cpp
+ Between lines 301 and 317 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\2d\skeleton\skeleton_modification_2d_fabrik.cpp
+Found 14 duplicate lines with fingerprint fec87d6b7eb4f8aedf5932df08c924f2 in the following files:
+ Between lines 908 and 926 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\text_edit.cpp
+ Between lines 691 and 709 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\scroll_container.cpp
+Found 14 duplicate lines with fingerprint 398bbeb962f56a98182a07f9bf564b6e in the following files:
+ Between lines 1435 and 1448 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\cpu_particles_3d.cpp
+ Between lines 1325 and 1338 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\cpu_particles_3d.cpp
+Found 14 duplicate lines with fingerprint 48caebdaf5fe397985de302ad9f9cf91 in the following files:
+ Between lines 286 and 302 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\spring_bone_simulator_3d.cpp
+ Between lines 118 and 134 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\chain_ik_3d.cpp
+Found 14 duplicate lines with fingerprint 3c4a02cd3ddd07ee2b327361c516fc9e in the following files:
+ Between lines 545 and 565 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\gpu_particles_3d.cpp
+ Between lines 787 and 807 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\gpu_particles_2d.cpp
+Found 14 duplicate lines with fingerprint 9498cc344a2a5285f9365ccb0f6de029 in the following files:
+ Between lines 1106 and 1129 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\debugger\scene_debugger.cpp
+ Between lines 1062 and 1085 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\debugger\scene_debugger.cpp
+Found 14 duplicate lines with fingerprint 81dcbf639ffc33e48b88767c5b9b2b12 in the following files:
+ Between lines 3086 and 3102 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\text_edit.cpp
+ Between lines 984 and 1002 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\line_edit.cpp
+Found 14 duplicate lines with fingerprint 1761b756b1503721bc1a255c8fd7093d in the following files:
+ Between lines 113 and 131 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\mesh_texture.cpp
+ Between lines 91 and 109 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\mesh_texture.cpp
+Found 14 duplicate lines with fingerprint e5c280dc057ff0eb979b42f9df9207be in the following files:
+ Between lines 214 and 229 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\spring_bone_simulator_3d.h
+ Between lines 236 and 251 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\chain_ik_3d.h
+Found 14 duplicate lines with fingerprint cf9885eb9e90f308e5e2707fc70974ff in the following files:
+ Between lines 714 and 727 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\gpu_particles_2d.cpp
+ Between lines 201 and 214 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\cpu_particles_2d.cpp
+Found 14 duplicate lines with fingerprint 3c8815befe3405f331a811d09f06b39b in the following files:
+ Between lines 272 and 288 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\2d\skeleton\skeleton_modification_2d_twoboneik.cpp
+ Between lines 262 and 278 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\2d\skeleton\skeleton_modification_2d_lookat.cpp
+ Between lines 270 and 286 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\2d\skeleton\skeleton_modification_2d_ccdik.cpp
+Found 14 duplicate lines with fingerprint 13bad09524e5f79b23551791af83ea94 in the following files:
+ Between lines 1108 and 1125 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\text_paragraph.cpp
+ Between lines 1083 and 1100 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\text_paragraph.cpp
+Found 14 duplicate lines with fingerprint e886bb574bade5cf9409b155908ad8fc in the following files:
+ Between lines 541 and 560 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\font.h
+ Between lines 286 and 305 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\font.h
+Found 15 duplicate lines with fingerprint 23507e1e915d97f7ef8b3abf405396e6 in the following files:
+ Between lines 491 and 513 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+ Between lines 538 and 561 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+Found 15 duplicate lines with fingerprint dc5588dbb599d82df91db28395199ae0 in the following files:
+ Between lines 1700 and 1716 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\rich_text_label.cpp
+ Between lines 1778 and 1794 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\rich_text_label.cpp
+Found 15 duplicate lines with fingerprint 6b38159dbb45b3b1a9d6d40cdff58a01 in the following files:
+ Between lines 380 and 400 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\animated_sprite_2d.cpp
+ Between lines 1279 and 1299 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\sprite_3d.cpp
+Found 15 duplicate lines with fingerprint 43745a6fbcbb8607421555a1c915c6c5 in the following files:
+ Between lines 215 and 234 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\visible_on_screen_notifier_2d.cpp
+ Between lines 172 and 191 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\visible_on_screen_notifier_3d.cpp
+Found 15 duplicate lines with fingerprint 986c82aa32ca5c902837ffceca518a5e in the following files:
+ Between lines 208 and 232 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\area_2d.cpp
+ Between lines 265 and 289 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\area_3d.cpp
+Found 15 duplicate lines with fingerprint c5049a1a5b957759ea71e6b96d51629d in the following files:
+ Between lines 319 and 343 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\area_2d.cpp
+ Between lines 471 and 495 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\area_3d.cpp
+Found 15 duplicate lines with fingerprint e95f2ab25de5c2c0538d9eb58a684fd0 in the following files:
+ Between lines 1268 and 1291 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\debugger\scene_debugger.cpp
+ Between lines 1307 and 1330 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\debugger\scene_debugger.cpp
+Found 15 duplicate lines with fingerprint 1d4c3586d453ce05b30d7adff9cc2e17 in the following files:
+ Between lines 837 and 859 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\curve.cpp
+ Between lines 1554 and 1576 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\curve.cpp
+Found 15 duplicate lines with fingerprint 9f67b7b65588b7be277d6b0555c3711e in the following files:
+ Between lines 195 and 210 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\visible_on_screen_notifier_2d.cpp
+ Between lines 152 and 167 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\visible_on_screen_notifier_3d.cpp
+Found 15 duplicate lines with fingerprint be16dced1a21e26306a103eb22d97332 in the following files:
+ Between lines 5905 and 5922 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\animation.cpp
+ Between lines 6019 and 6036 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\animation.cpp
+ Between lines 6155 and 6172 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\animation.cpp
+ Between lines 6292 and 6309 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\animation.cpp
+Found 15 duplicate lines with fingerprint 871ee7d9a5d939dedaed5d4f5dc18e57 in the following files:
+ Between lines 870 and 887 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\text_paragraph.cpp
+ Between lines 973 and 990 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\text_paragraph.cpp
+Found 15 duplicate lines with fingerprint db6e06240c95d44cd77d62e28594c9da in the following files:
+ Between lines 590 and 611 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\rich_text_label.cpp
+ Between lines 864 and 885 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\rich_text_label.cpp
+Found 16 duplicate lines with fingerprint 8448d75ce18a49e3f03fd8e99a4e744d in the following files:
+ Between lines 752 and 767 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\material.cpp
+ Between lines 87 and 102 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\canvas_item_material.cpp
+Found 16 duplicate lines with fingerprint 826f414bb7b3e18d43ab8170d29adc93 in the following files:
+ Between lines 76 and 99 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\navigation\navigation_region_3d.h
+ Between lines 82 and 105 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\navigation\navigation_region_2d.h
+Found 16 duplicate lines with fingerprint 26f06e9d8647d47eb9c90e2bd613cb2e in the following files:
+ Between lines 501 and 518 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\main\window.h
+ Between lines 813 and 830 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\control.h
+Found 16 duplicate lines with fingerprint f5605215cefad161bbba0a34e034bf18 in the following files:
+ Between lines 97 and 118 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\trail_3d.cpp
+ Between lines 70 and 91 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\trail_3d.cpp
+Found 16 duplicate lines with fingerprint 644a09d676cb58014adb4276917946b1 in the following files:
+ Between lines 691 and 711 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\font.cpp
+ Between lines 644 and 664 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\font.cpp
+Found 16 duplicate lines with fingerprint 05459b8f80000963b495f87c5516ce64 in the following files:
+ Between lines 2346 and 2363 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\line_edit.cpp
+ Between lines 1964 and 1981 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\line_edit.cpp
+ Between lines 1898 and 1915 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\line_edit.cpp
+Found 16 duplicate lines with fingerprint 2a836d3c671886acad09c50fd0a20109 in the following files:
+ Between lines 39 and 62 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\animation\animation_blend_space_2d.h
+ Between lines 39 and 62 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\animation\animation_blend_space_1d.h
+Found 16 duplicate lines with fingerprint a21c83658071b8c3725ca3c5791e7fa7 in the following files:
+ Between lines 2793 and 2810 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\main\window.cpp
+ Between lines 3969 and 3986 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\control.cpp
+Found 16 duplicate lines with fingerprint aa87b1ebd712db1c94088c88d2b4a42c in the following files:
+ Between lines 204 and 221 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\main\window.h
+ Between lines 320 and 337 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\control.h
+Found 16 duplicate lines with fingerprint 7be55b77cd562e96d1492152308dd566 in the following files:
+ Between lines 279 and 301 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\cpu_particles_3d.h
+ Between lines 280 and 302 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\cpu_particles_2d.h
+Found 16 duplicate lines with fingerprint b29402be16229bf50affa366a6234bfd in the following files:
+ Between lines 1271 and 1292 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\cpu_particles_3d.cpp
+ Between lines 1201 and 1222 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\cpu_particles_2d.cpp
+Found 16 duplicate lines with fingerprint b93325975a84b009a51f055f243a9b0c in the following files:
+ Between lines 946 and 966 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\text_paragraph.cpp
+ Between lines 842 and 861 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\text_paragraph.cpp
+Found 16 duplicate lines with fingerprint 46664c18814f7bec9dad3dae449f645f in the following files:
+ Between lines 2310 and 2333 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\curve.cpp
+ Between lines 2245 and 2268 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\curve.cpp
+Found 16 duplicate lines with fingerprint dad0d3fe49164b273357f0ef219a4989 in the following files:
+ Between lines 148 and 170 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\sprite_3d.h
+ Between lines 233 and 255 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\label_3d.h
+Found 16 duplicate lines with fingerprint ca71620bcde6755fe4073175092d3c4f in the following files:
+ Between lines 933 and 955 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+ Between lines 807 and 829 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+Found 16 duplicate lines with fingerprint aa5cab20c885aca5e6bb528db433d364 in the following files:
+ Between lines 4149 and 4168 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\code_edit.cpp
+ Between lines 3925 and 3944 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\code_edit.cpp
+Found 17 duplicate lines with fingerprint b439aaa32733a4f0322fbb6e128d8693 in the following files:
+ Between lines 245 and 268 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\ray_cast_2d.cpp
+ Between lines 252 and 275 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\shape_cast_2d.cpp
+Found 17 duplicate lines with fingerprint 7a3059fdd6570b4ec9839fbd8c4b0ca6 in the following files:
+ Between lines 1101 and 1121 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\graph_edit.cpp
+ Between lines 1232 and 1252 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\graph_edit.cpp
+Found 17 duplicate lines with fingerprint 381d5d3cd7226e5048a51dfca458c42a in the following files:
+ Between lines 918 and 941 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\color_picker_shape.cpp
+ Between lines 1003 and 1026 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\color_picker_shape.cpp
+Found 17 duplicate lines with fingerprint 4fee2cbf2c1201d1090b22b0f2d9a2c1 in the following files:
+ Between lines 772 and 793 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\cpu_particles_2d.cpp
+ Between lines 719 and 742 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\cpu_particles_3d.cpp
+Found 17 duplicate lines with fingerprint 745101a048fd5d351da92867457b2184 in the following files:
+ Between lines 1055 and 1074 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\graph_edit.cpp
+ Between lines 1289 and 1308 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\graph_edit.cpp
+Found 17 duplicate lines with fingerprint 5f37a58ba82cf20c902c80138ef849b3 in the following files:
+ Between lines 79 and 100 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\audio_stream_player_2d.h
+ Between lines 132 and 153 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\audio_stream_player_3d.h
+ Between lines 61 and 82 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\audio\audio_stream_player.h
+Found 17 duplicate lines with fingerprint eb558fd960482f4e6c31feb2c5679e58 in the following files:
+ Between lines 97 and 120 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\collision_polygon_3d.cpp
+ Between lines 93 and 116 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\collision_shape_3d.cpp
+Found 17 duplicate lines with fingerprint 2d3e80cc53412b79d34cdc17d5c3bb76 in the following files:
+ Between lines 122 and 144 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\collision_object_2d.h
+ Between lines 131 and 153 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\collision_object_3d.h
+Found 17 duplicate lines with fingerprint aa20081ae88546b18e0596bd5ae68794 in the following files:
+ Between lines 584 and 602 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\label_3d.cpp
+ Between lines 3344 and 3362 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+Found 17 duplicate lines with fingerprint 813e63ab34eb2d844552f67102432249 in the following files:
+ Between lines 146 and 169 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\ray_cast_2d.cpp
+ Between lines 203 and 225 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\shape_cast_2d.cpp
+Found 17 duplicate lines with fingerprint ebe0067425502bc4b08e2448cdc58863 in the following files:
+ Between lines 485 and 513 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\ray_cast_3d.cpp
+ Between lines 568 and 596 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\shape_cast_3d.cpp
+Found 17 duplicate lines with fingerprint 92f7dba9ee57af561322f10a91054288 in the following files:
+ Between lines 49 and 68 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\gpu_particles_2d.cpp
+ Between lines 51 and 70 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\gpu_particles_3d.cpp
+Found 17 duplicate lines with fingerprint ce7da41b5e74ddcaf1889e6e1df756b2 in the following files:
+ Between lines 244 and 272 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\navigation\navigation_agent_2d.cpp
+ Between lines 265 and 293 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\navigation\navigation_agent_3d.cpp
+Found 17 duplicate lines with fingerprint 0b69cbaf52e36730daf67b2ec97d0c64 in the following files:
+ Between lines 590 and 614 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+ Between lines 2068 and 2092 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+Found 18 duplicate lines with fingerprint 082a32b8d765440eec80f3df07e68580 in the following files:
+ Between lines 1919 and 1939 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\font.cpp
+ Between lines 1622 and 1642 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\font.cpp
+Found 18 duplicate lines with fingerprint 259cef636f18850f6cc68483f74153c7 in the following files:
+ Between lines 652 and 675 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\area_3d.cpp
+ Between lines 548 and 571 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\area_2d.cpp
+Found 18 duplicate lines with fingerprint 9daa311392d85f827a7f35f17b2641ba in the following files:
+ Between lines 519 and 539 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\main\window.h
+ Between lines 832 and 852 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\control.h
+Found 19 duplicate lines with fingerprint 8e4ebb800716c9e1460a0b91dadab8ad in the following files:
+ Between lines 210 and 231 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\cpu_particles_3d.h
+ Between lines 112 and 133 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\gpu_particles_3d.h
+Found 19 duplicate lines with fingerprint 3cc6e9f7a336923d62bfd240cd57ab50 in the following files:
+ Between lines 90 and 116 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\animated_sprite_2d.h
+ Between lines 259 and 285 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\sprite_3d.h
+Found 19 duplicate lines with fingerprint 4c49a1d6db7abe43ba5d3761f25ecf4d in the following files:
+ Between lines 455 and 486 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\main\scene_tree.cpp
+ Between lines 517 and 548 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\main\scene_tree.cpp
+Found 19 duplicate lines with fingerprint ca2821984f497a03187981c1f51e215f in the following files:
+ Between lines 783 and 812 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\navigation\navigation_agent_2d.cpp
+ Between lines 853 and 882 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\navigation\navigation_agent_3d.cpp
+Found 19 duplicate lines with fingerprint da2b9e7b0d280fba51e89626debfbef4 in the following files:
+ Between lines 1644 and 1662 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\font.cpp
+ Between lines 1944 and 1962 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\font.cpp
+Found 19 duplicate lines with fingerprint 254c0a346e18ee4d730f4c86c3f26bb8 in the following files:
+ Between lines 84 and 109 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\visible_on_screen_notifier_2d.h
+ Between lines 64 and 89 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\visible_on_screen_notifier_3d.h
+Found 19 duplicate lines with fingerprint a38d8009fd80b474c25cb42e35783030 in the following files:
+ Between lines 79 and 103 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\audio_stream_player_2d.h
+ Between lines 61 and 85 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\audio\audio_stream_player.h
+Found 19 duplicate lines with fingerprint d3ddebf5d47459c6b643e554a3db8d53 in the following files:
+ Between lines 544 and 565 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\navigation\navigation_region_2d.cpp
+ Between lines 559 and 580 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\navigation\navigation_region_3d.cpp
+Found 19 duplicate lines with fingerprint 00ac037491ed7dbf1c1c4b32e2531f29 in the following files:
+ Between lines 52 and 71 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\iterate_ik_3d.h
+ Between lines 79 and 98 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\spring_bone_simulator_3d.h
+Found 19 duplicate lines with fingerprint 891a3847d1025b6dfc3dcb6917a403af in the following files:
+ Between lines 56 and 84 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\convert_transform_modifier_3d.h
+ Between lines 58 and 86 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\copy_transform_modifier_3d.h
+Found 19 duplicate lines with fingerprint 315f386eb788c347ba7005e54a8a5559 in the following files:
+ Between lines 227 and 254 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\navigation\navigation_agent_2d.h
+ Between lines 250 and 277 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\navigation\navigation_agent_3d.h
+Found 20 duplicate lines with fingerprint f54d59f9eca8d6caa9ae83953d200468 in the following files:
+ Between lines 66 and 94 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\collision_shape_2d.cpp
+ Between lines 106 and 133 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\collision_polygon_2d.cpp
+Found 20 duplicate lines with fingerprint 72a12a0863f05beb3ef04d937ba23f74 in the following files:
+ Between lines 1056 and 1079 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\color_picker_shape.cpp
+ Between lines 576 and 599 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\color_picker_shape.cpp
+Found 20 duplicate lines with fingerprint 6be4e3ebe8fa58f08d851f5576cb8d37 in the following files:
+ Between lines 544 and 574 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\streamed_texture.cpp
+ Between lines 180 and 209 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\image_texture.cpp
+ Between lines 252 and 282 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\compressed_texture.cpp
+Found 20 duplicate lines with fingerprint 0b2813041a1676add32defd9c4e93df3 in the following files:
+ Between lines 625 and 653 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\cpu_particles_3d.cpp
+ Between lines 678 and 706 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\cpu_particles_2d.cpp
+Found 20 duplicate lines with fingerprint b33c543005153220729bf58e7cf94929 in the following files:
+ Between lines 1255 and 1282 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\popup_menu.cpp
+ Between lines 320 and 347 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\popup.cpp
+Found 20 duplicate lines with fingerprint 097159d2d0c94a18d01a5d73638c3337 in the following files:
+ Between lines 5161 and 5180 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\text_edit.cpp
+ Between lines 2722 and 2742 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\line_edit.cpp
+Found 20 duplicate lines with fingerprint ad2bcdb9470903e5a8520cef4d051083 in the following files:
+ Between lines 1448 and 1477 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\sprite_3d.cpp
+ Between lines 574 and 603 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\animated_sprite_2d.cpp
+Found 21 duplicate lines with fingerprint cdfe641e76be92d147d73eff93171132 in the following files:
+ Between lines 1134 and 1165 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\cpu_particles_2d.cpp
+ Between lines 1164 and 1195 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\cpu_particles_3d.cpp
+Found 21 duplicate lines with fingerprint a7f07135d8fc1450d895831de4d523ca in the following files:
+ Between lines 1173 and 1200 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\rich_text_label.cpp
+ Between lines 1910 and 1936 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\rich_text_label.cpp
+ Between lines 2351 and 2378 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\rich_text_label.cpp
+Found 21 duplicate lines with fingerprint 1fab67954d9c6e3bd156c172f50d63bd in the following files:
+ Between lines 369 and 394 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\font.cpp
+ Between lines 432 and 457 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\font.cpp
+Found 21 duplicate lines with fingerprint fd3237617bc3b35e38a24e7bd7bef0a6 in the following files:
+ Between lines 447 and 473 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\rich_text_label.cpp
+ Between lines 479 and 505 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\rich_text_label.cpp
+Found 21 duplicate lines with fingerprint 68e91b7f042af73b24cbcfc36687c68b in the following files:
+ Between lines 620 and 646 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\label.cpp
+ Between lines 1134 and 1160 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\label.cpp
+Found 21 duplicate lines with fingerprint 44d6f564f345a3a60e8bfdabddf82d0d in the following files:
+ Between lines 401 and 426 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\font.cpp
+ Between lines 464 and 489 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\font.cpp
+Found 22 duplicate lines with fingerprint 6480f26b47652d2eef4ecbfd314342af in the following files:
+ Between lines 1415 and 1439 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\line_edit.cpp
+ Between lines 1281 and 1305 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\line_edit.cpp
+Found 22 duplicate lines with fingerprint 5631e27c4c10ab36907f07665afe7ea6 in the following files:
+ Between lines 396 and 420 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\copy_transform_modifier_3d.cpp
+ Between lines 361 and 385 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\convert_transform_modifier_3d.cpp
+Found 22 duplicate lines with fingerprint 22b8e9f254876041b3298dff676c11da in the following files:
+ Between lines 2233 and 2261 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\particle_process_material.cpp
+ Between lines 2175 and 2203 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\particle_process_material.cpp
+Found 22 duplicate lines with fingerprint 96b83042a4c1a5585b9e84a32719736b in the following files:
+ Between lines 80 and 101 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\two_bone_ik_3d.h
+ Between lines 77 and 98 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\iterate_ik_3d.h
+Found 23 duplicate lines with fingerprint f1ec8911bf6df052a6da81833a266ceb in the following files:
+ Between lines 36 and 61 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\chain_ik_3d.cpp
+ Between lines 42 and 67 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\spring_bone_simulator_3d.cpp
+Found 23 duplicate lines with fingerprint 890a07d9e85549db7740604f62fb5bb0 in the following files:
+ Between lines 72 and 97 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\chain_ik_3d.cpp
+ Between lines 162 and 187 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\spring_bone_simulator_3d.cpp
+Found 23 duplicate lines with fingerprint 02a01f333e3990c0764f244d90582305 in the following files:
+ Between lines 244 and 273 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\animated_sprite_2d.cpp
+ Between lines 1178 and 1206 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\sprite_3d.cpp
+Found 23 duplicate lines with fingerprint 5b5da685edf713cf7ea959a95f7375ce in the following files:
+ Between lines 49 and 75 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\cpu_particles_2d.h
+ Between lines 52 and 78 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\cpu_particles_3d.h
+Found 23 duplicate lines with fingerprint 759ca7f680e8e3194864783c2a08749b in the following files:
+ Between lines 6352 and 6377 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\rich_text_label.cpp
+ Between lines 6443 and 6468 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\rich_text_label.cpp
+Found 24 duplicate lines with fingerprint eb7cd7b0c44595740fb79c95658fc954 in the following files:
+ Between lines 249 and 276 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\text_line.cpp
+ Between lines 446 and 473 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\text_line.cpp
+ Between lines 399 and 426 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\text_line.cpp
+Found 24 duplicate lines with fingerprint 444b773e233bb0e757b90de4120d43ea in the following files:
+ Between lines 165 and 199 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\multimesh_instance_2d.cpp
+ Between lines 161 and 195 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\mesh_instance_2d.cpp
+Found 24 duplicate lines with fingerprint 285886cbc31acdc08d711491df20f1cd in the following files:
+ Between lines 1829 and 1852 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\cpu_particles_3d.cpp
+ Between lines 1737 and 1761 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\cpu_particles_2d.cpp
+ Between lines 2764 and 2787 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\particle_process_material.cpp
+Found 24 duplicate lines with fingerprint 453ad7f7299062b10948c9aa438766cb in the following files:
+ Between lines 38 and 72 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\remote_transform_3d.h
+ Between lines 38 and 72 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\remote_transform_2d.h
+Found 25 duplicate lines with fingerprint aad915b9135bc748694ce4a263a2c3d6 in the following files:
+ Between lines 281 and 316 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\area_2d.cpp
+ Between lines 433 and 468 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\area_3d.cpp
+Found 25 duplicate lines with fingerprint c41fa54493bc62b2b9baf35136c847b9 in the following files:
+ Between lines 392 and 420 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\control.cpp
+ Between lines 104 and 131 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\main\window.cpp
+Found 25 duplicate lines with fingerprint 2294050521fc93213092aabd04b7c367 in the following files:
+ Between lines 170 and 205 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\area_2d.cpp
+ Between lines 227 and 262 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\area_3d.cpp
+Found 26 duplicate lines with fingerprint 5ed363a3ad8324f079fd024855eda8b9 in the following files:
+ Between lines 2313 and 2342 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\line_edit.cpp
+ Between lines 1932 and 1961 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\line_edit.cpp
+ Between lines 1866 and 1895 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\line_edit.cpp
+Found 26 duplicate lines with fingerprint dc47700e437f8f9510d79dcb1ae5f651 in the following files:
+ Between lines 1788 and 1824 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\curve.cpp
+ Between lines 941 and 977 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\curve.cpp
+Found 26 duplicate lines with fingerprint 065bc723352e7f5ea612c28ca05a7a22 in the following files:
+ Between lines 2837 and 2868 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\rich_text_label.cpp
+ Between lines 2649 and 2680 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\rich_text_label.cpp
+ Between lines 1830 and 1861 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\rich_text_label.cpp
+Found 26 duplicate lines with fingerprint e6bc1b5b68862221b993e2d57ab0b0ed in the following files:
+ Between lines 944 and 984 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\debugger\scene_debugger.cpp
+ Between lines 872 and 913 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\debugger\scene_debugger.cpp
+Found 26 duplicate lines with fingerprint c80fa3f661e82f847a27ee126f0232b7 in the following files:
+ Between lines 1037 and 1078 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\cpu_particles_3d.cpp
+ Between lines 1025 and 1065 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\cpu_particles_2d.cpp
+Found 26 duplicate lines with fingerprint 7a7f65bfde7f9f4232584cfa6aac6fad in the following files:
+ Between lines 1372 and 1410 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\sprite_3d.cpp
+ Between lines 498 and 536 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\animated_sprite_2d.cpp
+Found 26 duplicate lines with fingerprint afc62bc00f6521fa1cb5b3e40e9a8ced in the following files:
+ Between lines 75 and 112 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\character_body_3d.h
+ Between lines 73 and 110 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\character_body_2d.h
+Found 26 duplicate lines with fingerprint 36235f30f1bb5ff6c5431242e22876a0 in the following files:
+ Between lines 1825 and 1852 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\cpu_particles_3d.cpp
+ Between lines 1733 and 1761 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\cpu_particles_2d.cpp
+Found 26 duplicate lines with fingerprint 139f86946d70410ac44c79df1157ddce in the following files:
+ Between lines 3345 and 3375 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+ Between lines 3423 and 3454 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+Found 28 duplicate lines with fingerprint eb7c2be3a57fac21a19081ad279c2deb in the following files:
+ Between lines 278 and 310 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\color_mode.cpp
+ Between lines 80 and 112 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\color_mode.cpp
+Found 28 duplicate lines with fingerprint 5307780c34434236110352deadab5d29 in the following files:
+ Between lines 258 and 301 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\main\window.cpp
+ Between lines 523 and 566 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\control.cpp
+Found 28 duplicate lines with fingerprint 649556236b2db5e159d90cd46af784bf in the following files:
+ Between lines 278 and 309 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\skeleton_2d.cpp
+ Between lines 238 and 269 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\skeleton_2d.cpp
+Found 28 duplicate lines with fingerprint b1bc1d3a19e1e271a70e13302f6f8576 in the following files:
+ Between lines 2020 and 2049 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\font.cpp
+ Between lines 1707 and 1736 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\font.cpp
+Found 29 duplicate lines with fingerprint f4d16141960cab1064ad6eeb26053904 in the following files:
+ Between lines 1303 and 1333 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\animation\animation_mixer.cpp
+ Between lines 1442 and 1472 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\animation\animation_mixer.cpp
+ Between lines 1530 and 1560 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\animation\animation_mixer.cpp
+Found 29 duplicate lines with fingerprint 4a450eb866e35f560767a2601057d051 in the following files:
+ Between lines 732 and 770 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\cpu_particles_2d.cpp
+ Between lines 678 and 716 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\cpu_particles_3d.cpp
+Found 29 duplicate lines with fingerprint 6db537b7712562594427ebc22bbc07fc in the following files:
+ Between lines 1360 and 1399 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\importer_mesh.cpp
+ Between lines 2133 and 2172 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\mesh.cpp
+Found 30 duplicate lines with fingerprint 6b9ab162f1cdd8fc6977f0e1531e8eae in the following files:
+ Between lines 44 and 89 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\shape_cast_3d.cpp
+ Between lines 165 and 210 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\ray_cast_3d.cpp
+Found 31 duplicate lines with fingerprint 35e275a23eeaee24a657521990abff4c in the following files:
+ Between lines 7809 and 7849 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\rich_text_label.cpp
+ Between lines 8329 and 8369 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\rich_text_label.cpp
+Found 31 duplicate lines with fingerprint 230f4a80d3613d7c0aaeb5fa1e67badc in the following files:
+ Between lines 870 and 913 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+ Between lines 1797 and 1840 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+Found 32 duplicate lines with fingerprint 69aed5f54558b7c35af9e73e330f18c3 in the following files:
+ Between lines 7853 and 7884 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\text_edit.cpp
+ Between lines 3462 and 3493 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\line_edit.cpp
+Found 32 duplicate lines with fingerprint 474e6bbf4e4c712533df0e7958b7a1f7 in the following files:
+ Between lines 1073 and 1121 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\sprite_3d.cpp
+ Between lines 126 and 175 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\animated_sprite_2d.cpp
+Found 33 duplicate lines with fingerprint a379bd7bcecc3ebb265a861b7e744bbd in the following files:
+ Between lines 487 and 528 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\label_3d.cpp
+ Between lines 3237 and 3278 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+Found 33 duplicate lines with fingerprint 24124d9a0fb4cd6e18ace1ab1cb4be30 in the following files:
+ Between lines 40 and 72 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\line_edit.h
+ Between lines 81 and 113 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\text_edit.h
+Found 33 duplicate lines with fingerprint 1ca1ae862a509c56bc8600210cda9251 in the following files:
+ Between lines 395 and 436 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\text_line.cpp
+ Between lines 442 and 483 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\text_line.cpp
+Found 34 duplicate lines with fingerprint 020d0a166fb35e120bde99f4ad163e0b in the following files:
+ Between lines 1524 and 1560 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\animation\animation_mixer.cpp
+ Between lines 1436 and 1472 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\animation\animation_mixer.cpp
+Found 35 duplicate lines with fingerprint 0ad344a3e8233827b4885b9d29b76685 in the following files:
+ Between lines 1643 and 1677 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\cpu_particles_2d.cpp
+ Between lines 1734 and 1768 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\cpu_particles_3d.cpp
+Found 35 duplicate lines with fingerprint 7091779f4ac4df134b08003c52dc4e12 in the following files:
+ Between lines 192 and 242 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\animated_sprite_2d.cpp
+ Between lines 1127 and 1176 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\sprite_3d.cpp
+Found 35 duplicate lines with fingerprint 6f61a32eca24b67265d918f681e72c98 in the following files:
+ Between lines 712 and 755 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\text_paragraph.cpp
+ Between lines 985 and 1028 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\text_paragraph.cpp
+Found 35 duplicate lines with fingerprint 1cccccd6fe87ec8af35536a9d487b427 in the following files:
+ Between lines 1679 and 1717 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\cpu_particles_2d.cpp
+ Between lines 1770 and 1808 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\cpu_particles_3d.cpp
+Found 35 duplicate lines with fingerprint 64325d4eca9e5e13bd2b09fa819d1167 in the following files:
+ Between lines 532 and 581 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\label_3d.cpp
+ Between lines 3280 and 3329 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\resources\3d\primitive_meshes.cpp
+Found 36 duplicate lines with fingerprint 170d4ad214f6cc30d12168cc00acc653 in the following files:
+ Between lines 295 and 344 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\code_edit.cpp
+ Between lines 128 and 177 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\code_edit.cpp
+Found 37 duplicate lines with fingerprint 4703902a141f1f5922ebe2e2ab5db547 in the following files:
+ Between lines 204 and 266 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\rigid_body_2d.cpp
+ Between lines 205 and 267 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\rigid_body_3d.cpp
+Found 38 duplicate lines with fingerprint 6a884fe321815a65f727bb81552e6590 in the following files:
+ Between lines 338 and 381 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\cpu_particles_3d.cpp
+ Between lines 399 and 442 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\cpu_particles_2d.cpp
+Found 39 duplicate lines with fingerprint a208c054b0e2550ad36ee037d219a19b in the following files:
+ Between lines 3284 and 3335 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\line_edit.cpp
+ Between lines 8708 and 8759 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\text_edit.cpp
+Found 43 duplicate lines with fingerprint 7e81005b4cf2fab0ea3ca432a9468871 in the following files:
+ Between lines 1866 and 1916 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\line_edit.cpp
+ Between lines 1932 and 1982 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\line_edit.cpp
+Found 43 duplicate lines with fingerprint ba2b3feaebd47566eead375229066cbf in the following files:
+ Between lines 3226 and 3273 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\line_edit.cpp
+ Between lines 8653 and 8700 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\text_edit.cpp
+Found 47 duplicate lines with fingerprint 448a2cbcb8a137710e9e99d441dbe9d1 in the following files:
+ Between lines 836 and 918 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\cpu_particles_2d.cpp
+ Between lines 785 and 867 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\cpu_particles_3d.cpp
+Found 48 duplicate lines with fingerprint 86a257156cad22be09968f9404f1d05b in the following files:
+ Between lines 66 and 136 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\3d\physics\area_3d.h
+ Between lines 64 and 134 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\2d\physics\area_2d.h
+Found 53 duplicate lines with fingerprint 89286a5f6dc0b9ba04aeae47a0334908 in the following files:
+ Between lines 789 and 852 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\line_edit.cpp
+ Between lines 2355 and 2418 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\gui\text_edit.cpp
+Found 60 duplicate lines with fingerprint 9906483ddaf5398e29d00891472b07f8 in the following files:
+ Between lines 708 and 796 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\animation\animation_blend_space_2d.cpp
+ Between lines 517 and 605 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\scene\animation\animation_blend_space_1d.cpp
+Found 10308 duplicate lines in 647 blocks in 204 files
+Processed a total of 198282 significant (327267 raw) lines in 723 files
+Processing time: 2.218sec

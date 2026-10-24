@@ -1,0 +1,780 @@
+login,type,comments,patterns,top_pattern_share,top_pattern,empty_share,behaviour_flag
+Repiteo,User,5272,617,0.66,thanks!,0.0,True
+dhoverb,User,39,9,0.54,done,0.0,True
+SeremTitus,User,12,9,0.33,"reasons for closing:
+
+* i’d like to allow others to take o",0.0,False
+Flarkk,User,44,30,0.32,rebased,0.0,False
+akien-mga,User,2908,1750,0.25,thanks!,0.0,False
+jiasas888b,User,16,8,0.25,"> > will it support non-ascii characters in the future?
+> 
+>",0.0,False
+zuedev,User,17,13,0.24,resolved in N,0.0,False
+ashwinvbs,User,13,11,0.23,done,0.0,False
+DDarby-Lewis,User,31,25,0.23,done,0.0,False
+aaronjyoder,User,10,9,0.2,updated.,0.0,False
+CantyCanadian,User,10,9,0.2,closed due to new policy refusing features made by new contr,0.0,False
+NicolasVIscool,User,10,9,0.2,> > our game we finally pinpoint the issue on using gpuparti,0.0,False
+sydist,User,10,9,0.2,thanks!,0.0,False
+mcdz,User,10,8,0.2,N,0.0,False
+PabloDevGit,User,74,61,0.19,still in vN.devN.official [N],0.0,False
+riatmax,User,16,14,0.19,i can take a look at this,0.0,False
+KurodaKayn,User,11,10,0.18,> > i added emulated_from_touch because device_id_emulation ,0.0,False
+KCeple77,User,11,10,0.18,bump,0.0,False
+BoraYalcinn,User,12,11,0.17,i would love to look into this.,0.0,False
+jgill88,User,12,11,0.17,"> hey @jgillN, are you planning to work further on this pr? ",0.0,False
+bludosDevv,User,12,11,0.17,"> there might be a language barrier here, you are still not ",0.0,False
+jinyangcruise,User,141,116,0.16,fixed.,0.0,False
+johnseabird,User,13,12,0.15,good news!?!? i'm currently not able to reproduce this with ,0.0,False
+Arnklit,User,116,98,0.15,done,0.0,False
+erikscott128,User,33,28,0.15,fixed in latest commit.,0.0,False
+radiKal07,User,13,12,0.15,"i'm running into a similar issue, for some users my game cra",0.0,False
+DataTriny,User,14,13,0.14,very likely a duplicate of N.,0.0,False
+FreedomEr-xst,User,22,16,0.14,> what input mode are you using? are you using something lik,0.0,False
+connortodd21,User,28,24,0.14,"thanks, updated!",0.0,False
+Brogolem35,User,36,32,0.14,done.,0.0,False
+patrykkalinowski,User,14,13,0.14,"i did test it with quest N controllers through meta link, wh",0.0,False
+yahkr,User,22,20,0.14,"updated to N
+
+edit: N",0.0,False
+EricDeng1001,User,15,14,0.13,"> reproducible on vN.dev.custom_build [N].
+> 
+> i was able t",0.0,False
+GlitchedCode922,User,15,14,0.13,"> cannot reproduce on N cachy os kde, file deletion fails wi",0.0,False
+MarcusBuer,User,15,14,0.13,"resolved in N
+thank you!",0.0,False
+TCROC,User,40,36,0.12,done :),0.0,False
+ArseniyMirniy,User,17,16,0.12,> [@arseniymirniy](N this sounds like [N](N,0.0,False
+GeorgeS2019,User,16,15,0.12,follow further discussion of godot demo on Nd ik [here](N,0.0,False
+ismailivanov,User,17,16,0.12,done,0.0,False
+L3GiaBao,User,16,15,0.12,sorry! i accidentally deleted the head fork repo. i'll creat,0.0,False
+goatchurchprime,User,65,59,0.11,there is a new `audioserver.get_input_frames(frames)` functi,0.0,False
+ghsoares,User,18,17,0.11,"```suggestion
+		_get_camera_projection(_near).project_origi",0.0,False
+DarkKilauea,User,141,121,0.11,applied.,0.0,False
+enessmr,User,18,17,0.11,"<img width=""N"" height=""N"" alt=""image"" src=""N",0.0,False
+revaraver,User,10,10,0.1,this is a request that should not be merged. vscode defaults,0.0,False
+Francis-of-ASCII,User,10,10,0.1,"hello! i have been using godot for a little while, and i've ",0.0,False
+nonchip,User,10,10,0.1,"what do you mean by ""get the ability to listen""? like mentio",0.0,False
+mukarramarif,User,10,10,0.1,"hi @athousandships, can i tackle this issue? new contributor",0.0,False
+madokadev,User,10,10,0.1,"at this point, wouldn't it be better to revert the original ",0.0,False
+lawnjelly,User,442,382,0.1,thanks!,0.0,False
+IrisHormoviti,User,10,10,0.1,> changes to `ui_cancel` in a way that makes it not work wit,0.0,False
+Josvanegmond,User,10,10,0.1,"> it is indeed not useful for most containers, and even for ",0.0,False
+lajawi,User,10,10,0.1,i just came across a similar issue with the `follow system t,0.0,False
+klianc09,User,10,10,0.1,i can confirm this still happens in vN.stable.official [N] b,0.0,False
+Konserva-bruh,User,10,10,0.1,just checked this out on my system and found that it only ha,0.0,False
+PiewieP,User,10,10,0.1,"i ran into this limitation with the following use case:
+buil",0.0,False
+dinklydoo,User,10,10,0.1,"looks like a texture repeat issue, i get expected black when",0.0,False
+fakemaxwell,User,10,10,0.1,"i think this is related to N
+
+messing with the premultiply o",0.0,False
+Mopzilla,User,10,10,0.1,"sorry to comment further on this post, but i am confused on ",0.0,False
+20k,User,10,10,0.1,"interesting, i wonder if it'd be worth adding a warning when",0.0,False
+Dowsley,User,10,10,0.1,@calinou what's nowadays' stance on having two separate styl,0.0,False
+DinoMC,User,10,10,0.1,"hmm, ok this is harder to test than i thought. when i restar",0.0,False
+sigmund68k,User,10,10,0.1,NbetaN on windows throwing errors with visible_error project,0.0,False
+reduz,User,10,10,0.1,"@kobewi 
+> N is still not addressed.
+
+afaik th",0.0,False
+ondesic,User,10,10,0.1,"this is not the problem. the problem is, the program executi",0.0,False
+Gnumaru,User,10,10,0.1,"that's right, i should not be able to create an instance of ",0.0,False
+qarmin,User,10,10,0.1,"in the issue, there were only examples of things that could ",0.0,False
+Flix3r,User,10,10,0.1,"the problem does sadly occur for me on windows N, using the ",0.0,False
+zeux,User,10,10,0.1,this has been rebased.,0.0,False
+CodeForBeauty,User,10,10,0.1,unable to reproduce on windows N machine with latest version,0.0,False
+rune-scape,User,21,19,0.1,rebased onto master and verified the tests with and without ,0.0,False
+snosrati200,User,10,10,0.1,"hi, has anyone started on this yet? i can reproduce the reim",0.0,False
+tciviero,User,21,20,0.1,N,0.0,False
+Bashar-R,User,21,20,0.1,any updates on this,0.0,False
+WickedInsignia,User,10,10,0.1,"> then again, in the issue there's scenes like this:
+
+can ",0.0,False
+Xiexe,User,10,10,0.1,"> i believe unity has the [same issue](N
+> 
+> it's a fundame",0.0,False
+jedomed,User,10,10,0.1,> this happens still with N and it's not an updated project.,0.0,False
+gnat,User,20,19,0.1,"solution: this is how you enable it, built-in script enjoyer",0.0,False
+MarkoGrbec,User,10,10,0.1,"> this is due the physics collision and raycasts, multiple i",0.0,False
+MBCX,User,10,10,0.1,> can you remove the `color` related changes from this pr. t,0.0,False
+iMytDev,User,10,10,0.1,"just one detail: sometimes the script updates, and other tim",0.0,False
+MattParkerDev,User,41,38,0.1,removed :),0.0,False
+Mupli,User,10,10,0.1,found something strange: when compatibility windows N.  game,0.0,False
+gitsomebit,User,10,10,0.1,> i'm not sure what is expected with arcs with such a high w,0.0,False
+PwaPois,User,10,10,0.1,> > i don't think the `==` and `!=` operators should even at,0.0,False
+RoyalXXX,User,10,10,0.1,"**godot vN.stable.official** [N]
+**windows N N-bit NhN, N**
+",0.0,False
+OffsetMOSFET,User,10,10,0.1,"> fyi, consider compiling the following c code with ` -wunus",0.0,False
+thygrrr,User,10,10,0.1,> where can i find any examples that are not N years old or ,0.0,False
+Radivarig,User,10,10,0.1,"this was closed as completed, but i don't see the full compa",0.0,False
+bitwes,User,10,10,0.1,"i tried:
+```gdscript
+func _enter_tree() -> void:
+	_working_b",0.0,False
+clarence112,User,10,10,0.1,"there's a weird extra side effect of this bug:
+if you attach",0.0,False
+Rinnegatamante,User,10,10,0.1,done.,0.0,False
+AlexandrDzyuba,User,10,10,0.1,after moving from N stable to N i get that error but in my c,0.0,False
+SpockBauru,User,10,10,0.1,i'm out of the loop for a while so tested for both N-devN an,0.0,False
+yikescloud,User,10,10,0.1,"> to clarify, switching to a custom main screen plugin cause",0.0,False
+xhocquet,User,10,10,0.1,i've been using this issue as an opportunity to get godot bu,0.0,False
+AdamLearns,User,10,10,0.1,i had nearly this exact same issue happen to me and determin,0.0,False
+PushOriginMaster-force,User,10,10,0.1,my main concern is for applications/games that rely heavily ,0.0,False
+Maaack,User,10,10,0.1,"here's the output:
+```
+[N]
+systemN thelio io N
+{ ""raw_name"":",0.0,False
+SizzlingWalrus,User,10,10,0.1,"i’d like to work on this issue.
+i already reproduced the bug",0.0,False
+AtomicAntt,User,10,10,0.1,thank you for the feedback! i have posted a new pr at N whic,0.0,False
+thathurtabit,User,10,10,0.1,"if this bug continues, i'll see if i can create an mrp, but ",0.0,False
+brainfoolong,User,21,20,0.1,"sure, good catch. i've changed it.",0.0,False
+Onebit5,User,11,11,0.09,all commits squashed into one.,0.0,False
+MileyHollenberg,User,11,11,0.09,"sorry, thought this was going to my personal fork to try and",0.0,False
+darksylinc,User,11,11,0.09,> i saw the compute shader are using a workgroup size of N. ,0.0,False
+MiracleAig,User,11,11,0.09,i tried the same thing on windows and something i noticed is,0.0,False
+huwpascoe,User,22,21,0.09,bastiaan's implementing the feature in a new pr if you want ,0.0,False
+nieboczek,User,11,11,0.09,"showcase video
+
+N",0.0,False
+jeronimo-schreyer,User,11,11,0.09,documentation updated🙂,0.0,False
+hogoww,User,11,11,0.09,"thanks a bunch for the feedback !
+also, talking about it he",0.0,False
+h1v9,User,11,11,0.09,"> indeed, i think it's possible to reduce the frequency of `",0.0,False
+gongpha,User,11,11,0.09,another file that makes a hang (tested in vN.dev.mono.gh-N [,0.0,False
+ashtonmeuser,User,11,11,0.09,"closing in favour of N. @athousandships, sorry for the troub",0.0,False
+AeioMuch,User,11,11,0.09,"this is not specific to macos.
+this is because the connectio",0.0,False
+anleer297,User,11,11,0.09,i honestly don't know because i just downloaded godot on and,0.0,False
+torcado194,User,11,11,0.09,"> i think whatever implementation is used for an ""editor-onl",0.0,False
+tmilker,User,11,11,0.09,@mickeon could i get another review please?,0.0,False
+twrightsman,User,11,11,0.09,committed the suggestion and squashed the commits :slightly_,0.0,False
+Kairuni,User,11,11,0.09,looks like they're sometimes coming back on the first reload,0.0,False
+lander-vr,User,11,11,0.09,"tested and works as expected!
+
+N",0.0,False
+HarDevSan,User,11,11,0.09,> interestingly i was able to reproduce the issue in any for,0.0,False
+nycdotnet,User,11,11,0.09,this is a video repro (around N seconds).  i start on the sc,0.0,False
+olivatooo,User,11,11,0.09,happening again on N coming from N,0.0,False
+robob27,User,11,11,0.09,fixing ci,0.0,False
+ratkingsminion,User,11,11,0.09,"in our case the pr would be an improvement, we have levels f",0.0,False
+Ezequias-Rodrigues,User,11,11,0.09,the input function and _mouse_hit_test will only be called i,0.0,False
+BenLubar,User,11,11,0.09,my use case: i want to make my http requests blocking if `--,0.0,False
+CodeSmith32,User,11,11,0.09,"> or implement a ""floating origin"" system, i.e. leave the ca",0.0,False
+saierXP,User,47,44,0.09,"duplicated of
+- N",0.0,False
+taelspinner,User,11,11,0.09,@aaronjyoder any interest in implementing this proposal? N,0.0,False
+shadow-foss,User,11,11,0.09,happy to work on this once a fix is agreed on.,0.0,False
+Ayanakoji77,User,23,22,0.09,ok,0.0,False
+BigFriendlyGeek42,User,11,11,0.09,this issue is no longer present in the latest experimental r,0.0,False
+w2zyx,User,11,11,0.09,this is cool,0.0,False
+Tio-Henry,User,11,11,0.09,"in godot N, is it still not possible to use dualsense featur",0.0,False
+45DegreeAngl,User,11,11,0.09,"N
+
+i created this pull request that solves the issue",0.0,False
+TranquilMarmot,User,11,11,0.09,"this is documented in the upgrade guide from N -> N
+N",0.0,False
+musjj,User,11,11,0.09,"@jamesmowery
+
+hey did you ever get this feature to work on",0.0,False
+limbonaut,User,11,11,0.09,"we get ""libc++abi: pure virtual function called!"" periodical",0.0,False
+that404nerd,User,11,11,0.09,will this support cmake? i have cmake as the build tool rath,0.0,False
+boycher,User,11,11,0.09,"@athousandships thanks, i fixed all the broken up lines and ",0.0,False
+SilverWolveGames,User,11,11,0.09,thank you !,0.0,False
+SuperTemich2005,User,11,11,0.09,i believe i know what's going on. the visibleonscreennotifie,0.0,False
+Macksaur,User,11,11,0.09,there is definitely value in having both. it would be a sham,0.0,False
+zacharyhevey-cloud,User,26,25,0.08,i will look into it.,0.0,False
+SourceOfHTML,User,13,13,0.08,not reproducible in vN.dev.custom_build [N] or vN.stable.arc,0.0,False
+Stavrolet,User,12,12,0.08,i can't reproduce this bug on either N.dev([commit](N,0.0,False
+comminux,User,25,24,0.08,N,0.0,False
+coppolaemilio,User,13,13,0.08,"@yeldhamdev seems like not, so you should probably take it o",0.0,False
+RainCmd,User,13,13,0.08,"you're correct.
+in the current official implementation, the",0.0,False
+wwrzal,User,12,12,0.08,"@tokageitlab thanks for feedback!
+
+allowing changing of du",0.0,False
+Arjun-singh-rawatt,User,12,12,0.08,i’ll update the documentation to clarify the current limitat,0.0,False
+ugursoy,User,12,12,0.08,i don't think issue is related to the nested/unique naming (,0.0,False
+Seb105,User,12,12,0.08,i've been suffering from this issue too. @hippogyz solution ,0.0,False
+brcontainer,User,13,13,0.08,> thinking about this some more i am almost certain this is ,0.0,False
+MauriceButler,User,12,12,0.08,"after the fix is applied.
+
+N",0.0,False
+jasonswearingen,User,12,12,0.08,> in my case the issue was having two classes with the same ,0.0,False
+geowarin,User,13,13,0.08,should this be cherry picked to N?,0.0,False
+OS-of-S,User,12,12,0.08,"ok, i see that this is powerful tool to get a detailed bug r",0.0,False
+enderprism,User,12,12,0.08,it would be nice to have a fix landing in a hotfix release a,0.0,False
+LordDeatHunter,User,13,13,0.08,"edit: found an existing issue, N
+
+~~while testing, i notic",0.0,False
+jauwnio,User,13,13,0.08,> to those struggling with pinjointNd angular limit issues: ,0.0,False
+Linie3,User,12,12,0.08,> hey! i've also been looking at this issue and opened pr N ,0.0,False
+dog-on-moon,User,12,12,0.08,> edit: i tested some additional versions and it seems vN-st,0.0,False
+Paperzlel,User,13,13,0.08,~~tried this pr out for myself (was thinking about implement,0.0,False
+Rudolph-B,User,74,61,0.08,applied,0.0,False
+Raftatul,User,26,25,0.08,> i would love to review this pr if @nintorch's comments are,0.0,False
+brunosrz,User,24,22,0.08,> observe que já existe uma solicitação de pull request aber,0.0,False
+okaysalmon,User,13,13,0.08,working on making a minimal project now and will upload it o,0.0,False
+miv391,User,12,12,0.08,> are you sure you checked the correct script? sometimes it',0.0,False
+dpnnl,User,13,13,0.08,"> also fine on latest build of N dev
+> 
+> <img alt=""image"" w",0.0,False
+sorascode,User,13,13,0.08,this has been merged into sdl itself so this pr simply updat,0.0,False
+sdsaati,User,12,12,0.08,but i'm trying to simulate the ping command (but with http p,0.0,False
+shitake2333,User,12,12,0.08,@repiteo done! i've squash all commits into a single commit.,0.0,False
+Cre8or,User,13,13,0.08,"wow, it's been a while. i haven't had much time to get this ",0.0,False
+DSOE1024,User,25,24,0.08,is there no compatible solution to choose from? most compute,0.0,False
+skiessq,User,12,12,0.08,i can confirm that the bug is present in vN.rcN (commit `N`),0.0,False
+sonny-campbell,User,13,13,0.08,> my personal framework requires a compilation framework bec,0.0,False
+sockeye-d,User,106,98,0.08,fixed,0.0,False
+AyyZerrAsa,User,12,12,0.08,note that capsule and cylinder radius does not encompass the,0.0,False
+Zephilinox,User,13,13,0.08,i did try that before but it didn't work. i suspect it's ref,0.0,False
+Zamundaaa,User,12,12,0.08,"> first off, video files are not normally encoded with srgb;",0.0,False
+BlooRabbit,User,13,13,0.08,async background loading is a super-desirable feature for we,0.0,False
+BaconEggsRL,User,12,12,0.08,"not sure if i should open a new issue, but i've had the same",0.0,False
+TruelyMostWanted,User,12,12,0.08,"oh i forget the docs, of course!
+doctools called, documenta",0.0,False
+AMouri,User,12,12,0.08,drive-by comments (i work on aosp graphics/display and saw t,0.0,False
+stdmnpkg,User,12,12,0.08,"```
+eightd@lNng [ ~ ] $ godot
+godot engine vN.stable.aosc - ",0.0,False
+EMBYRDEV,User,12,12,0.08,"> thanks for opening a pull request!
+> 
+> feature pull req",0.0,False
+runevision,User,13,13,0.08,@rsubtil you are seeing unexpected results with the balloon ,0.0,False
+DenisSalem,User,12,12,0.08,"@oblepikha 
+
+i'm strugling as well to minimize light leak. 
+",0.0,False
+shana,User,13,13,0.08,"fyi, that is precisely why `vshint_includes` and `vshint_def",0.0,False
+DeltachangeOG,User,12,12,0.08,"> please update the pr title to be more descriptive
+
+pleas",0.0,False
+FeldrinH,User,13,13,0.08,> this is now documented by [godotengine/godot-docsN](N (inc,0.0,False
+Flynsarmy,User,13,13,0.08,just gave it a test and this sadly does not fix N,0.0,False
+paulovbettio,User,13,13,0.08,"the issue persists on godot vN.stable.mono.official [N]
+
+```",0.0,False
+madsbangh,User,13,13,0.08,"for reference, here is a video recording of the repro: N
+
+no",0.0,False
+kekuyer228,User,13,13,0.08,> does this happen on [godot N dev N](N and [godot N dev N](,0.0,False
+Komariarii,User,13,13,0.08,"tested this on N-dev, if the build fails for any reason it c",0.0,False
+marcinn,User,13,13,0.08,"> does it has impact in the performance of the editor?
+
+on",0.0,False
+Kazox61,User,110,99,0.08,added,0.0,False
+vod3,User,12,12,0.08,"i also see this issue with all my assets in godot N, it is c",0.0,False
+TitanNano,User,13,13,0.08,@athousandships thank you for the review.,0.0,False
+maityyy,User,12,12,0.08,"> for your link that optimizes acos out, i couldn't really u",0.0,False
+SoftLattice,User,13,13,0.08,"thanks for checking this!
+
+it was really difficult to get ",0.0,False
+AnityEx,User,12,12,0.08,theres no crash log but i can open and close it before it ha,0.0,False
+ThePuzzlemaker,User,12,12,0.08,i will also add that the official sdl [`testcontroller.c`](N,0.0,False
+The-Cyber-Captain,User,12,12,0.08,"i can still replicate this issue as per N stable. however, i",0.0,False
+StockerGaming,User,12,12,0.08,"i don’t know if this is the right place to post this, but i ",0.0,False
+dt10812,User,12,12,0.08,i tested on my macbook pro with : macos sequoia (N) - multi-,0.0,False
+PureAsbestos,User,13,13,0.08,this does still seem to be the case. i ran into this while m,0.0,False
+braids,User,12,12,0.08,"hey, why is this becoming the new theme? why are we removing",0.0,False
+Infomanic,User,15,15,0.07,> does the windows-editor ci build from here work? keep the ,0.0,False
+Foyezes,User,15,15,0.07,the same also happens if i try to add more than N varyings,0.0,False
+Gaktan,User,15,15,0.07,bumping this. there is no way to prevent an integer overflow,0.0,False
+renanrcp,User,15,15,0.07,hey folks! i saw a few people running into the same hurdles ,0.0,False
+riverfr0zen,User,14,14,0.07,tested the two file approach as described by @kingwad  on co,0.0,False
+IphStich,User,14,14,0.07,i can confirm that this pr increased type-checking performan,0.0,False
+masoud-ata,User,14,14,0.07,@dalexeev thanks for the suggestions. i pushed an update wit,0.0,False
+lord-muad-dib,User,14,14,0.07,those light gray panels provide very low contrast to the tex,0.0,False
+Fluxx7,User,14,14,0.07,"i was trying to think of how to approach that, bufferrd look",0.0,False
+Daylily-Zeleen,User,15,15,0.07,"i‘m sorry to leave a comment to this closed pr.
+i found it ",0.0,False
+SkanerSoft,User,15,15,0.07,linux ubuntu N (xN) crash in random time where opened window,0.0,False
+YYF233333,User,15,15,0.07,closes as N has been merged.,0.0,False
+BManx2000,User,15,15,0.07,"thank you for the workaround, i encountered this with my own",0.0,False
+BlueberryGecko,User,14,14,0.07,so is there a way to get the cell coordinates of a collision,0.0,False
+userhaj,User,15,15,0.07,"> a quick implementation of the same method for macos:
+
+@b",0.0,False
+uno1982,User,46,41,0.07,"<img width=""N"" height=""N"" alt=""image"" src=""N",0.0,False
+WesleyClements,User,14,14,0.07,"[ysort_test.zip](N
+here is the project i used to verif",0.0,False
+Voyend,User,14,14,0.07,> > controls are added as internal children and are not acce,0.0,False
+siliconspecter,User,27,26,0.07,"thank you, applied.",0.0,False
+DanielSnd,User,14,14,0.07,i found a problem using it on macos (i'm using an intel base,0.0,False
+Copperplate,User,14,14,0.07,now this would definitely be an amazing feature to have! gla,0.0,False
+Gramps,User,15,15,0.07,i also noticed [the steam_tracker.cpp seems to link the sdk ,0.0,False
+Galleom,User,15,15,0.07,"i'm sorry, but i'm not really asking for help nor making a q",0.0,False
+pippenpaddleopsicopolis,User,14,14,0.07,resolved conflicts.,0.0,False
+Kn1feKillz,User,14,14,0.07,"reproduced on ubuntu N, wayland.",0.0,False
+kantackistan,User,14,14,0.07,"> fixes N fixes N
+
+@quitN this fix is incomplete: change t",0.0,False
+kiroxas,User,15,15,0.07,i used the _bt_ option from msvc to get the different times ,0.0,False
+kilian-diener,User,14,14,0.07,hei can somebody help me on the dbus/udev topic on linux? or,0.0,False
+kisg,User,45,41,0.07,"```suggestion
+gdobjectinstanceid libgodot_create_godot_inst",0.0,False
+NicholasBolen,User,14,14,0.07,this inconsistency is causing confusions for my team. wasn't,0.0,False
+Pixelmusement,User,15,15,0.07,> unless i'm misunderstanding what low and high intensity mo,0.0,False
+OeilDeLance,User,15,15,0.07,hey i am hitting a wall with this propertycanrevert method t,0.0,False
+jsudol85,User,14,14,0.07,i used ai to clarify the general required workflow,0.0,False
+jams3223,User,14,14,0.07,"> > would you may benchmark the performance?
+> 
+> on my nv",0.0,False
+Leonardo-Ma,User,14,14,0.07,"same issue in N.devN. also believe i had same issue in N. 
+s",0.0,False
+LanzaSchneider,User,15,15,0.07,"@kitbdev 
+<img width=""N"" height=""N"" alt=""image"" src=""N",0.0,False
+jamie-pate,User,15,15,0.07,"bisecting builds:
+good: godot_vN-devN
+bad: godot_vN-devN
+
+N ",0.0,False
+giokhmaladze,User,14,14,0.07,"@arkology funny indeed, i couldn't reproduce that one :d
+
+he",0.0,False
+duianto,User,14,14,0.07,this is a duplicate of that issue.,0.0,False
+gumaciel,User,15,15,0.07,"hey, i'm testing here, seems this problem is solved, but i h",0.0,False
+danbolt,User,14,14,0.07,"i tested @kaleb-reid's changes locally, and they address the",0.0,False
+daveTheOldCoder,User,15,15,0.07,is this what the new url should look like? i just tried it u,0.0,False
+unfa,User,15,15,0.07,"i think i have hit my toe on this.
+
+i have spend like N+ h",0.0,False
+Samvkes,User,14,14,0.07,> please set up [clang-format locally](N,0.0,False
+Scrawach,User,27,26,0.07,fixed,0.0,False
+Shaderd00d,User,15,15,0.07,"@repiteo i'll take care of it, but it may take a few days.
+",0.0,False
+betalars,User,41,38,0.07,"<img width=""N"" height=""N"" alt=""image"" src=""N",0.0,False
+atirutw,User,14,14,0.07,does this conflict with N by any chance?,0.0,False
+alakoring,User,15,15,0.07,same issue if i move the game window to the built-in display,0.0,False
+bearlikelion,User,14,14,0.07,"this has been frustrating to deal with, my game leverages th",0.0,False
+Clubhouse1661,User,15,15,0.07,"i've submitted a pr to fix this: N
+
+updated the documentatio",0.0,False
+CSLRDoesntGameDev,User,14,14,0.07,decided it would be better to move to canvasitem instead of ,0.0,False
+BrianGixxob,User,14,14,0.07,"despite _not_ having any ""multiplayersynchronizer"", i had th",0.0,False
+aterray,User,15,15,0.07,can confirm the same issue affects `capsuleshapeNd` under jo,0.0,False
+ArchercatNEO,User,153,142,0.07,applied.,0.0,False
+williamdev06,User,14,14,0.07,after some digging i manage to fix it and have now created a,0.0,False
+warappa,User,17,17,0.06,i took @roookeee's N prs and played a little bit with it (br,0.0,False
+w4nderlust,User,18,18,0.06,the linux mono ci failure is unrelated to this pr. the faili,0.0,False
+BrotherShort,User,53,50,0.06,done.,0.0,False
+aaronp64,User,16,16,0.06,rebased and updated to replace `localvector` with `string`/`,0.0,False
+Yarwin,User,16,16,0.06,"> this moves platforms inside the scene setup
+
+~~no it doe",0.0,False
+CsloudX,User,33,32,0.06,"<img width=""N"" height=""N"" alt=""image"" src=""N",0.0,False
+shiena,User,94,88,0.06,applied,0.0,False
+scgm0,User,144,135,0.06,does anyone know how to fix this issue?,0.0,False
+rinevard,User,16,16,0.06,i believe the cause of this issue is `if (ap && editor->can_,0.0,False
+rburing,User,47,45,0.06,"```suggestion
+```
+
+this note is not correct. it's not presen",0.0,False
+Ferinzz,User,16,16,0.06,so far i've only found dictionary and array to be passing an,0.0,False
+Hrothdel,User,17,17,0.06,i've made all of the suggested changes. i hope the test name,0.0,False
+GreenCrowDev,User,17,17,0.06,"sorry if this is not the best place to ask, but is the stenc",0.0,False
+paulocoutinhox,User,18,18,0.06,"hi,
+
+nice work.
+
+@rsanchezsaez there is any guy in apple",0.0,False
+paddy-exe,User,16,16,0.06,@jsjtxietian just wanted to bump this up again since now aft,0.0,False
+ndbn,User,16,16,0.06,has similar message (about **llvmpipe** instead my graphic c,0.0,False
+mrcdk,User,18,18,0.06,`resources` can't have required parameters in their `_init(),0.0,False
+matelq,User,18,18,0.06,i've been working on a proof-of-concept that addresses this.,0.0,False
+mahkoh,User,18,18,0.06,i tried the current version of this mr and the editor crashe,0.0,False
+m96-chan,User,31,30,0.06,> screen dpi list should be updated to include this device a,0.0,False
+llama-nl,User,35,34,0.06,"![screenshot_N_N](N
+![screen",0.0,False
+lexum0,User,17,17,0.06,i remember there used to be a documentation page with inform,0.0,False
+bennbollay,User,16,16,0.06,"encountering a crash-on-save, but not sure if it's the same ",0.0,False
+TheDuriel,User,18,18,0.06,"piggybacking on this
+
+vN.stable.official [N]
+
+<img width=""N""",0.0,False
+Skywolf285,User,16,16,0.06,"@calinou 
+
+implementing it that way has a few issues:
+
+N",0.0,False
+Kiisu-Master,User,18,18,0.06,it seems the commit hash in `thirdparty/readme.md` for wayla,0.0,False
+Jules5,User,18,18,0.06,"hello, i don't know if this is the right place to ask but is",0.0,False
+LunaCapra,User,16,16,0.06,seems i failed to put in the correct keywords to find this i,0.0,False
+Leshy-YA,User,18,18,0.06,"> this is expected if you are running with window embedding,",0.0,False
+jack-klein-5,User,18,18,0.06,i added a pull request that should address this issue. this ,0.0,False
+ghostsoft,User,18,18,0.06,"i concur that this improves the result, but there are still ",0.0,False
+ernzo,User,33,32,0.06,"nothing to link, the fix is that exact one liner..
+
+i used",0.0,False
+enetheru,User,49,46,0.06,done,0.0,False
+demolke,User,17,17,0.06,"works great, thanks",0.0,False
+RobProductions,User,16,16,0.06,"@robert-k if both instances are run from the editor, it may ",0.0,False
+RebelliousX,User,16,16,0.06,i also find the name of the property content scaling to be c,0.0,False
+brendevr,User,17,17,0.06,"from a high level view, i was trying to think of the “best” ",0.0,False
+Saulo-de-Souza,User,34,32,0.06,vN.betaN.official [N] continues to have this problem.,0.0,False
+Sauermann,User,17,17,0.06,"> hello @sauermann, by any chance do you still have the fix ",0.0,False
+dagarsar,User,18,18,0.06,"> looks fine, but i wonder if it wouldn't be better to pass ",0.0,False
+csotog98,User,16,16,0.06,"@baconeggsrl 
+no, set_anchors_and_offset_preset doesn't work",0.0,False
+codevogel,User,18,18,0.06,N is plausibly related,0.0,False
+cengiz-pz,User,16,16,0.06,i have built and tested this pr and can confirm that it work,0.0,False
+bsil78,User,18,18,0.06,it seems we are several to have fallen into this freaky hole,0.0,False
+viksl,User,17,17,0.06,@afrospartan all the stuff how to use signals with c# be it ,0.0,False
+venilark,User,17,17,0.06,"would this also work for a characterbodyNd, with colliders i",0.0,False
+uoslider-wq,User,31,29,0.06,as i understand it the list of running scripts (and other th,0.0,False
+totoriel,User,18,18,0.06,> > the profiler does not show which function the lag is com,0.0,False
+Ansraer,User,18,18,0.06,"> why no visibility masks?
+a: ssilvb works better with colo",0.0,False
+Alexofp,User,17,17,0.06,"i'm really not an expert, i'm ready to do any changes. shoul",0.0,False
+AegisTTN,User,20,20,0.05,"this is not exclusive to the docs window, it seems to happen",0.0,False
+YashwanthCB,User,19,19,0.05,"the issue is fixed in N.
+N",0.0,False
+caphindsight,User,22,22,0.05,"when triaging, please also see the related issue N which is ",0.0,False
+Thiago-Weiss,User,19,19,0.05,i duplicate the resource N more times so that when i open th,0.0,False
+VojtaStruhar,User,21,21,0.05,"sure! this evening i'll get to it :) sorry, it's been a whil",0.0,False
+robert-wallis,User,21,21,0.05,"nested objects is interesting, so i did an experiment adding",0.0,False
+cruglet,User,19,19,0.05,"> is this still necessary? now that `bswapN`, `bswapN` and `",0.0,False
+Glorax,User,21,21,0.05,@akien-mga what does this recent activity mean? is this near,0.0,False
+vorvek,User,22,22,0.05,"woops, opened in wrong repo!",0.0,False
+shoyguer,User,19,19,0.05,"hey @radiantgurl , i'd like to know if you will continue you",0.0,False
+Cyklon3000,User,21,21,0.05,"needs update in `labelsettings.xml:N` to
+```
+<member name=",0.0,False
+DarioSamo,User,135,117,0.05,"```
+err_fail_msg(""ray tracing is not currently supported by",0.0,False
+Benjamin-Dobell,User,19,19,0.05,"yeah, i'm honestly not too sure how often people typically t",0.0,False
+billuo,User,19,19,0.05,N changed where double clicking with lmb will create a new s,0.0,False
+Sinowa-Programming,User,22,22,0.05,this pr is finally ready to be looked at. the only major dif,0.0,False
+GDevSh007,User,21,21,0.05,tested it for aab export with a .pN release key but it fails,0.0,False
+zomby138,User,21,21,0.05,i'm experiencing the same problem after moving to N from N. ,0.0,False
+hypotensor,User,19,19,0.05,i'll say this is happening to me for attenuation values as l,0.0,False
+theraot,User,21,21,0.05,"on godot N, i tested the case of saving via running the game",0.0,False
+MartinDelille,User,43,42,0.05,done here: N,0.0,False
+MaxiSanc37,User,19,19,0.05,"hello, is it possible for somebody in the team to assign thi",0.0,False
+h0lley,User,20,20,0.05,"unfortunately this broke my enemy behavior.
+
+my enemies ha",0.0,False
+graphific,User,19,19,0.05,"i'm getting 
+```
+e N:N:N:N   init_input_device: condition ""r",0.0,False
+TheSofox,User,21,21,0.05,just pushed rebase with suggested tweak. confirmed the fix s,0.0,False
+fstxz,User,22,22,0.05,@repiteo rebased,0.0,False
+maidopi-usagi,User,20,20,0.05,closing this as [N ](N has been merged. exactly the same thi,0.0,False
+kubaofc123,User,21,21,0.05,"performance should be exactly the same, though this could be",0.0,False
+michaelgundlach,User,21,21,0.05,"i see the message but not the behavior, in mac os ventura N.",0.0,False
+IntangibleMatter,User,20,20,0.05,"@fire qoi is increasingly popular in many developer circles,",0.0,False
+ethindp,User,19,19,0.05,@athousandships would you prefer that i keep this issue open,0.0,False
+eobet,User,22,22,0.05,"oh, and since there's a minimum width to the columns in the ",0.0,False
+dukeman74,User,21,21,0.05,this effects N as well and is a very unfortunate limitation ,0.0,False
+ndarilek,User,22,22,0.05,"done i hope, thanks for the feedback. wasn't clear on whethe",0.0,False
+JoNax97,User,19,19,0.05,hi! is there any way of stopping the engine from automatical,0.0,False
+Mrfanta-stick,User,20,20,0.05,"thanks for the feedback @dsnopek!
+
+apologies for the delay",0.0,False
+RicardRC,User,19,19,0.05,"bisecting now. thanks to git bisect this was fast :)
+
+bug in",0.0,False
+PateevK,User,22,22,0.05,i've found that `rd_color_multisample_format.is_discardable ,0.0,False
+Alzurana,User,19,19,0.05,"this is indeed an issue.
+the files contents are not leaked, ",0.0,False
+Kimau,User,20,20,0.05,i'm all for updating the original that is what i did in my b,0.0,False
+MewPurPur,User,42,41,0.05,can't reproduce in N,0.0,False
+jamonholmgren,User,21,21,0.05,"this is fixed, issue can be closed.
+
+<img width=""N"" alt=""orp",0.0,False
+ttencate,User,41,40,0.05,done.,0.0,False
+tommygrammar,User,20,20,0.05,"@athousandships 
+
+could you tell me why it looks like it d",0.0,False
+Chubercik,User,20,20,0.05,"no worries; yes, i agree, i'll look into updating all of my ",0.0,False
+David-Zuloyan,User,28,28,0.04,"it looks promising, but there are a lot of graphical artifac",0.0,False
+HEX-23,User,27,27,0.04,"i think this is not particular to c#.
+according to the c++ s",0.0,False
+Fahien,User,26,26,0.04,"> @akien-mga  seems fine, but could you amend the commit tit",0.0,False
+Faless,User,52,51,0.04,"```suggestion
+                ""godot.editor.wasm"": wasm.get_",0.0,False
+realkotob,User,23,23,0.04,superseded by N,0.0,False
+Copilot,Bot,26,26,0.04,the `re` module import should be moved to the top of the fil,0.0,False
+CookieBadger,User,72,69,0.04,"<img width=""N"" height=""N"" alt=""image"" src=""N",0.0,False
+shakesoda,User,23,23,0.04,i've revisited this now that my game uses various combinatio,0.0,False
+shahriarlabib000,User,27,27,0.04,"it would be easier to test, if the pr passes the checks on t",0.0,False
+charjr,User,26,26,0.04,> this seems unreasonable to me. we can't determine where th,0.0,False
+cixil,User,28,28,0.04,i'm going to redo this pr again.,0.0,False
+wagnerfs,User,25,25,0.04,i'm not sure if i can just butt myself in but i'm highly exc,0.0,False
+Zehir,User,27,27,0.04,i just found this issue looking why the metadata was not sav,0.0,False
+wareya,User,26,26,0.04,"at the very least, invalid json shouldn't be generated, even",0.0,False
+Quatumus,User,23,23,0.04,"i am still interested in getting this implemented, i will do",0.0,False
+DexterFstone,User,246,235,0.04,rebase,0.0,False
+DeanLemans,User,24,24,0.04,im getting this issue when select 'upgrade project files' in,0.0,False
+rsubtil,User,345,324,0.04,fixed,0.0,False
+SanNull,User,46,45,0.04,"<img width=""N"" height=""N"" alt=""image"" src=""N",0.0,False
+cpl-s-matsuyama,User,23,23,0.04,"according to apple's documentation, uiapplicationdelegate li",0.0,False
+coobenguy,User,24,24,0.04,i feel like a small amount of blue should be warranted to ke,0.0,False
+Rookfighter,User,51,50,0.04,"thanks, fixed :+N:",0.0,False
+PavielKraskouski,User,27,27,0.04,"@yossdev yes, but the problem is that i want to set the defa",0.0,False
+patwork,User,27,27,0.04,"@ciapas-linux 
+
+<img width=""N"" height=""N"" alt=""image"" src=""N",0.0,False
+prvak,User,24,24,0.04,"this issue is reproducible in N.stable.
+
+for the record, `ge",0.0,False
+benioriginal,User,25,25,0.04,"i did, i didnt bother to do the comments and the text above ",0.0,False
+leandro-benedet-garcia,User,46,45,0.04,> > i would need to find out a way to check the opened scene,0.0,False
+max99x,User,24,24,0.04,"full stack from a sample hang:
+```
+renderingdevicedrivervulk",0.0,False
+mattigu,User,25,25,0.04,"i've traced the issue and have a fix ready, can open a pr sh",0.0,False
+mgiuca,User,25,25,0.04,"ah, thanks for spotting that. i do indeed have ""check for up",0.0,False
+JamesMowery,User,28,28,0.04,just wanted to mention that i can also confirm seeing this (,0.0,False
+Infiland,User,23,23,0.04,"fixed, try it out now",0.0,False
+mieko,User,23,23,0.04,"additional info: 
+
+`interface -> editor -> display scale` is",0.0,False
+dujanhung,User,27,27,0.04,"ok, i have added an mrp and some screenshots.
+now, it's read",0.0,False
+RoyBerardo,User,25,25,0.04,"> if this is to be merged, i guess this will have to be unde",0.0,False
+dmlary,User,23,23,0.04,"agreed, this is not the same as N.
+* the compositoreffect wo",0.0,False
+og-mrk,User,27,27,0.04,"@athousandships completely understandable, just wanted to sh",0.0,False
+nikitalita,User,68,62,0.04,"implemented suggestions, rebased onto current master, ready ",0.0,False
+nikolay-egorov,User,26,26,0.04,are there any updates relating to this one?,0.0,False
+nubels,User,23,23,0.04,i really like this feature. there's a problem on macos thoug,0.0,False
+naturally-intelligent,User,26,26,0.04,"edit: wont let me upload the mrp !-- failed to upload ""chore",0.0,False
+Mike-Litton,User,23,23,0.04,hello. is there a way for me to get this into a custom N bui,0.0,False
+jaydensipe,User,102,97,0.04,done.,0.0,False
+LucaTuerk,User,26,26,0.04,i'd like to take a look at this.,0.0,False
+Lazy-Rabbit-2001,User,23,23,0.04,haven't checked your codes but i'm not sure if there is a me,0.0,False
+KnifeXRage,User,26,26,0.04,"thank you for the guidance! this is my first pull request, s",0.0,False
+hhyyrylainen,User,26,26,0.04,"i can try, but is there like no easy bool variable somewhere",0.0,False
+beicause,User,23,23,0.04,"i personally like okhsl too, but i'm ok with the vhs circle ",0.0,False
+adamscott,User,224,207,0.04,"```suggestion
+```",0.0,False
+gkwaerp,User,23,23,0.04,"> thanks, will give that a whirl
+
+@maran did you get anywher",0.0,False
+huisedenanhai,User,23,23,0.04,hi @rsanchezsaez. i tried the code and it works great! i hav,0.0,False
+j20001970,User,54,53,0.04,"> @jN, find the trace in attached file : [trace.log](N",0.0,False
+inhalt120g,User,25,25,0.04,"> all credit to the creator, but sorry, i tested it and i do",0.0,False
+hsvfan-jan,User,28,28,0.04,"i'm against this change, as the vhs circle is a bit outdated",0.0,False
+ultsi,User,23,23,0.04,fixed clang formatting issue,0.0,False
+warriormaster12,User,48,47,0.04,[screencast_N_N.webm](N,0.0,False
+Arecher,User,57,56,0.04,"<img width=""N"" height=""N"" alt=""image"" src=""N",0.0,False
+Ardot66,User,35,35,0.03,i just tested this again and can confirm that it is still an,0.0,False
+ydeltastar,User,38,38,0.03,"> interesting. what sort of errors?
+
+applying these change",0.0,False
+timothyqiu,User,108,106,0.03,fixed by N,0.0,False
+Cautami,User,31,31,0.03,i've added the user_defined_path member to the editorsetting,0.0,False
+Maran23,User,32,32,0.03,"> weird, no blurrying happens on my side by testing the exac",0.0,False
+MatthiasBae,User,32,32,0.03,> all to save on memory. it sounds very hacky to me. one cou,0.0,False
+actforjason,User,31,31,0.03,@bromeon are there any obstacles for merging? does this requ,0.0,False
+KeyboardDanni,User,31,31,0.03,it looks like the existing bool on node is getting polled ev,0.0,False
+MJacred,User,32,32,0.03,> i couldn't observe the first _process() call outputting th,0.0,False
+MadeScientist,User,74,70,0.03,"> please describe the issue in detail in writing, the video ",0.0,False
+KenzieMac130,User,31,31,0.03,> @passivestar could you give this a try on some materials o,0.0,False
+MikeSchulze,User,31,31,0.03,"@dalexeev how to call overwritten variadic functions?
+````g",0.0,False
+iuymatiao,User,33,33,0.03,"out of curiosity, i tried exporting an hdr version of the tp",0.0,False
+timoschwarzer,User,35,35,0.03,"- rebased
+- added `render_transform_enabled` to toggle whet",0.0,False
+Cykyrios,User,64,63,0.03,rebased.,0.0,False
+RandomShaper,User,39,39,0.03,"i think we do have some issue here.
+
+resource loading works ",0.0,False
+pafuent,User,32,32,0.03,superseded by N,0.0,False
+GiacomoPope,User,29,29,0.03,"i am in the same position, 
+
+godot version: vN.stable.offici",0.0,False
+precup,User,35,35,0.03,@cedarbob which tab label are you referring to? if you're re,0.0,False
+paulloz,User,31,31,0.03,i seem to have missed these projects in N. good catch.,0.0,False
+GustJc,User,35,35,0.03,"> <img alt=""image"" width=""N"" height=""N"" src=""N",0.0,False
+GabCoolDude,User,36,36,0.03,"oops, i did not mean to do that, i was just trying to squash",0.0,False
+Goldenlion5648,User,159,151,0.03,done,0.0,False
+rsanchezsaez,User,37,37,0.03,@bastiaanolij @huisedenanhai @dsnopek @ccranney thanks a lot,0.0,False
+DaveTheEggman,User,37,37,0.03,"please run `prek` locally so style checks would pass, you ca",0.0,False
+EdwardChanCH,User,144,136,0.03,rebased after `N.stable`. updated [test script](N,0.0,False
+cdemirer,User,37,37,0.03,i think i prefer the behavior of this one (warn for constant,0.0,False
+van800,User,34,34,0.03,"changes in rider, which allow using these features over dap ",0.0,False
+celyk,User,34,34,0.03,for programmatically overriding the orientation despite what,0.0,False
+devloglogan,User,31,31,0.03,@huwpascoe thanks for sharing! it looks like this is caused ,0.0,False
+norepro,User,35,35,0.03,this is my first pull request to this project. did my best t,0.0,False
+neclor,User,31,31,0.03,i believe the issue is caused by an incorrect attempt to mix,0.0,False
+PiCode9560,User,76,75,0.03,superseded by N,0.0,False
+Jesusemora,User,35,35,0.03,@xuhuisheng the problem happens when using the `node name:` ,0.0,False
+fkeyzuwu,User,33,33,0.03,"tested a bit more, seems to work well. should be merged into",0.0,False
+ettiSurreal,User,38,38,0.03,does it support snapping?,0.0,False
+Nallebeorn,User,38,38,0.03,"> hello! i was looking forward for this feature, but the pul",0.0,False
+ominousllama,User,33,33,0.03,setting editor setting `interface/editor/display/single_wind,0.0,False
+onequid,User,34,34,0.03,~~i cannot reproduce it in a master branch build in win N. i,0.0,False
+mooflu,User,31,31,0.03,works for me. the linked issue for N was user error by not a,0.0,False
+markdibarry,User,30,30,0.03,"i'm not able to reproduce this.
+
+N
+
+can yo",0.0,False
+lyuma,User,111,109,0.03,check for `!read_only`,0.0,False
+miruji,User,34,34,0.03,"in version vN.stable.official [N], vN.devN.official [N] this",0.0,False
+hsandt,User,29,29,0.03,for the part about script variable assigned value / override,0.0,False
+Nolkaloid,User,35,35,0.03,i definitely agree with the fact that it should be standardi,0.0,False
+geekley,User,30,30,0.03,question: does this implementation also support (currently o,0.0,False
+Nintorch,User,775,718,0.03,hello! may i ask if the issue is still reproducible in godot,0.0,False
+almic,User,34,34,0.03,"unfortunately, my specific use case involves a modification ",0.0,False
+a-johnston,User,34,34,0.03,"i tested the current code, this pr, and @torcadoN's patch on",0.0,False
+Zireael07,User,155,150,0.03,why close?,0.0,False
+skorpnok,User,38,38,0.03,fix for both the issue and the problems with N,0.0,False
+TokisanGames,User,34,34,0.03,why was this closed? it's the only one that supports drawabl,0.0,False
+YuriSizov,User,31,31,0.03,"> i know we had a discussion about instanced scenes, and cor",0.0,False
+BlueCube3310,User,162,155,0.03,closing as superseded by N,0.0,False
+BluesM18A1,User,30,30,0.03,> i think this is just misunderstanding of the rect mode. th,0.0,False
+VewDev,User,43,43,0.02,> to resolve the problem of how to create one set of input e,0.0,False
+AThousandShips,User,9411,8202,0.02,"```suggestion
+```",0.0,False
+ScatteredComet,User,49,49,0.02,"hi, i'm happy to help here: its quite difficult to find out ",0.0,False
+PhairZ,User,40,40,0.02,this is intended behavior. sliding through the slider is lim,0.0,False
+Ryan-000,User,53,53,0.02,"is there a reason this didn't make it into N, given N landed",0.0,False
+ELginas,User,44,44,0.02,"<img width=""N"" height=""N"" alt=""image"" src=""N",0.0,False
+neikeq,User,44,44,0.02,this is ready now (only pending squashing the commits). i ma,0.0,False
+ej-sanmartin,User,40,40,0.02,"who would've though N would cause so many problems lol
+
+debu",0.0,False
+elvisish,User,60,60,0.02,"in case it's of use to anyone, i'm just using this to get a ",0.0,False
+dsnopek,User,678,655,0.02,"```suggestion
+#ifdef web_enabled
+```",0.0,False
+Rindbee,User,187,179,0.02,N,0.0,False
+MattiaZir,User,40,40,0.02,"thank you for the clear instructions, i've created a pr that",0.0,False
+Christakou,User,46,46,0.02,i've come across the exact same problem and would love to se,0.0,False
+Chestnut45,User,40,40,0.02,i had a few more minutes available to test and was able to c,0.0,False
+kevinlam508,User,41,41,0.02,i'm not sure why the unit tests step hung for that one check,0.0,False
+zorbathut,User,51,51,0.02,> compartmentalize this pr into the first minimum core chang,0.0,False
+wheatear-dev,User,60,60,0.02,follow up question - and i appreciate this significantly exp,0.0,False
+CarrotOfPower,User,81,80,0.02,i just updated N and fixed some bugs contained in this pr / ,0.0,False
+BuzzLord,User,49,49,0.02,"after today's discussion, it seems that we're leaning toward",0.0,False
+Chaosus,User,92,91,0.02,"```suggestion
+			code += "", "";
+```",0.0,False
+jcostello,User,125,124,0.02,[screencast from N-N-N N-N-N.webm](N,0.0,False
+Meorge,User,508,499,0.02,"```suggestion
+				[b]note:[/b] this feature is only support",0.0,False
+Koyper,User,62,62,0.02,"> doesn't seem to fix the issue
+
+the whack-a-mole continue",0.0,False
+MajorMcDoom,User,56,56,0.02,> i disagree. a single curve Nd resource can help author man,0.0,False
+ajreckof,User,65,65,0.02,duplicate of N,0.0,False
+wjt,User,46,46,0.02,i have rebased this branch atop `master`. there were no conf,0.0,False
+zedzee37,User,43,43,0.02,"hello, i am looking into this bug and it appears that any ne",0.0,False
+shiva-kar,User,44,44,0.02,"**possible cause:**
+editor settings appear to retain referen",0.0,False
+sphynx-owner,User,42,42,0.02,"i apologize for the bother, i should have been cleaner and c",0.0,False
+solodeveloping,User,55,55,0.02,i'm note sure if it's the same or if it's related to N but t,0.0,False
+FyiurAmron,User,49,49,0.02,@athousandships and @aaronfranke see N . i've che,0.0,False
+brycehutchings,User,48,48,0.02,> could you squash your commits? see our [pull request guide,0.0,False
+Oblepikha,User,44,44,0.02,"> changing ""import tracks"" option to `ifpresent` (from `ifpr",0.0,False
+bluebirdsan,User,53,53,0.02,fair enough. consistency is important,0.0,False
+blackears,User,44,44,0.02,i was thinking that i should use a second rendering device b,0.0,False
+ryevdokimov,User,249,234,0.02,superseded by: N,0.0,False
+dalexeev,User,664,626,0.02,* see also N.,0.0,False
+notroid5,User,53,53,0.02,"same for `save_png`, so probably all methods.",0.0,False
+glkdrlgkrlzflnjkgh,User,43,43,0.02,this is probably why ci-cd is very painful.,0.0,False
+aurpine,User,52,52,0.02,added a section explaining the alternative. maybe we could m,0.0,False
+groud,User,99,98,0.02,same as above.,0.0,False
+mrjustaguy,User,228,221,0.02,still reproducible on N stable,0.0,False
+lostminds,User,42,42,0.02,in what situation are you trying to quit your app on ios? as,0.0,False
+daniel080400,User,60,60,0.02,"i just got time recently, now i'm testing the new code ( thi",0.0,False
+HydrogenC,User,91,89,0.02,> great work! can you be specific about which areas were cop,0.0,False
+Moddingear,User,52,52,0.02,i've done the requested changes over on N should i make a ne,0.0,False
+Joy-less,User,113,112,0.02,fixed,0.0,False
+Jaytheway,User,51,51,0.02,"am i understanding correctly, that the original issue is onl",0.0,False
+MopanionStudios,User,63,63,0.02,> i suggest getting rid of the ssiltype field and introducin,0.0,False
+mFieldHouses,User,46,46,0.02,could this get reviewed by the editor team?,0.0,False
+mikest,User,48,48,0.02,i'm running to this with an areaNd that is slowly growing in,0.0,False
+matheusmdx,User,351,325,0.02,also reproducible on N stable and N dev N,0.0,False
+xuhuisheng,User,129,129,0.01,"@spicothespiritguy 
+it is wired that i changed safe margin f",0.0,False
+syntaxerror247,User,473,468,0.01,done!,0.0,False
+Bromeon,User,97,97,0.01,this general idea being scattered across several issues/prs ,0.0,False
+Calinou,User,1497,1397,0.01,- superseded by N,0.0,False
+Kaleb-Reid,User,158,157,0.01,rebased onto master,0.0,False
+bruvzg,User,1615,1571,0.01,superseded by N,0.0,False
+blueskythlikesclouds,User,391,386,0.01,"```suggestion
+// this approximation expects non-negative inp",0.0,False
+RgeditV1,User,101,101,0.01,"oh right, working on it",0.0,False
+dugramen,User,83,83,0.01,"ok rebased it, but theres a failed test idk about. it looks ",0.0,False
+LiveTrower,User,102,102,0.01,what i don't understand is why not opt to do the complete im,0.0,False
+jrouwe,User,271,266,0.01,"> either way, there is still a new default value for total_m",0.0,False
+StarryWorm,User,368,359,0.01,merging into N,0.0,False
+Synzorasize,User,89,89,0.01,most builtin class properties can be stored in scene files b,0.0,False
+MarianoGnu,User,80,80,0.01,"according to this new information, i could have the behavior",0.0,False
+AdriaandeJongh,User,350,345,0.01,"> <img alt=""image"" width=""N"" height=""N"" src=""N",0.0,False
+voylin,User,80,80,0.01,> thanks for the pr! improvements like these should be accom,0.0,False
+tdaven,User,77,77,0.01,at least for my simple use of msaa this restores it to worki,0.0,False
+jitspoe,User,101,101,0.01,"i tried to debug this while it was happening, but unfortunat",0.0,False
+QbieShay,User,222,218,0.01,closing in favor of N,0.0,False
+Naros,User,104,104,0.01,"correct me, but isn't this now exposed in `scriptlanguageext",0.0,False
+Jordyfel,User,70,70,0.01,an update to the gdextension docs in the manual would be nee,0.0,False
+hpvb,User,139,138,0.01,have you read our [ai contribution guidlines](N,0.0,False
+ghost,User,370,365,0.01,any updates?,0.0,False
+Nodragem,User,111,111,0.01,"i think it might just be poor default settings, and it may j",0.0,False
+TheDying0fLight,User,159,159,0.01,tested it again in N on steam and can't reproduce anymore,0.0,False
+arkology,User,322,315,0.01,- same as N,0.0,False
+allenwp,User,600,585,0.01,these are the old ntsc/pal luminance weights. they should pr,0.0,False
+NoNormalDev,User,221,219,0.01,see also N,0.0,False
+NoctemCat,User,87,87,0.01,speaking of integrating separate wasm modules. after some ti,0.0,False
+JekSun97,User,89,89,0.01,"@clayjohn 
+maybe the rendering team should take a look at th",0.0,False
+Image-unavailable,User,124,124,0.01,this might also fix N.,0.0,False
+kleonc,User,286,283,0.01,done.,0.0,False
+lodetrick,User,93,93,0.01,updated the function signatures as suggested by kobewi,0.0,False
+m4gr3d,User,536,524,0.01,superseded by N,0.0,False
+kitbdev,User,1098,1084,0.01,- fixed by N,0.0,False
+mihe,User,544,539,0.01,this can be reverted as well.,0.0,False
+migueldeicaza,User,69,69,0.01,it is possible that it depends on how deep the hierarchy goe,0.0,False
+YeldhamDev,User,1022,984,0.01,done.,0.0,False
+WhalesState,User,171,169,0.01,i’m not sure what regressions these changes could introduce ,0.0,False
+vaner-org,User,186,186,0.01,"seems solved to me, thank you.",0.0,False
+smix8,User,130,130,0.01,if `merge_rasterizer_cell_scale ` at the lowest possible val,0.0,False
+fire,User,344,338,0.01,"<img width=""N"" height=""N"" alt=""image"" src=""N",0.0,False
+Delsin-Yu,User,126,126,0.01,"currently supported documentation blocks are:
+- `summary`
+",0.0,False
+Schnorg,User,71,71,0.01,"i ran your sample, and just wanted to note that if you drop ",0.0,False
+Shadows-of-Fire,User,101,101,0.01,"> if sizing dictionaries is a bottleneck, then you are alrea",0.0,False
+HolonProduction,User,1127,1066,0.01,can't reproduce in vN.stable.flathub [N],0.0,False
+Giganzo,User,100,100,0.01,reported here in betaN N,0.0,False
+Geometror,User,68,68,0.01,"yes, i would, but it's not my highest priority right now. ma",0.0,False
+passivestar,User,187,184,0.01,"tested, solves the issue",0.0,False
+raulsntos,User,142,141,0.01,"- closing as duplicate of N
+- should be fixed by N",0.0,False
+DeeJayLSP,User,314,311,0.01,a rebase was needed after `audio_stream_wav.cpp/h` were move,0.0,False
+Saul2022,User,140,140,0.01,pretty cool addition .  in the meantime theres an addon too ,0.0,False
+romgerman,User,176,176,0.01,i think this one counts N,0.0,False
+chocola-mint,User,83,83,0.01,> one could argue editor_description shouldn't even be avail,0.0,False
+stuartcarnie,User,417,404,0.01,done!,0.0,False
+TrueJole,User,69,69,0.01,"also crashed on windows:
+godot vN.stable - windows N (build ",0.0,False
+TokageItLab,User,687,676,0.01,dupe of N,0.0,False
+ColinSORourke,User,93,93,0.01,"@kobewi updated warning language, and changed to throw a toa",0.0,False
+unit-tick,User,169,167,0.01,fixed,0.0,False
+CreatedBySeb,User,71,71,0.01,"rebase was fairly straightforward, and it still seems to be ",0.0,False
+clayjohn,User,959,936,0.01,can be removed,0.0,False
+Akosmo,User,163,163,0.01,i'm not yet knowledgeable about contribution guidelines for ,0.0,False
+Mickeon,User,787,783,0.0,it's [been said](N that N,0.0,False
+Alex2782,User,208,208,0.0,"> oxipng -o max --zopfli -a -s
+
+N
+
+~~note: `zopfli",0.0,False
+BastiaanOlij,User,466,465,0.0,done,0.0,False
+KoBeWi,User,3757,3650,0.0,"<img width=""N"" height=""N"" alt=""image"" src=""N",0.0,False
+Ivorforce,User,1368,1356,0.0,"```suggestion
+	return request_extensions;
+```",0.0,False
+deralmas,User,421,418,0.0,"hi, can you still reproduce this issue?",0.0,False
+aaronfranke,User,328,328,0.0,"see the discussion in pr N
+
+in godot N and earlier, invisibl",0.0,False

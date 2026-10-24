@@ -1,0 +1,758 @@
+Similarity Analyser 2.5.10 - http://www.harukizaemon.com/simian
+Copyright (c) 2003-2018 Simon Harris.  All rights reserved.
+Simian is not free unless used solely for non-commercial or evaluation purposes.
+{failOnDuplication=true, ignoreCharacterCase=true, ignoreCurlyBraces=true, ignoreIdentifierCase=true, ignoreModifiers=true, ignoreStringCase=true, language=C++, threshold=10}
+Found 10 duplicate lines with fingerprint 19bdc3785197d688f634455e2a3594b7 in the following files:
+ Between lines 293 and 305 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+ Between lines 209 and 221 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+Found 10 duplicate lines with fingerprint 6beaebc602797766515cebee1ae2f8d2 in the following files:
+ Between lines 2797 and 2808 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+ Between lines 5080 and 5091 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+Found 10 duplicate lines with fingerprint 6bfec3cc2b078229db753ac28b9f8c5c in the following files:
+ Between lines 232 and 241 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_3d\navigation_server_3d.cpp
+ Between lines 210 and 219 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_2d\navigation_server_2d.cpp
+Found 10 duplicate lines with fingerprint ad366c52d88ecb34aa9d3baf18328710 in the following files:
+ Between lines 155 and 164 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\server_wrap_mt_common.h
+ Between lines 141 and 150 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\server_wrap_mt_common.h
+Found 10 duplicate lines with fingerprint c8a4f1d9773af76ec194a68b639d9911 in the following files:
+ Between lines 505 and 515 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\light_storage.h
+ Between lines 73 and 83 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\dummy\storage\light_storage.h
+Found 10 duplicate lines with fingerprint d8a3ac790eaef08639401906c494613e in the following files:
+ Between lines 209 and 222 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_3d\navigation_server_3d.h
+ Between lines 195 and 207 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_2d\navigation_server_2d.h
+Found 10 duplicate lines with fingerprint 5c98a2b8e2d2467100943d4fc7bb7c92 in the following files:
+ Between lines 2692 and 2704 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+ Between lines 2508 and 2520 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+Found 10 duplicate lines with fingerprint f7b74b7f3c9f26f88aadb3a27cd12da0 in the following files:
+ Between lines 321 and 333 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+ Between lines 237 and 249 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+Found 10 duplicate lines with fingerprint ef1d4fa93170169918e8eeddce1d43c6 in the following files:
+ Between lines 349 and 361 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+ Between lines 265 and 277 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+Found 10 duplicate lines with fingerprint c8ae45972661726202228d1a26fe9975 in the following files:
+ Between lines 331 and 342 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\effects\tone_mapper.cpp
+ Between lines 240 and 251 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\effects\tone_mapper.cpp
+Found 10 duplicate lines with fingerprint df24b7e910f44d00ce51b3ba472d7625 in the following files:
+ Between lines 341 and 351 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+ Between lines 313 and 323 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+ Between lines 285 and 295 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+Found 10 duplicate lines with fingerprint 31794cbadbc28fa804b2af0099e370ba in the following files:
+ Between lines 1962 and 1975 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+ Between lines 1883 and 1896 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+Found 10 duplicate lines with fingerprint 93e768f5fa848fb93950128b74cc17f0 in the following files:
+ Between lines 122 and 131 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\storage\particles_storage.h
+ Between lines 502 and 513 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\rendering_server.h
+Found 10 duplicate lines with fingerprint 5676a86dd3fb6628c769db5d7a16da3d in the following files:
+ Between lines 2839 and 2851 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+ Between lines 2807 and 2819 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+ Between lines 2775 and 2787 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+Found 10 duplicate lines with fingerprint 9a798d93979fb9637d29b395143527c9 in the following files:
+ Between lines 7219 and 7230 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+ Between lines 7151 and 7162 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+ Between lines 7086 and 7097 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+Found 10 duplicate lines with fingerprint a582c93459a24647b1b6c2baa3accafc in the following files:
+ Between lines 499 and 509 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+ Between lines 473 and 483 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+ Between lines 447 and 457 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+ Between lines 421 and 431 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+Found 10 duplicate lines with fingerprint a98c2d46e0700dd6125ad917f5c49e40 in the following files:
+ Between lines 163 and 176 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_3d\navigation_server_3d.h
+ Between lines 152 and 165 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_2d\navigation_server_2d.h
+Found 10 duplicate lines with fingerprint 0347b0edf456f3e63e8532935fe732bc in the following files:
+ Between lines 727 and 737 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.h
+ Between lines 149 and 159 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\dummy\storage\texture_storage.h
+Found 10 duplicate lines with fingerprint 04e3b7d2d0742d0769146db0d52aedca in the following files:
+ Between lines 380 and 389 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\server_wrap_mt_common.h
+ Between lines 366 and 375 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\server_wrap_mt_common.h
+Found 10 duplicate lines with fingerprint 64a66285e1558af97dd7d2c37f379627 in the following files:
+ Between lines 238 and 254 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_3d\navigation_server_3d.h
+ Between lines 220 and 236 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_2d\navigation_server_2d.h
+Found 10 duplicate lines with fingerprint 3eabd0b58b02960d131be9636485040d in the following files:
+ Between lines 680 and 689 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\server_wrap_mt_common.h
+ Between lines 666 and 675 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\server_wrap_mt_common.h
+Found 10 duplicate lines with fingerprint 3c5da52b03065537ede11c38bd6b7778 in the following files:
+ Between lines 5294 and 5309 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+ Between lines 5236 and 5252 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+Found 10 duplicate lines with fingerprint e112c10e1a765a71c9074c6faa46fdd1 in the following files:
+ Between lines 2618 and 2631 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+ Between lines 519 and 532 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+Found 10 duplicate lines with fingerprint 06c30aa000654a53ce9eb6c3d081afbd in the following files:
+ Between lines 230 and 239 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\server_wrap_mt_common.h
+ Between lines 216 and 225 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\server_wrap_mt_common.h
+Found 10 duplicate lines with fingerprint 95f12aee6ff0e39d3b4e5d97b36accb8 in the following files:
+ Between lines 362 and 375 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\scene_shader_forward_mobile.h
+ Between lines 364 and 377 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\scene_shader_forward_clustered.h
+Found 10 duplicate lines with fingerprint 72333f9eca0aaff37dfcf50901fd3ca5 in the following files:
+ Between lines 617 and 630 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\material_storage.cpp
+ Between lines 216 and 229 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\dummy\storage\material_storage.cpp
+Found 10 duplicate lines with fingerprint 02fd988bf5537ff1aaf52ccdf07bb645 in the following files:
+ Between lines 455 and 464 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\server_wrap_mt_common.h
+ Between lines 441 and 450 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\server_wrap_mt_common.h
+Found 10 duplicate lines with fingerprint 3d043c1ddba94b30a16d0cf74002e95e in the following files:
+ Between lines 475 and 489 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\effects\bokeh_dof.cpp
+ Between lines 424 and 438 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\effects\bokeh_dof.cpp
+Found 10 duplicate lines with fingerprint 66c16ed2783fc3475d3ecb557f617493 in the following files:
+ Between lines 305 and 314 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\server_wrap_mt_common.h
+ Between lines 291 and 300 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\server_wrap_mt_common.h
+Found 10 duplicate lines with fingerprint 122b54ff706cf9fe74d28533cf9f5fa3 in the following files:
+ Between lines 63 and 76 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_3d\queries\physics_shape_query_parameters_3d.h
+ Between lines 65 and 78 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_2d\queries\physics_shape_query_parameters_2d.h
+Found 10 duplicate lines with fingerprint 02406eb701ddd5fdb1842cf1f316e9f9 in the following files:
+ Between lines 427 and 437 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\scene_shader_forward_mobile.cpp
+ Between lines 484 and 494 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\scene_shader_forward_clustered.cpp
+Found 10 duplicate lines with fingerprint 78c67eeb46f61c68fac9cbc02d59f859 in the following files:
+ Between lines 156 and 166 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_3d\navigation_server_3d_dummy.h
+ Between lines 142 and 152 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_2d\navigation_server_2d_dummy.h
+Found 10 duplicate lines with fingerprint f9cda6a8312d5b9df42bc280cd912717 in the following files:
+ Between lines 431 and 443 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_3d\physics_server_3d_extension.cpp
+ Between lines 340 and 352 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_2d\physics_server_2d_extension.cpp
+Found 10 duplicate lines with fingerprint e7a62dfb1b52179624c7129739ed99fc in the following files:
+ Between lines 295 and 304 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\storage\environment_storage.h
+ Between lines 216 and 225 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_scene_render.h
+Found 10 duplicate lines with fingerprint 8e6f65c4613bd8bd978bfdf259a7f69b in the following files:
+ Between lines 605 and 614 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\server_wrap_mt_common.h
+ Between lines 591 and 600 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\server_wrap_mt_common.h
+Found 10 duplicate lines with fingerprint b4d2480567ca326c49f18e436f19d249 in the following files:
+ Between lines 107 and 116 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_3d\navigation_server_3d_dummy.h
+ Between lines 97 and 106 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_2d\navigation_server_2d_dummy.h
+Found 10 duplicate lines with fingerprint 51482bf7af5ffbb8499ed7b0b21981c6 in the following files:
+ Between lines 1670 and 1680 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\rendering_device.h
+ Between lines 1616 and 1626 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\rendering_device.h
+Found 10 duplicate lines with fingerprint 4de858059dfe1afe8a2e5ac165abc246 in the following files:
+ Between lines 1852 and 1865 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\text\text_server.cpp
+ Between lines 1756 and 1769 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\text\text_server.cpp
+Found 10 duplicate lines with fingerprint bbd075fd1469f527e662943d7bf9091f in the following files:
+ Between lines 257 and 267 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+ Between lines 229 and 239 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+ Between lines 201 and 211 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+Found 10 duplicate lines with fingerprint 74959fa20a7f9449198372133568bbc3 in the following files:
+ Between lines 137 and 146 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_3d\navigation_server_3d_dummy.h
+ Between lines 125 and 134 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_2d\navigation_server_2d_dummy.h
+Found 10 duplicate lines with fingerprint ba1dfc96e07778a845393042e4454034 in the following files:
+ Between lines 592 and 603 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\renderer_canvas_render_rd.cpp
+ Between lines 529 and 540 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\renderer_canvas_render_rd.cpp
+Found 10 duplicate lines with fingerprint 89e5a69bcadc4ada53b6e7a2154b2e0b in the following files:
+ Between lines 530 and 539 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\server_wrap_mt_common.h
+ Between lines 516 and 525 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\server_wrap_mt_common.h
+Found 10 duplicate lines with fingerprint 7b7fe406621f78ed425a71319ee77985 in the following files:
+ Between lines 177 and 190 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\rendering_shader_container.h
+ Between lines 1132 and 1145 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\rendering_device_commons.h
+Found 10 duplicate lines with fingerprint 51be6fdf33130a04ecfb0edda4c4f14d in the following files:
+ Between lines 78 and 87 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\server_wrap_mt_common.h
+ Between lines 46 and 55 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\server_wrap_mt_common.h
+Found 10 duplicate lines with fingerprint 9fdbf5788c91322674531a5bc955536d in the following files:
+ Between lines 207 and 217 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\material_storage.cpp
+ Between lines 157 and 167 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\material_storage.cpp
+Found 10 duplicate lines with fingerprint fc2864af95d5b8c166fc69f2447f2a49 in the following files:
+ Between lines 1768 and 1780 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+ Between lines 3088 and 3101 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+Found 10 duplicate lines with fingerprint df3260763d0028b4ced507ad724d6ff6 in the following files:
+ Between lines 1513 and 1523 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\material_storage.cpp
+ Between lines 153 and 163 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\renderer_compositor_rd.cpp
+ Between lines 1946 and 1956 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\renderer_canvas_render_rd.cpp
+Found 10 duplicate lines with fingerprint ff8798a6a159bbb61f871845d639a020 in the following files:
+ Between lines 7233 and 7244 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+ Between lines 7164 and 7175 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+ Between lines 7098 and 7109 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+Found 10 duplicate lines with fingerprint 8dab9dd1d4551bfdb57096343c98edc4 in the following files:
+ Between lines 2725 and 2736 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+ Between lines 2709 and 2720 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+ Between lines 2588 and 2600 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+ Between lines 2542 and 2553 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+ Between lines 2525 and 2537 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+Found 11 duplicate lines with fingerprint 0b43d69b0a3201b18252826ddf77ff1f in the following files:
+ Between lines 99 and 114 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\shader_rd.cpp
+ Between lines 83 and 98 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_include_db.cpp
+Found 11 duplicate lines with fingerprint 6980fb579da4d6c9847a30aeed04d8fa in the following files:
+ Between lines 420 and 434 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\scene_shader_forward_clustered.cpp
+ Between lines 375 and 389 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\scene_shader_forward_mobile.cpp
+Found 11 duplicate lines with fingerprint b85465d5a8861a26855a3c2d4f4fa182 in the following files:
+ Between lines 2690 and 2704 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\environment\gi.cpp
+ Between lines 2850 and 2864 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\environment\gi.cpp
+ Between lines 2917 and 2933 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\environment\gi.cpp
+Found 11 duplicate lines with fingerprint 19fb24bf346ce055d83b9220960a9ee2 in the following files:
+ Between lines 240 and 250 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_scene_render.h
+ Between lines 315 and 325 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\storage\environment_storage.h
+Found 11 duplicate lines with fingerprint 0c335bad90d89c9146be2b949e609ce0 in the following files:
+ Between lines 245 and 259 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_2d\physics_server_2d_wrap_mt.h
+ Between lines 255 and 269 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_3d\physics_server_3d_wrap_mt.h
+Found 11 duplicate lines with fingerprint 115e2642ae987e85a12571e4c9a1aecd in the following files:
+ Between lines 1282 and 1294 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\particles_storage.cpp
+ Between lines 1696 and 1708 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\particles_storage.cpp
+Found 11 duplicate lines with fingerprint 9deb4fd6be87200a63e0f8386e709f14 in the following files:
+ Between lines 1734 and 1750 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+ Between lines 940 and 957 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+Found 11 duplicate lines with fingerprint 193b101a463846f07b711215a30d17f0 in the following files:
+ Between lines 60 and 74 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_2d\physics_server_2d_enums.h
+ Between lines 61 and 75 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_3d\physics_server_3d_enums.h
+Found 11 duplicate lines with fingerprint 29b5701544f56e8a67c74ee2c806dc13 in the following files:
+ Between lines 218 and 233 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_2d\physics_server_2d.h
+ Between lines 229 and 244 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_3d\physics_server_3d.h
+Found 11 duplicate lines with fingerprint 7acf7520304ce3a16e7dc2d24e157f7f in the following files:
+ Between lines 272 and 286 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_2d\physics_server_2d_extension.cpp
+ Between lines 273 and 287 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_3d\physics_server_3d_extension.cpp
+Found 11 duplicate lines with fingerprint 04de44522041d2c3e4cbf9bfc5677d8c in the following files:
+ Between lines 9392 and 9406 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+ Between lines 9440 and 9454 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+Found 11 duplicate lines with fingerprint bfc4da21471361300a4ddd6af6a10b34 in the following files:
+ Between lines 334 and 347 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_2d\physics_server_2d_wrap_mt.h
+ Between lines 421 and 433 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_3d\physics_server_3d_wrap_mt.h
+Found 11 duplicate lines with fingerprint ae1b36f1c43f55fdaf8034d24ffa3352 in the following files:
+ Between lines 443 and 457 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_2d\physics_server_2d_extension.h
+ Between lines 538 and 552 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_3d\physics_server_3d_extension.h
+Found 11 duplicate lines with fingerprint 8fcc87429bd3e79d2596389b83a3febe in the following files:
+ Between lines 31 and 49 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_2d\physics_server_2d_wrap_mt.h
+ Between lines 31 and 49 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_3d\physics_server_3d_wrap_mt.h
+Found 11 duplicate lines with fingerprint daae8223ed2fa3a2bf55341a4fc109af in the following files:
+ Between lines 4687 and 4700 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+ Between lines 3333 and 3346 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+Found 11 duplicate lines with fingerprint b679e84559630611d6f3fa15c60eb028 in the following files:
+ Between lines 686 and 696 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\material_storage.cpp
+ Between lines 1378 and 1388 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\material_storage.cpp
+Found 11 duplicate lines with fingerprint 3c11f52377e77d6e3c8248de8c5a2464 in the following files:
+ Between lines 220 and 235 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\rendering_server.h
+ Between lines 53 and 68 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\storage\mesh_storage.h
+Found 11 duplicate lines with fingerprint 7a81520336b1119806a57454d19900ab in the following files:
+ Between lines 106 and 117 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\dummy\storage\particles_storage.h
+ Between lines 585 and 596 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\particles_storage.h
+Found 11 duplicate lines with fingerprint d291e3f60f5d334a66133a24cfb57adb in the following files:
+ Between lines 288 and 302 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_2d\physics_server_2d_extension.cpp
+ Between lines 292 and 306 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_3d\physics_server_3d_extension.cpp
+Found 11 duplicate lines with fingerprint ee2be157a3028855cc694e87ea5fd9a0 in the following files:
+ Between lines 5262 and 5281 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+ Between lines 3626 and 3645 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+Found 11 duplicate lines with fingerprint 8ddaf0c9e5902cd7f9d26118b35ebd87 in the following files:
+ Between lines 609 and 623 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+ Between lines 2715 and 2729 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+Found 11 duplicate lines with fingerprint 97c8bee620e6c42022968a8afe10f954 in the following files:
+ Between lines 283 and 297 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_2d\physics_server_2d_dummy.h
+ Between lines 289 and 303 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_3d\physics_server_3d_dummy.h
+Found 11 duplicate lines with fingerprint 020cb9a24a14afcbe893d4102c5d27c3 in the following files:
+ Between lines 1453 and 1466 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\rendering_device.h
+ Between lines 1588 and 1600 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\rendering_device.h
+ Between lines 1646 and 1658 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\rendering_device.h
+Found 11 duplicate lines with fingerprint f2ad2992f0b0821682d3458b775a072f in the following files:
+ Between lines 1101 and 1115 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+ Between lines 2298 and 2312 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+Found 11 duplicate lines with fingerprint bc31e377cd1ae09e8dfe6e1d338358c7 in the following files:
+ Between lines 5099 and 5111 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+ Between lines 373 and 385 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+Found 11 duplicate lines with fingerprint d0f79256d6258017c5830f8e5333af06 in the following files:
+ Between lines 331 and 341 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\scene_shader_forward_clustered.h
+ Between lines 328 and 338 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\scene_shader_forward_mobile.h
+Found 11 duplicate lines with fingerprint 4b7ac5d20ff5bdce4b60db919617a895 in the following files:
+ Between lines 7151 and 7163 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+ Between lines 7219 and 7231 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+Found 11 duplicate lines with fingerprint 14a0cd5e98e6d625fe32db189759f7fd in the following files:
+ Between lines 946 and 958 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\text\text_server.cpp
+ Between lines 1128 and 1140 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\text\text_server.cpp
+Found 11 duplicate lines with fingerprint 699d28fca1e3b5201a250b8bdf29b30c in the following files:
+ Between lines 2120 and 2132 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+ Between lines 1121 and 1133 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+Found 11 duplicate lines with fingerprint 7c1013159c227095426d8129719e98dc in the following files:
+ Between lines 541 and 554 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.h
+ Between lines 504 and 517 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.h
+Found 11 duplicate lines with fingerprint 3d0d6d0882df50911df24a72ce97fef4 in the following files:
+ Between lines 2860 and 2875 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+ Between lines 1594 and 1610 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+Found 11 duplicate lines with fingerprint 9608267a309b2f3e6927e496f853c0c3 in the following files:
+ Between lines 96 and 107 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\effects\bokeh_dof.cpp
+ Between lines 302 and 313 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\effects\bokeh_dof.cpp
+Found 11 duplicate lines with fingerprint 76b5a02fa0a16e0ef7f9ed5991c60535 in the following files:
+ Between lines 2741 and 2753 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+ Between lines 2758 and 2770 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+Found 11 duplicate lines with fingerprint d0747d6ffdaf8b6e406dea13a6607d51 in the following files:
+ Between lines 119 and 135 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\audio\effects\audio_effect_delay.cpp
+ Between lines 130 and 146 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\audio\effects\audio_effect_record.cpp
+Found 11 duplicate lines with fingerprint d6bf14dfc0ab1b8b1689ee89283a5c3b in the following files:
+ Between lines 7164 and 7176 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+ Between lines 7233 and 7245 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+Found 11 duplicate lines with fingerprint d4bab14e977fe95efbaad2ea8945ac47 in the following files:
+ Between lines 3545 and 3563 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_scene_cull.cpp
+ Between lines 3598 and 3616 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_scene_cull.cpp
+Found 11 duplicate lines with fingerprint 0c2442660cbd8322b2c0cd41d633442b in the following files:
+ Between lines 287 and 301 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\scene_shader_forward_clustered.h
+ Between lines 288 and 302 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\scene_shader_forward_mobile.h
+Found 11 duplicate lines with fingerprint 05e53aa5d451311c13a6f78de1230f57 in the following files:
+ Between lines 4397 and 4412 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+ Between lines 3024 and 3039 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+Found 11 duplicate lines with fingerprint 15e325f7f83da25b491b2c602913c55f in the following files:
+ Between lines 141 and 154 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_2d\direct_states\physics_direct_space_state_2d.cpp
+ Between lines 141 and 154 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_3d\direct_states\physics_direct_space_state_3d.cpp
+Found 11 duplicate lines with fingerprint dcbbb6758432644b549bf9a19edf91f5 in the following files:
+ Between lines 44 and 58 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\scene_shader_forward_clustered.cpp
+ Between lines 46 and 60 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\scene_shader_forward_mobile.cpp
+Found 11 duplicate lines with fingerprint f231652b77ded936ad5f676a95288b22 in the following files:
+ Between lines 2945 and 2959 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+ Between lines 1676 and 1690 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+Found 11 duplicate lines with fingerprint a17fad6f9bb9a3bd4d140cc92d1c591a in the following files:
+ Between lines 4239 and 4257 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_scene_cull.cpp
+ Between lines 4270 and 4288 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_scene_cull.cpp
+ Between lines 4308 and 4327 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_scene_cull.cpp
+Found 11 duplicate lines with fingerprint 32ba0236b1f2f54a3aab5117815da25a in the following files:
+ Between lines 73 and 88 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\effects\resolve.cpp
+ Between lines 117 and 132 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\effects\resolve.cpp
+Found 12 duplicate lines with fingerprint a0a210b04b3c530637972adcfb8d5383 in the following files:
+ Between lines 1259 and 1273 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+ Between lines 1020 and 1034 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+Found 12 duplicate lines with fingerprint a58af00fc27746596e9f873243c464bd in the following files:
+ Between lines 365 and 376 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\material_storage.h
+ Between lines 350 and 361 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\material_storage.h
+Found 12 duplicate lines with fingerprint 72db10366dff44e3eef2c82f31315574 in the following files:
+ Between lines 7247 and 7263 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+ Between lines 7177 and 7193 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+ Between lines 7110 and 7126 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+Found 12 duplicate lines with fingerprint 5ab7df3f208a88bd63213cbe4022108a in the following files:
+ Between lines 643 and 656 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_viewport.cpp
+ Between lines 557 and 570 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_viewport.cpp
+ Between lines 433 and 447 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_viewport.cpp
+Found 12 duplicate lines with fingerprint 16e3cf01bc41f4d77cd1c7f387ae8bfa in the following files:
+ Between lines 2430 and 2441 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\mesh_storage.cpp
+ Between lines 1932 and 1943 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\mesh_storage.cpp
+Found 12 duplicate lines with fingerprint bcaa2d1782d385abee80229682e2a173 in the following files:
+ Between lines 5503 and 5514 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+ Between lines 5499 and 5510 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+Found 12 duplicate lines with fingerprint ea025f613b9b7ce86199dcf2b303efb5 in the following files:
+ Between lines 156 and 170 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\scene_shader_forward_mobile.cpp
+ Between lines 158 and 172 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\scene_shader_forward_clustered.cpp
+Found 12 duplicate lines with fingerprint a5b07bba2a11504ed6b4c5c54c009591 in the following files:
+ Between lines 1260 and 1275 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+ Between lines 1131 and 1146 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+Found 12 duplicate lines with fingerprint 9fb8851d55f7e131b1bafb9822936f0e in the following files:
+ Between lines 994 and 1011 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\environment\gi.cpp
+ Between lines 744 and 760 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\environment\gi.cpp
+Found 12 duplicate lines with fingerprint 2e70bb7061e7e6429cd6fa63192cc59c in the following files:
+ Between lines 447 and 463 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_3d\navigation_server_3d.h
+ Between lines 414 and 430 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_2d\navigation_server_2d.h
+Found 12 duplicate lines with fingerprint 581bec7023bc1d119c0b53110f92298f in the following files:
+ Between lines 1869 and 1880 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+ Between lines 2999 and 3010 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+Found 12 duplicate lines with fingerprint 81fd570e58b44b57fe3ffab6fc1ca846 in the following files:
+ Between lines 10569 and 10583 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+ Between lines 8388 and 8402 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+Found 12 duplicate lines with fingerprint 69305e7fdc16c9288baeb81a0eb067f6 in the following files:
+ Between lines 2583 and 2596 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\renderer_canvas_render_rd.cpp
+ Between lines 2517 and 2530 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\renderer_canvas_render_rd.cpp
+Found 12 duplicate lines with fingerprint 1a359b4b8820cb03302d740311cbca9b in the following files:
+ Between lines 5519 and 5530 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+ Between lines 5518 and 5529 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+Found 12 duplicate lines with fingerprint 5d8cab616e1388ba050a785273289abe in the following files:
+ Between lines 87 and 100 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_3d\direct_states\physics_direct_space_state_3d.cpp
+ Between lines 87 and 100 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_2d\direct_states\physics_direct_space_state_2d.cpp
+Found 12 duplicate lines with fingerprint e1f7e1cb086cba63db095caad4733207 in the following files:
+ Between lines 1681 and 1695 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_canvas_cull.cpp
+ Between lines 1649 and 1663 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_canvas_cull.cpp
+ Between lines 1615 and 1629 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_canvas_cull.cpp
+Found 13 duplicate lines with fingerprint 76cc3bf6b880291ae9b74b595db8a5ca in the following files:
+ Between lines 680 and 694 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_scene_cull.cpp
+ Between lines 884 and 900 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_scene_cull.cpp
+Found 13 duplicate lines with fingerprint d013507c3e4bf7999c056df8442d14d2 in the following files:
+ Between lines 749 and 762 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\renderer_scene_render_rd.cpp
+ Between lines 963 and 976 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\renderer_scene_render_rd.cpp
+Found 13 duplicate lines with fingerprint 0adefe9ebf069ef3bc74492f558ba5c1 in the following files:
+ Between lines 111 and 124 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_2d\navigation_server_2d_dummy.h
+ Between lines 121 and 134 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_3d\navigation_server_3d_dummy.h
+Found 13 duplicate lines with fingerprint 75a54997b7164d5f9ede0da1505d0bdf in the following files:
+ Between lines 365 and 378 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\rendering_server.h
+ Between lines 124 and 136 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\storage\light_storage.h
+Found 13 duplicate lines with fingerprint e1ae728b0c1bd59b28a3ed7c24545c0e in the following files:
+ Between lines 285 and 298 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+ Between lines 341 and 354 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+Found 13 duplicate lines with fingerprint fd4deb9abddb48b960933459f23980d7 in the following files:
+ Between lines 116 and 132 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\environment\sky.cpp
+ Between lines 217 and 233 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\scene_shader_forward_clustered.cpp
+ Between lines 221 and 237 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\scene_shader_forward_mobile.cpp
+ Between lines 1601 and 1617 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\renderer_canvas_render_rd.cpp
+ Between lines 1322 and 1338 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\material_storage.cpp
+Found 13 duplicate lines with fingerprint 6d38b06c9750a428ee9b3682ba407c74 in the following files:
+ Between lines 447 and 460 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+ Between lines 473 and 486 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+Found 13 duplicate lines with fingerprint 0bd9f852cf059f1a9f32273e56e3f124 in the following files:
+ Between lines 42 and 58 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_2d\physics_server_2d_manager.h
+ Between lines 42 and 58 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_3d\physics_server_3d_manager.h
+Found 13 duplicate lines with fingerprint 0aff92e0204ee54e740d6bac2b0fd3a9 in the following files:
+ Between lines 3047 and 3060 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+ Between lines 1733 and 1746 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+Found 13 duplicate lines with fingerprint 3f2f9a773703915ed4cd2bc5aae17cbe in the following files:
+ Between lines 5288 and 5304 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+ Between lines 5317 and 5333 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+Found 13 duplicate lines with fingerprint 559d9ea1b3803c6c898e31fb1badea81 in the following files:
+ Between lines 1009 and 1023 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+ Between lines 1366 and 1380 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+Found 13 duplicate lines with fingerprint 6f127c812285f634d0a3d14b4216b598 in the following files:
+ Between lines 3504 and 3522 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+ Between lines 517 and 536 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+Found 13 duplicate lines with fingerprint dd471e810c62575b846e552477777f9e in the following files:
+ Between lines 173 and 193 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_2d\navigation_server_2d.h
+ Between lines 184 and 204 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_3d\navigation_server_3d.h
+Found 13 duplicate lines with fingerprint dcc9d4f18b451534f381cdfcf96d7d36 in the following files:
+ Between lines 5268 and 5284 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+ Between lines 5339 and 5356 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+Found 13 duplicate lines with fingerprint 871d1d4d2343d1c389d7f6b8a41aee5b in the following files:
+ Between lines 273 and 288 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_2d\physics_server_2d.h
+ Between lines 375 and 390 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_3d\physics_server_3d.h
+Found 13 duplicate lines with fingerprint ff2787ad15976c55feab7a9a31bc6065 in the following files:
+ Between lines 201 and 214 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+ Between lines 257 and 270 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+Found 13 duplicate lines with fingerprint aeb310d3c97febfc6fd6113e176fa629 in the following files:
+ Between lines 494 and 509 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\effects\copy_effects.cpp
+ Between lines 531 and 546 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\effects\copy_effects.cpp
+Found 13 duplicate lines with fingerprint 5b38147f6a9d5f5389f12c00c70ca715 in the following files:
+ Between lines 2050 and 2064 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\mesh_storage.cpp
+ Between lines 2457 and 2470 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\mesh_storage.cpp
+Found 13 duplicate lines with fingerprint 003dcabc0a531e8608e40d4f53df96b1 in the following files:
+ Between lines 4965 and 4986 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+ Between lines 3499 and 3520 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+Found 13 duplicate lines with fingerprint bd8703c6ed679b5eecee9a29449dbfb1 in the following files:
+ Between lines 188 and 200 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_scene_render.h
+ Between lines 272 and 284 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\storage\environment_storage.h
+Found 13 duplicate lines with fingerprint 287e0aae95d1a8c180f13889497b4c36 in the following files:
+ Between lines 1987 and 1999 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\environment\gi.cpp
+ Between lines 2479 and 2491 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\environment\gi.cpp
+Found 13 duplicate lines with fingerprint dc2eeaf90dec9a6e7c2ed397603b4e13 in the following files:
+ Between lines 1316 and 1328 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\environment\gi.cpp
+ Between lines 1419 and 1431 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\environment\gi.cpp
+Found 13 duplicate lines with fingerprint 542dd7409aaf98a75650ce23f0c3c034 in the following files:
+ Between lines 661 and 673 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\material_storage.cpp
+ Between lines 1353 and 1365 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\material_storage.cpp
+Found 13 duplicate lines with fingerprint 841ffc12d6867053955d53bfc348ef3a in the following files:
+ Between lines 125 and 137 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_scene_render.h
+ Between lines 213 and 225 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\storage\environment_storage.h
+Found 14 duplicate lines with fingerprint 3c574fc7a8549412ab6926de118f2ca9 in the following files:
+ Between lines 62 and 80 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_3d\direct_states\physics_direct_space_state_3d.cpp
+ Between lines 61 and 80 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_2d\direct_states\physics_direct_space_state_2d.cpp
+Found 14 duplicate lines with fingerprint f01c0209d4fddc5e4a39621a3ac7cb13 in the following files:
+ Between lines 1646 and 1661 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\rendering_device.h
+ Between lines 1453 and 1469 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\rendering_device.h
+Found 14 duplicate lines with fingerprint 278711af6dd80be68465731bf66c26fa in the following files:
+ Between lines 299 and 320 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.h
+ Between lines 259 and 280 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.h
+Found 14 duplicate lines with fingerprint fec5c3a2db0af7b4c9f61f416ee191d0 in the following files:
+ Between lines 534 and 554 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\rendering_device_graph.cpp
+ Between lines 489 and 507 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\rendering_device_graph.cpp
+Found 14 duplicate lines with fingerprint 667dc0247cbb028b175d6a19f0e07512 in the following files:
+ Between lines 112 and 131 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_3d\navigation_server_3d.h
+ Between lines 108 and 127 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_2d\navigation_server_2d.h
+Found 14 duplicate lines with fingerprint 00a3d62d9e7775dde2da4e9907154af0 in the following files:
+ Between lines 639 and 657 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\scene_shader_forward_mobile.cpp
+ Between lines 702 and 720 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\scene_shader_forward_clustered.cpp
+Found 14 duplicate lines with fingerprint 814a721176ed6fbf2571379ae0bce22d in the following files:
+ Between lines 468 and 485 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.h
+ Between lines 502 and 519 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.h
+Found 14 duplicate lines with fingerprint f279c692705dfa67c8a9f352e0675b68 in the following files:
+ Between lines 11702 and 11722 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+ Between lines 11675 and 11695 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+Found 14 duplicate lines with fingerprint da949cd6f981ec4045576fa78175fe61 in the following files:
+ Between lines 83 and 102 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_3d\physics_server_3d_types.h
+ Between lines 79 and 98 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_2d\physics_server_2d_types.h
+ Between lines 56 and 75 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_2d\physics_server_2d_types.h
+Found 14 duplicate lines with fingerprint 90d2f1fec9c7ecf746ac0120adacf1c3 in the following files:
+ Between lines 3194 and 3214 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+ Between lines 4567 and 4587 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+Found 14 duplicate lines with fingerprint 917fc7fcc0e8f6b60c30fb740cac7503 in the following files:
+ Between lines 1795 and 1813 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+ Between lines 1745 and 1763 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+Found 14 duplicate lines with fingerprint dee9f6054a957bd563c65281833804be in the following files:
+ Between lines 1039 and 1057 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+ Between lines 1151 and 1169 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+ Between lines 1278 and 1296 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+Found 14 duplicate lines with fingerprint 7aa55e578c2a27f851b841822d39014c in the following files:
+ Between lines 375 and 400 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.h
+ Between lines 729 and 754 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.h
+Found 14 duplicate lines with fingerprint b8ff772695a18bf55cf66ce405f5eed1 in the following files:
+ Between lines 1387 and 1401 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\material_storage.cpp
+ Between lines 704 and 718 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\material_storage.cpp
+Found 15 duplicate lines with fingerprint 04be6c830d88f3c6d33536cc85e3fdc0 in the following files:
+ Between lines 4571 and 4593 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\rendering_device.cpp
+ Between lines 4624 and 4646 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\rendering_device.cpp
+Found 15 duplicate lines with fingerprint 8957f2278c8677fe3ea324ae9a792276 in the following files:
+ Between lines 8466 and 8490 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+ Between lines 10643 and 10667 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+Found 15 duplicate lines with fingerprint 3807088771a992ddd2fc2333c48eaf82 in the following files:
+ Between lines 501 and 526 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\rendering_server.cpp
+ Between lines 537 and 562 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\rendering_server.cpp
+Found 15 duplicate lines with fingerprint 93ab9ae8d88d1da69a5b3ab03205366a in the following files:
+ Between lines 1847 and 1863 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\rendering_device.cpp
+ Between lines 2012 and 2029 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\rendering_device.cpp
+Found 15 duplicate lines with fingerprint 0b9cde50a9e45f99746c3c3e0a13137e in the following files:
+ Between lines 1149 and 1169 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+ Between lines 1038 and 1057 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+Found 15 duplicate lines with fingerprint f3e044851ddef7f697fdeae97b99b9ed in the following files:
+ Between lines 3484 and 3504 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+ Between lines 3882 and 3902 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+Found 15 duplicate lines with fingerprint 574b766f7b1d419c805c1c1d09c98718 in the following files:
+ Between lines 4303 and 4324 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+ Between lines 2935 and 2956 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+Found 15 duplicate lines with fingerprint 9035c0b726a496a7e530acd18817793c in the following files:
+ Between lines 539 and 567 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\rendering_server.cpp
+ Between lines 574 and 602 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\rendering_server.cpp
+Found 15 duplicate lines with fingerprint bb3ad629643156e6bd4911151d060adb in the following files:
+ Between lines 584 and 602 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\environment\fog.cpp
+ Between lines 1070 and 1088 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\environment\fog.cpp
+Found 15 duplicate lines with fingerprint a0c13ec2c3a451df0095004a7d930926 in the following files:
+ Between lines 84 and 110 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_2d\navigation_path_query_result_2d.cpp
+ Between lines 84 and 110 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_3d\navigation_path_query_result_3d.cpp
+Found 15 duplicate lines with fingerprint 8be3fcc6f01b1836e3cf61fef86eebea in the following files:
+ Between lines 341 and 357 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.h
+ Between lines 214 and 230 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.h
+Found 15 duplicate lines with fingerprint d26c7bab3e63cc471fcb79ddf6494423 in the following files:
+ Between lines 976 and 996 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+ Between lines 2235 and 2256 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+Found 15 duplicate lines with fingerprint 22aa5a5da4ad13cb12cb6bc9c9d6ded7 in the following files:
+ Between lines 2311 and 2329 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\text\text_server.cpp
+ Between lines 2337 and 2355 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\text\text_server.cpp
+ Between lines 2363 and 2381 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\text\text_server.cpp
+Found 15 duplicate lines with fingerprint 5b5748c8d98bc08d4af4ad16c6fc9177 in the following files:
+ Between lines 547 and 565 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+ Between lines 572 and 590 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+Found 15 duplicate lines with fingerprint de4052d00bea4e8e7b39269d5d4e5ee9 in the following files:
+ Between lines 702 and 726 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.h
+ Between lines 332 and 356 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.h
+Found 16 duplicate lines with fingerprint 4dd7addefe83f9d96d184ea69d616d52 in the following files:
+ Between lines 103 and 125 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_3d\navigation_path_query_parameters_3d.h
+ Between lines 103 and 125 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_2d\navigation_path_query_parameters_2d.h
+Found 16 duplicate lines with fingerprint d4b8466ac0cc4d6925ea8e0ea931129e in the following files:
+ Between lines 11342 and 11362 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+ Between lines 11315 and 11335 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+Found 16 duplicate lines with fingerprint be080b36ce4b9aa431802fa10cad9da5 in the following files:
+ Between lines 3349 and 3370 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+ Between lines 4741 and 4762 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+Found 16 duplicate lines with fingerprint 20a3008374bec3144d77e16b2f7b7a52 in the following files:
+ Between lines 4062 and 4080 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_scene_cull.cpp
+ Between lines 4037 and 4055 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_scene_cull.cpp
+Found 16 duplicate lines with fingerprint 8b4f4ff0ef19c2870289a4b0f6c6ed63 in the following files:
+ Between lines 2336 and 2355 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\text\text_server.cpp
+ Between lines 2310 and 2329 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\text\text_server.cpp
+Found 16 duplicate lines with fingerprint e67f4d84691ec51865c3d363e1f89d13 in the following files:
+ Between lines 6112 and 6130 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+ Between lines 5989 and 6008 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+Found 16 duplicate lines with fingerprint b69801b58aed08a26bedded51a0c95d1 in the following files:
+ Between lines 63 and 79 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\scene_shader_forward_mobile.cpp
+ Between lines 61 and 77 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\scene_shader_forward_clustered.cpp
+Found 16 duplicate lines with fingerprint a53d4ca9d932c78c37b1bafbf3897dbd in the following files:
+ Between lines 568 and 583 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\rendering_device_commons.cpp
+ Between lines 447 and 462 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\rendering_device_commons.cpp
+Found 16 duplicate lines with fingerprint d637c1a1946de5f71110dc49e169e409 in the following files:
+ Between lines 363 and 386 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_3d\physics_server_3d_extension.h
+ Between lines 363 and 385 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_2d\physics_server_2d_extension.h
+Found 16 duplicate lines with fingerprint cc7c7d2f12900dbae8f4ad3b9f30819a in the following files:
+ Between lines 450 and 465 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.h
+ Between lines 277 and 292 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.h
+Found 16 duplicate lines with fingerprint 6ea5200fa266b7bdd720d87e0d90d349 in the following files:
+ Between lines 31 and 55 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_3d\navigation_constants_3d.h
+ Between lines 31 and 55 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_2d\navigation_constants_2d.h
+Found 16 duplicate lines with fingerprint 12a77b22d297ed7aa743996606726b65 in the following files:
+ Between lines 326 and 345 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_3d\navigation_server_3d.h
+ Between lines 294 and 313 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_2d\navigation_server_2d.h
+Found 16 duplicate lines with fingerprint 1d2573ce7ce4f28e0c3020a8ba40c16a in the following files:
+ Between lines 622 and 642 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\renderer_canvas_render_rd.cpp
+ Between lines 552 and 572 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\renderer_canvas_render_rd.cpp
+Found 17 duplicate lines with fingerprint fc705598468e48fb9b79807c758e4ea9 in the following files:
+ Between lines 925 and 953 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\scene_shader_forward_clustered.cpp
+ Between lines 862 and 890 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\scene_shader_forward_mobile.cpp
+Found 17 duplicate lines with fingerprint bb572915990598122d86ff7987d816b2 in the following files:
+ Between lines 64 and 81 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_2d\navigation_server_2d_dummy.h
+ Between lines 69 and 86 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_3d\navigation_server_3d_dummy.h
+Found 17 duplicate lines with fingerprint 28ade31f430a8d226b50178e5b23135b in the following files:
+ Between lines 286 and 305 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\effects\tone_mapper.cpp
+ Between lines 377 and 396 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\effects\tone_mapper.cpp
+Found 17 duplicate lines with fingerprint 9474f02615fbf0eb1a0252e3ac304c85 in the following files:
+ Between lines 1092 and 1113 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_canvas_cull.cpp
+ Between lines 1205 and 1226 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_canvas_cull.cpp
+Found 17 duplicate lines with fingerprint c4ce72a8bfa1adf208899eb60f0c29ef in the following files:
+ Between lines 1199 and 1226 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+ Between lines 2369 and 2397 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+Found 17 duplicate lines with fingerprint 1ffb865e6dc9327ad2bd049e451724fc in the following files:
+ Between lines 243 and 260 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\scene_shader_forward_clustered.h
+ Between lines 247 and 264 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\scene_shader_forward_mobile.h
+Found 17 duplicate lines with fingerprint 6bcc867602c06ebc28ec4e694cbd4fb0 in the following files:
+ Between lines 134 and 151 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\dummy\storage\light_storage.h
+ Between lines 868 and 885 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\light_storage.h
+Found 17 duplicate lines with fingerprint 23877f832e72852305e2fbbeca63ddee in the following files:
+ Between lines 6870 and 6895 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+ Between lines 7318 and 7343 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+Found 17 duplicate lines with fingerprint 459a21393ec09f25618501fc06c0aa18 in the following files:
+ Between lines 2151 and 2180 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+ Between lines 1149 and 1176 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+Found 18 duplicate lines with fingerprint 469ca8124f12db86ed2c17b94089809b in the following files:
+ Between lines 120 and 140 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\scene_shader_forward_mobile.cpp
+ Between lines 120 and 140 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\scene_shader_forward_clustered.cpp
+Found 18 duplicate lines with fingerprint 1a2a2d842c2e3729b305a9d2401435e3 in the following files:
+ Between lines 722 and 739 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\rendering_device_commons.cpp
+ Between lines 630 and 647 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\rendering_device_commons.cpp
+Found 18 duplicate lines with fingerprint 9e1b0359fe9e71308ba915001a6d50c6 in the following files:
+ Between lines 6310 and 6336 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\rendering_device.cpp
+ Between lines 6145 and 6172 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\rendering_device.cpp
+Found 18 duplicate lines with fingerprint 7effcd8390936eb2bdace2aff751a0a0 in the following files:
+ Between lines 1383 and 1405 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+ Between lines 1025 and 1046 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+Found 18 duplicate lines with fingerprint 8c0778f0adae5c3cdc41bccd52f1576a in the following files:
+ Between lines 3115 and 3139 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+ Between lines 3059 and 3083 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+Found 18 duplicate lines with fingerprint 6b667e8e8241f30c9023285f53d9c327 in the following files:
+ Between lines 3219 and 3249 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+ Between lines 4589 and 4619 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+Found 18 duplicate lines with fingerprint da41c98bf095d258a7365faffc234f1f in the following files:
+ Between lines 1246 and 1269 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\effects\ss_effects.cpp
+ Between lines 864 and 887 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\effects\ss_effects.cpp
+Found 19 duplicate lines with fingerprint a685a64176e2720fb0db0cd7c43ce2ba in the following files:
+ Between lines 1129 and 1150 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+ Between lines 2321 and 2341 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+Found 19 duplicate lines with fingerprint 9b40e77313359f474cd20d2041c6ddf3 in the following files:
+ Between lines 8502 and 8525 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+ Between lines 10679 and 10702 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+Found 19 duplicate lines with fingerprint ce94464457f8c8820bf4333ea86502b7 in the following files:
+ Between lines 896 and 918 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\text\text_server.cpp
+ Between lines 1079 and 1101 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\text\text_server.cpp
+Found 20 duplicate lines with fingerprint 8ed3b7a1112e819e141b027d503b80a4 in the following files:
+ Between lines 222 and 244 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_3d\navigation_path_query_parameters_3d.cpp
+ Between lines 222 and 244 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_2d\navigation_path_query_parameters_2d.cpp
+Found 20 duplicate lines with fingerprint e370132b272eed824ec37cf604b0d417 in the following files:
+ Between lines 1191 and 1220 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\text\text_server.cpp
+ Between lines 1004 and 1033 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\text\text_server.cpp
+Found 20 duplicate lines with fingerprint 5b5f315d6a3661b1d5d8dcd0fc52b880 in the following files:
+ Between lines 602 and 629 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_preprocessor.cpp
+ Between lines 481 and 508 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_preprocessor.cpp
+Found 20 duplicate lines with fingerprint 2197f69c710c48779a3369d88d6d5e8e in the following files:
+ Between lines 1022 and 1041 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+ Between lines 998 and 1017 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+Found 20 duplicate lines with fingerprint 0171344cae84bd7bebef3baece1979c5 in the following files:
+ Between lines 576 and 610 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+ Between lines 3560 and 3592 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+Found 20 duplicate lines with fingerprint c33387dca7426e2f391d1ada09fc42d6 in the following files:
+ Between lines 2023 and 2056 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+ Between lines 3404 and 3437 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+Found 20 duplicate lines with fingerprint ea10ddf91ecd046198766a404ad92d48 in the following files:
+ Between lines 395 and 423 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+ Between lines 5121 and 5149 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+Found 21 duplicate lines with fingerprint 90d66edae4d60545b37e5096e30f640b in the following files:
+ Between lines 42 and 72 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_2d\navigation_server_2d_manager.h
+ Between lines 42 and 72 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_3d\navigation_server_3d_manager.h
+Found 21 duplicate lines with fingerprint 2b3e0589f38178b0d78d0a062afcfef1 in the following files:
+ Between lines 3950 and 3973 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_scene_cull.cpp
+ Between lines 3985 and 4008 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_scene_cull.cpp
+Found 22 duplicate lines with fingerprint 844b338f852777accc5bac735d93a8d5 in the following files:
+ Between lines 87 and 114 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\scene_shader_forward_mobile.cpp
+ Between lines 87 and 114 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\scene_shader_forward_clustered.cpp
+Found 22 duplicate lines with fingerprint 255db81adeb1f9d9f867a1f2865157b2 in the following files:
+ Between lines 2524 and 2551 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+ Between lines 374 and 401 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+Found 23 duplicate lines with fingerprint 476133b8a2fdc639f7803db85eafefb5 in the following files:
+ Between lines 703 and 727 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+ Between lines 3659 and 3683 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+ Between lines 4023 and 4047 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+Found 23 duplicate lines with fingerprint 4e8db3d19f13a7842f1beb95f710f60e in the following files:
+ Between lines 3555 and 3593 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+ Between lines 3956 and 3994 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\texture_storage.cpp
+Found 23 duplicate lines with fingerprint 6b8d652608b3349bf9d9b88e0379f554 in the following files:
+ Between lines 159 and 192 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_2d\physics_server_2d_extension.cpp
+ Between lines 165 and 198 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_3d\physics_server_3d_extension.cpp
+Found 23 duplicate lines with fingerprint 0d7771a7e13c1304f09a0aec78549435 in the following files:
+ Between lines 2143 and 2171 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\display\display_server.cpp
+ Between lines 2225 and 2253 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\display\display_server.cpp
+Found 24 duplicate lines with fingerprint 678684ec018b52211b27e83567874b3a in the following files:
+ Between lines 3993 and 4021 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+ Between lines 3629 and 3657 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+ Between lines 673 and 701 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+Found 25 duplicate lines with fingerprint df115fbe9d9b9b9ae9969ecdbbceaa0e in the following files:
+ Between lines 3144 and 3174 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+ Between lines 1818 and 1849 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+Found 26 duplicate lines with fingerprint 324b1749a697f1e5e9c3fe4765af68f3 in the following files:
+ Between lines 2581 and 2622 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_scene_cull.cpp
+ Between lines 2512 and 2553 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_scene_cull.cpp
+ Between lines 2648 and 2690 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_scene_cull.cpp
+ Between lines 2428 and 2470 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_scene_cull.cpp
+Found 26 duplicate lines with fingerprint dbc0e2f726c5831ff4129402d22e948a in the following files:
+ Between lines 750 and 790 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+ Between lines 1238 and 1277 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+Found 27 duplicate lines with fingerprint 1fd4fc5aa67cc923cdb7002bb5a22079 in the following files:
+ Between lines 61 and 100 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_2d\physics_server_2d_types.h
+ Between lines 65 and 104 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_3d\physics_server_3d_types.h
+Found 27 duplicate lines with fingerprint 3162d9fa5725e2fbdce6d07f5a29882e in the following files:
+ Between lines 2426 and 2470 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_scene_cull.cpp
+ Between lines 2646 and 2690 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_scene_cull.cpp
+Found 27 duplicate lines with fingerprint 9b31cef3998ded926b6e4cd006fbab15 in the following files:
+ Between lines 369 and 405 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\scene_shader_forward_clustered.cpp
+ Between lines 334 and 370 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\scene_shader_forward_mobile.cpp
+Found 28 duplicate lines with fingerprint 592d58057baf05f0f371abf16d9effc7 in the following files:
+ Between lines 348 and 384 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_3d\navigation_server_3d.h
+ Between lines 316 and 352 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\navigation_2d\navigation_server_2d.h
+Found 28 duplicate lines with fingerprint 8320d54ace02e83793bc4a60cdc9f29b in the following files:
+ Between lines 2976 and 3021 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+ Between lines 4348 and 4391 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+Found 28 duplicate lines with fingerprint d1698061ef83eb3691d9debecc308e80 in the following files:
+ Between lines 2135 and 2169 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+ Between lines 846 and 880 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+Found 29 duplicate lines with fingerprint d6845eb5df086a554312bb4839f865c9 in the following files:
+ Between lines 65 and 106 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_2d\physics_server_2d_extension.cpp
+ Between lines 69 and 110 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_3d\physics_server_3d_extension.cpp
+Found 29 duplicate lines with fingerprint 63594105b44875e95c2087e2c04a7731 in the following files:
+ Between lines 150 and 182 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_scene_render.h
+ Between lines 237 and 269 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\storage\environment_storage.h
+Found 30 duplicate lines with fingerprint 5a142775243526388354456ea12fd524 in the following files:
+ Between lines 1867 and 1915 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\text\text_server.cpp
+ Between lines 1771 and 1820 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\text\text_server.cpp
+Found 30 duplicate lines with fingerprint 5000e196723080e64c815bf828f1069e in the following files:
+ Between lines 2259 and 2294 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+ Between lines 1015 and 1052 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+Found 31 duplicate lines with fingerprint c2708bb7b510017ca2467691e3c8e148 in the following files:
+ Between lines 78 and 119 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_2d\physics_server_2d_enums.h
+ Between lines 83 and 123 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\physics_3d\physics_server_3d_enums.h
+Found 36 duplicate lines with fingerprint eefab03ff3a7449332184ae72584fa45 in the following files:
+ Between lines 947 and 982 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\rendering_device_commons.cpp
+ Between lines 394 and 429 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\rendering_device_commons.cpp
+Found 36 duplicate lines with fingerprint 71a3424bb1e92448ada3062abd0e8817 in the following files:
+ Between lines 2493 and 2546 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\environment\gi.cpp
+ Between lines 2002 and 2055 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\environment\gi.cpp
+Found 38 duplicate lines with fingerprint d6afccaa6a5c0b49e4f4831715e7b31b in the following files:
+ Between lines 7093 and 7156 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\rendering_device.cpp
+ Between lines 6953 and 7015 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\rendering_device.cpp
+Found 39 duplicate lines with fingerprint 9ca1eb07e11ae6fa3eb3ce31f9656826 in the following files:
+ Between lines 82 and 124 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\dummy\storage\material_storage.cpp
+ Between lines 1974 and 2016 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\storage_rd\material_storage.cpp
+Found 39 duplicate lines with fingerprint 90f995dc10b3cfcad7da16123441585c in the following files:
+ Between lines 139 and 197 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\scene_shader_forward_clustered.h
+ Between lines 142 and 200 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\scene_shader_forward_mobile.h
+Found 39 duplicate lines with fingerprint 3e22c8ab4ed856c0c6c19110eb4b8c17 in the following files:
+ Between lines 956 and 1016 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\scene_shader_forward_clustered.cpp
+ Between lines 893 and 954 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\scene_shader_forward_mobile.cpp
+Found 40 duplicate lines with fingerprint 0ccc2314b8fed7e12a59424909d9f77c in the following files:
+ Between lines 237 and 286 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.h
+ Between lines 358 and 407 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.h
+Found 42 duplicate lines with fingerprint daf67bb4df5ea6dbf355242fb6a91789 in the following files:
+ Between lines 2645 and 2712 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+ Between lines 540 and 606 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+Found 43 duplicate lines with fingerprint 62046457b5967e25710eaa5daf6e630a in the following files:
+ Between lines 1756 and 1800 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+ Between lines 1812 and 1855 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+ Between lines 1982 and 2026 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+Found 44 duplicate lines with fingerprint 5379f792d73c5c0bf92688d3eb145724 in the following files:
+ Between lines 790 and 851 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\scene_shader_forward_mobile.cpp
+ Between lines 853 and 915 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\scene_shader_forward_clustered.cpp
+Found 47 duplicate lines with fingerprint b849820d7e3f0775352379f5c8b120a1 in the following files:
+ Between lines 1749 and 1800 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+ Between lines 1805 and 1855 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\shader_language.cpp
+Found 49 duplicate lines with fingerprint d73130d98f5892ecf693959fb5cb119d in the following files:
+ Between lines 4481 and 4558 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+ Between lines 3108 and 3185 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+Found 54 duplicate lines with fingerprint 8df35ae9c99663d68b4fd74b05a14271 in the following files:
+ Between lines 3986 and 4055 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+ Between lines 3622 and 3689 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+Found 59 duplicate lines with fingerprint 70cbad1e602e7b55b09f0b160657f759 in the following files:
+ Between lines 3290 and 3376 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+ Between lines 1933 and 2019 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+Found 63 duplicate lines with fingerprint 6e9af321af2b63d81a31c5e867f204d4 in the following files:
+ Between lines 782 and 850 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\scene_shader_forward_clustered.cpp
+ Between lines 719 and 787 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\scene_shader_forward_mobile.cpp
+Found 91 duplicate lines with fingerprint 8fc934bebb2251d16d9636a2da313013 in the following files:
+ Between lines 801 and 932 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_canvas_cull.cpp
+ Between lines 1331 and 1462 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_canvas_cull.cpp
+Found 103 duplicate lines with fingerprint 20e535d3e6d35cd0d39ddbd2e7e173ac in the following files:
+ Between lines 41 and 155 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\display\accessibility_server_enums.h
+ Between lines 319 and 433 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\display\display_server_enums.h
+Found 104 duplicate lines with fingerprint 7d198422783cab7d1caa1e34cd664a19 in the following files:
+ Between lines 1440 and 1591 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_mobile\render_forward_mobile.cpp
+ Between lines 2702 and 2857 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\servers\rendering\renderer_rd\forward_clustered\render_forward_clustered.cpp
+Found 8225 duplicate lines in 484 blocks in 94 files
+Processed a total of 112876 significant (181986 raw) lines in 376 files
+Processing time: 1.812sec

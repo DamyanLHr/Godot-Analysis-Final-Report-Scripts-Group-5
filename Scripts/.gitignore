@@ -1,0 +1,6 @@
+.venv/
+.venv-bots/
+work/
+quality/understand/*.und/
+__pycache__/
+data/github/.*.checkpoint

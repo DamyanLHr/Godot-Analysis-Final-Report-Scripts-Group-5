@@ -1,0 +1,6 @@
+group,prs_opened,prs_reviewed,median_hours_to_first_review
+key,3986,3371,9.73
+newcomer,1153,818,12.96
+other active,927,711,10.67
+no commits in window,1234,441,11.76
+key AND newcomer (excluded),249,206,9.7

@@ -1,0 +1,34 @@
+Similarity Analyser 2.5.10 - http://www.harukizaemon.com/simian
+Copyright (c) 2003-2018 Simon Harris.  All rights reserved.
+Simian is not free unless used solely for non-commercial or evaluation purposes.
+{failOnDuplication=true, ignoreCharacterCase=true, ignoreCurlyBraces=true, ignoreIdentifierCase=true, ignoreModifiers=true, ignoreStringCase=true, language=C++, threshold=10}
+Found 10 duplicate lines with fingerprint f4319b95c86d9c500c5d9d02d3d5a61d in the following files:
+ Between lines 536 and 545 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\main\performance.cpp
+ Between lines 525 and 534 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\main\performance.cpp
+ Between lines 524 and 533 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\main\performance.cpp
+ Between lines 523 and 532 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\main\performance.cpp
+ Between lines 522 and 531 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\main\performance.cpp
+ Between lines 521 and 530 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\main\performance.cpp
+ Between lines 520 and 529 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\main\performance.cpp
+ Between lines 519 and 528 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\main\performance.cpp
+ Between lines 518 and 527 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\main\performance.cpp
+ Between lines 517 and 526 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\main\performance.cpp
+ Between lines 516 and 525 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\main\performance.cpp
+ Between lines 515 and 524 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\main\performance.cpp
+ Between lines 514 and 523 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\main\performance.cpp
+ Between lines 513 and 522 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\main\performance.cpp
+ Between lines 512 and 521 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\main\performance.cpp
+ Between lines 511 and 520 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\main\performance.cpp
+ Between lines 510 and 519 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\main\performance.cpp
+Found 17 duplicate lines with fingerprint 2b2530c5a2ecd9504905ec3c4ca83b64 in the following files:
+ Between lines 709 and 729 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\main\main.cpp
+ Between lines 3209 and 3228 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\main\main.cpp
+Found 17 duplicate lines with fingerprint 15290da8e842681b0ad45e44f737d0e3 in the following files:
+ Between lines 807 and 827 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\main\main.cpp
+ Between lines 3738 and 3759 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\main\main.cpp
+Found 24 duplicate lines with fingerprint cfcd208495d565ef66e7dff9f98764da in the following files:
+ Between lines 511 and 534 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\main\performance.cpp
+ Between lines 510 and 533 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\main\performance.cpp
+Found 126 duplicate lines in 7 blocks in 2 files
+Processed a total of 4671 significant (7242 raw) lines in 9 files
+Processing time: 0.239sec

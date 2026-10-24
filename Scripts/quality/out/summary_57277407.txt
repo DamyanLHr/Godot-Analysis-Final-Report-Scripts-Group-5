@@ -1,0 +1,91 @@
+[population] 63200 hand-written functions; excluded 72872 macro-generated entities (CountLineCode 0; 20581 of them with Cyclomatic > 1)
+=== M1 Cyclomatic per function (Understand), by module ===
+          functions  cc_median  cc_p95  cc_max  n_cc>=10  pct_cc>=10  n_nest>=4
+module                                                                         
+core           8912        1.0    8.00     274       340        3.82        167
+servers        7839        1.0    9.00     431       368        4.69        183
+scene         15958        2.0    9.00     479       715        4.48        411
+editor        10286        2.0   12.00     208       741        7.20        449
+main             64        1.5   55.05     287         9       14.06          7
+drivers         995        1.0   12.00    2545        73        7.34         23
+platform       2643        2.0   11.00    1211       182        6.89         84
+modules       14871        2.0   11.00    1761       885        5.95        461
+tests          1632       10.0   92.45   10116       896       54.90        238
+
+Top 15 functions by Cyclomatic:
+                                            file  line                                                  function  Cyclomatic  MaxNesting  CountLineCode
+                  tests/scene/test_text_edit.cpp    54                         TestTextEdit::DOCTEST_ANON_FUNC_2       10116           5           5339
+                   drivers/alsa/asound-so_wrap.c  3824                                         initialize_asound        2545           2           8910
+            tests/scene/test_split_container.cpp   401                  TestSplitContainer::DOCTEST_ANON_FUNC_59        1806           6           1041
+                modules/gdscript/gdscript_vm.cpp   499                                    GDScriptFunction::call        1761           5           2567
+                  tests/scene/test_code_edit.cpp  4576                       TestCodeEdit::DOCTEST_ANON_FUNC_118        1543           4            889
+                  tests/scene/test_code_edit.cpp  1745                        TestCodeEdit::DOCTEST_ANON_FUNC_58        1487           5            903
+                   tests/scene/test_viewport.cpp   166                         TestViewport::DOCTEST_ANON_FUNC_2        1435           7           1034
+                  tests/scene/test_code_edit.cpp   842                        TestCodeEdit::DOCTEST_ANON_FUNC_44        1261           5            556
+platform/linuxbsd/x11/dynwrappers/xlib-so_wrap.c  1825                                           initialize_xlib        1211           2           4241
+                  tests/scene/test_text_edit.cpp  6817                        TestTextEdit::DOCTEST_ANON_FUNC_71         981           4            557
+                    tests/scene/test_tab_bar.cpp    45                           TestTabBar::DOCTEST_ANON_FUNC_2         893           4            471
+              tests/servers/test_text_server.cpp    44 TestTextServer::DOCTEST_ANON_SUITE_2::DOCTEST_ANON_FUNC_3         880           8            842
+                  tests/scene/test_code_edit.cpp  2898                        TestCodeEdit::DOCTEST_ANON_FUNC_70         854           5            454
+            tests/scene/test_split_container.cpp  1770                 TestSplitContainer::DOCTEST_ANON_FUNC_652         851           6            451
+                  tests/scene/test_text_edit.cpp  7540                        TestTextEdit::DOCTEST_ANON_FUNC_80         710           3            397
+
+=== M2 classes (Understand) ===
+CountClassCoupled      n=2981 median=13 p95=47 max=286
+PercentLackOfCohesion  n=2981 median=92 p95=100 max=100
+CountDeclMethod        n=2981 median=32 p95=99 max=667
+
+Top 10 classes by CountClassCoupled:
+                                                      file                       class  CountClassCoupled  PercentLackOfCohesion  CountDeclMethod  CountLineCode
+                                      editor/editor_node.h                  EditorNode                286                     99              356           7981
+                                    core/variant/variant.h                     Variant                200                     72              295           6093
+modules/visual_shader/editor/visual_shader_editor_plugin.h          VisualShaderEditor                181                     99              202           5918
+                      servers/rendering/rendering_device.h             RenderingDevice                169                     99              350           8772
+             drivers/d3d12/rendering_device_driver_d3d12.h  RenderingDeviceDriverD3D12                150                     99              177           5106
+                   editor/scene/3d/node_3d_editor_plugin.h                Node3DEditor                139                     98              158           3397
+                            editor/docks/scene_tree_dock.h               SceneTreeDock                123                     98              154           4507
+                 editor/scene/3d/node_3d_editor_viewport.h        Node3DEditorViewport                115                     98              146           5806
+           drivers/vulkan/rendering_device_driver_vulkan.h RenderingDeviceDriverVulkan                110                     99              175           5443
+                            editor/docks/filesystem_dock.h              FileSystemDock                109                     98              161           3897
+
+Named classes:
+                                file           class  CountClassCoupled  PercentLackOfCohesion  CountDeclMethod  CountLineCode
+                   scene/main/node.h            Node                 52                    100              297           3708
+                core/object/object.h          Object                 48                     98              168           2191
+                editor/editor_node.h      EditorNode                286                     99              356           7981
+servers/rendering/rendering_server.h RenderingServer                 46                    100              667           3499
+             scene/main/scene_tree.h       SceneTree                 68                     98              143           1833
+                 editor/editor_log.h       EditorLog                 47                     95               52            537
+
+=== M7 comment ratio by module (sum comment lines / sum code lines) ===
+          CountLineComment  CountLineCode  RatioCommentToCode
+module                                                       
+core                 19428         122187               0.159
+servers              18846         128189               0.147
+scene                30169         235201               0.128
+editor               29878         235220               0.127
+main                   927           4172               0.222
+drivers               9807          40899               0.240
+platform             13937          62748               0.222
+modules              44401         237300               0.187
+tests                 8717          51498               0.169
+
+=== Sanity check: lizard vs Understand ===
+          functions  median   max  n_ge10
+module                                   
+core           9083     1.0   222     401
+servers        7766     1.0   526     373
+scene         15813     1.0   425     896
+editor        10227     2.0   335    1077
+main             58     1.0    69       7
+drivers        2908     1.0  2545     244
+platform       2745     2.0  1211     255
+modules       14986     1.0   332    1008
+tests          1633     1.0   190      23
+matched functions (same file + start line): 61207; identical CC: 67.1%; within +-1: 84.7%; Spearman rho: 0.792
+                                file  line                               function_x  Cyclomatic  CCN
+      tests/scene/test_text_edit.cpp    54        TestTextEdit::DOCTEST_ANON_FUNC_2       10116   12
+tests/scene/test_split_container.cpp   401 TestSplitContainer::DOCTEST_ANON_FUNC_59        1806    1
+      tests/scene/test_code_edit.cpp  4576      TestCodeEdit::DOCTEST_ANON_FUNC_118        1543    1
+      tests/scene/test_code_edit.cpp  1745       TestCodeEdit::DOCTEST_ANON_FUNC_58        1487    1
+       tests/scene/test_viewport.cpp   166        TestViewport::DOCTEST_ANON_FUNC_2        1435    1

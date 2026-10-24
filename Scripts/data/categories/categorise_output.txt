@@ -1,0 +1,81 @@
+prior year (2024-09-16..2025-09-16, end excluded): 664 commit authors, 155 established (>= 3 slices)
+=== H1 git (non-merge commits, one person per person_id, bots removed: ['dependabot[bot]'] ) ===
+{'people': 601, 'events': 4197, 'top10_share_pct': np.float64(39.4), 'bus_factor_50pct': 18, 'people_for_80pct': 83}
+merge commits by merger (committer of merge commits):
+committer
+Thaddeus Crews     3939
+Rémi Verschelde     742
+GitHub               91
+
+=== git commit authors: 601 active people, 4197 events ===
+slices active -> people: {1: 395, 2: 90, 3: 28, 4: 16, 5: 11, 6: 8, 7: 11, 8: 8, 9: 6, 10: 7, 11: 9, 12: 12}
+key/frequent threshold K = 6 slices (share of people active in >= K slices: 10.1%; in >= 5: 12.0%)
+  (fixed; the < 10 % rule alone would give K = 7: 8.8%)
+dormancy gap G = 107 days (p99 of 3386 gaps between consecutive activities of 116 regular contributors)
+key: 61  newcomers: 374  dormant (prior-year established, silent last 107d of window): 40  left (prior-year established, nothing in window): 48
+dormancy sensitivity (gap percentile -> days -> established people silent that long at window end):
+   p75:    6 days -> 94
+   p90:   20 days -> 74
+   p95:   39 days -> 61
+   p99:  107 days -> 40
+[categorise] people.csv: 1077 people (601 active in window, 61 key, 374 newcomers, 155 established, 40 dormant, 48 left)
+key contributors (git):
+                                                 name  events  slices_active
+person                                                                      
+kobewi4e@gmail.com                     Tomasz Chabora     335             12
+bruvzg                             Pāvels Nadtočajevs     303             12
+michaelalexsander@protonmail.com   Michael Alexsander     259             12
+hugo.locurcio@hugo.pro                  Hugo Locurcio     124             12
+lukas.tenbrink@gmail.com               Lukas Tenbrink     123             12
+rverschelde@gmail.com                 Rémi Verschelde     121             11
+holonproduction@gmail.com             HolonProduction     114             12
+repiteo@outlook.com                    Thaddeus Crews     101             12
+blueskythlikesclouds                            Skyth      96             12
+mishragames@gmail.com                     Anish Kumar      79             12
+tokage.it.lab@gmail.com           Silc 'Tokage' Renew      66             11
+mikael@hermansson.io                Mikael Hermansson      65             11
+fhuyakou@gmail.com                Fredia Huya-Kouadio      62             12
+robert.yevdokimov@autstand.com      Robert Yevdokimov      57              8
+dsnopek@gmail.com                        David Snopek      55             11
+arnfranke@yahoo.com                      Aaron Franke      55             11
+kitbdev@gmail.com                                 kit      50             11
+passivestar                               passivestar      50             10
+stuart.carnie@gmail.com                 Stuart Carnie      45             12
+dery@posteo.net                            Dery Almas      43             10
+starryworm                             Enzo Novoselic      41              8
+djlsp@proton.me                             DeeJayLSP      40              9
+claynjohn@gmail.com                         Clay John      38             11
+dalexeev12@yandex.ru                    Danil Alexeev      35             12
+nintorch                                     Nintorch      34             10
+
+=== H1 GitHub (bots removed) ===
+bot events removed: {'Copilot': 26, 'copilot-pull-request-reviewer': 26, 'dependabot': 1}
+pr       {'people': 1443, 'events': 7549, 'top10_share_pct': np.float64(28.8), 'bus_factor_50pct': 38, 'people_for_80pct': 298}
+review   {'people': 677, 'events': 20166, 'top10_share_pct': np.float64(52.1), 'bus_factor_50pct': 10, 'people_for_80pct': 44}
+issue    {'people': 2677, 'events': 5292, 'top10_share_pct': np.float64(9.9), 'bus_factor_50pct': 374, 'people_for_80pct': 1619}
+comment  {'people': 4904, 'events': 71610, 'top10_share_pct': np.float64(40.6), 'bus_factor_50pct': 20, 'people_for_80pct': 273}
+
+=== GitHub participants (all types): 5988 active people, 104617 events ===
+slices active -> people: {1: 4068, 2: 939, 3: 370, 4: 166, 5: 126, 6: 76, 7: 61, 8: 37, 9: 32, 10: 27, 11: 32, 12: 54}
+key/frequent threshold K = 5 slices (share of people active in >= K slices: 7.4%; in >= 4: 10.2%)
+dormancy gap G = 61 days (p99 of 90263 gaps between consecutive activities of 981 regular contributors)
+key: 445  newcomers: 0  dormant (prior-year established, silent last 61d of window): 0  left (prior-year established, nothing in window): 0
+dormancy sensitivity (gap percentile -> days -> established people silent that long at window end):
+   p75:    0 days -> 0
+   p90:    2 days -> 0
+   p95:    7 days -> 0
+   p99:   61 days -> 0
+(GitHub newcomer/dormant counts above are not meaningful - see comment; use the git ones)
+PR authors by authorAssociation at query time (NONE = still no merged contribution):
+               prs  authors
+association                
+CONTRIBUTOR   3795      664
+MEMBER        2703       38
+NONE          1033      740
+COLLABORATOR    18        1
+PRs opened in window, share merged by now, per authorAssociation:
+association
+COLLABORATOR    83.3
+CONTRIBUTOR     57.2
+MEMBER          76.4
+NONE             3.9

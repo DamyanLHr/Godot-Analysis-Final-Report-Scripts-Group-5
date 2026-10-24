@@ -1,0 +1,1025 @@
+Similarity Analyser 2.5.10 - http://www.harukizaemon.com/simian
+Copyright (c) 2003-2018 Simon Harris.  All rights reserved.
+Simian is not free unless used solely for non-commercial or evaluation purposes.
+{failOnDuplication=true, ignoreCharacterCase=true, ignoreCurlyBraces=true, ignoreIdentifierCase=true, ignoreModifiers=true, ignoreStringCase=true, language=C++, threshold=6}
+Found 6 duplicate lines with fingerprint 5a8465911945782acf5615558acace7c in the following files:
+ Between lines 7218 and 7224 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 2404 and 2410 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.cpp
+Found 6 duplicate lines with fingerprint 7e2907cbba4983dd7e98d814accbdca6 in the following files:
+ Between lines 4098 and 4103 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\export\export_plugin.cpp
+ Between lines 4037 and 4042 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\export\export_plugin.cpp
+ Between lines 4012 and 4017 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\export\export_plugin.cpp
+ Between lines 780 and 785 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\export\export_plugin.cpp
+Found 6 duplicate lines with fingerprint 9bff9f6d66d7f7ce567068525d51ccb5 in the following files:
+ Between lines 610 and 615 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.h
+ Between lines 196 and 201 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\web\display_server_web.h
+ Between lines 130 and 135 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\display_server_macos_base.h
+ Between lines 429 and 434 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.h
+ Between lines 226 and 231 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.h
+ Between lines 241 and 246 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\display_server_android.h
+Found 6 duplicate lines with fingerprint ca32ba31eb91a1f87fe9a1fa22ed9ee1 in the following files:
+ Between lines 2644 and 2650 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_thread.cpp
+ Between lines 2614 and 2620 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_thread.cpp
+Found 6 duplicate lines with fingerprint 1138147a887cd8c9590a461348010002 in the following files:
+ Between lines 2022 and 2029 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\export\export_plugin.cpp
+ Between lines 1931 and 1938 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\export\export_plugin.cpp
+Found 6 duplicate lines with fingerprint 966b8a6c51a7804af8c0f977a22e9f65 in the following files:
+ Between lines 1086 and 1096 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\export\export_plugin.cpp
+ Between lines 2774 and 2784 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\export\export_plugin.cpp
+ Between lines 561 and 571 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\export\export_plugin.cpp
+Found 6 duplicate lines with fingerprint a718f7cd0dea1c870ad8673900028a88 in the following files:
+ Between lines 5065 and 5071 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 4946 and 4953 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 6 duplicate lines with fingerprint b478632ffb85bb1423d53a2a8382a5dd in the following files:
+ Between lines 56 and 64 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\egl_manager_wayland_gles.cpp
+ Between lines 58 and 66 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\egl_manager_wayland.cpp
+Found 6 duplicate lines with fingerprint dcb15fe63179edec604e38e80dc37b42 in the following files:
+ Between lines 226 and 233 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\export\export_plugin.cpp
+ Between lines 2695 and 2701 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\export\export_plugin.cpp
+ Between lines 1672 and 1678 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\export\export_plugin.cpp
+ Between lines 86 and 93 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\export\export_plugin.cpp
+Found 6 duplicate lines with fingerprint a164e14f38dccac39a77cb362e46b28f in the following files:
+ Between lines 2986 and 2991 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 2942 and 2947 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 2870 and 2875 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 2593 and 2598 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 6 duplicate lines with fingerprint bba5d761bf38797b7afd278b51c4cd71 in the following files:
+ Between lines 661 and 669 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.h
+ Between lines 240 and 248 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\web\display_server_web.h
+ Between lines 327 and 333 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\display_server_macos.h
+Found 6 duplicate lines with fingerprint e0a17bc16969662c4cc68dc548c2071a in the following files:
+ Between lines 31 and 45 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\gl_manager_macos_legacy.h
+ Between lines 31 and 44 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\embedded_gl_manager.h
+Found 6 duplicate lines with fingerprint fdc072c2d6ba66917023c005909f5e8c in the following files:
+ Between lines 1101 and 1107 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_thread.cpp
+ Between lines 1079 and 1085 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_thread.cpp
+Found 6 duplicate lines with fingerprint 0e5b624a4d8dcf33c39a45779a098733 in the following files:
+ Between lines 798 and 804 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 784 and 790 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 6 duplicate lines with fingerprint 4cc5bb0fdbacb3843713f08117ee2e55 in the following files:
+ Between lines 5450 and 5457 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_thread.cpp
+ Between lines 5426 and 5433 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_thread.cpp
+Found 6 duplicate lines with fingerprint 2b64b434f08009f92b337d8be1e7aa58 in the following files:
+ Between lines 998 and 1003 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\export\export_plugin.cpp
+ Between lines 2686 and 2691 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\export\export_plugin.cpp
+ Between lines 481 and 486 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\export\export_plugin.cpp
+Found 6 duplicate lines with fingerprint 09e1e07e4e00d631a1f24416a0a5605c in the following files:
+ Between lines 1555 and 1562 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\os_windows.cpp
+ Between lines 1413 and 1420 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\os_windows.cpp
+Found 6 duplicate lines with fingerprint bc4caa575186cc8a72be57a3af30a4f4 in the following files:
+ Between lines 3012 and 3017 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 2999 and 3004 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 1983 and 1988 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 6 duplicate lines with fingerprint 29f9f58e9b71a56446ca5419e762dd90 in the following files:
+ Between lines 223 and 233 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\crash_handler_windows_signal.cpp
+ Between lines 134 and 144 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\crash_handler_windows_seh.cpp
+ Between lines 102 and 113 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\crash_handler_linuxbsd.cpp
+Found 6 duplicate lines with fingerprint 7717b1ae6dc5ae55a103dccd41767a42 in the following files:
+ Between lines 145 and 151 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\freedesktop_at_spi_monitor.cpp
+ Between lines 101 and 107 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\freedesktop_at_spi_monitor.cpp
+Found 6 duplicate lines with fingerprint 25a3352bc4f733a7d65b1fe0d3c45bc3 in the following files:
+ Between lines 678 and 683 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 662 and 667 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 6 duplicate lines with fingerprint 6abaa39c3fa5d029143a295ebbbbb629 in the following files:
+ Between lines 2632 and 2640 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_thread.cpp
+ Between lines 2603 and 2611 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_thread.cpp
+Found 6 duplicate lines with fingerprint d3ff6525f10699904d9ca871fc86f061 in the following files:
+ Between lines 3144 and 3149 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 3126 and 3131 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 6 duplicate lines with fingerprint b48f5e9a7cbb0cac2796792f5d45c1e7 in the following files:
+ Between lines 78 and 83 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\key_mapping_x11.cpp
+ Between lines 48 and 53 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\key_mapping_x11.cpp
+Found 6 duplicate lines with fingerprint 97b700b0ce3c4249a667dd8d81a5abe0 in the following files:
+ Between lines 185 and 190 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\gl_manager_x11.cpp
+ Between lines 119 and 124 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\detect_prime_x11.cpp
+Found 6 duplicate lines with fingerprint dcd12a1c57f46c5ca034d2227a0bf56a in the following files:
+ Between lines 139 and 146 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\os_windows.cpp
+ Between lines 61 and 68 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\gl_manager_windows_native.cpp
+ Between lines 109 and 116 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 6 duplicate lines with fingerprint 65f2862b79b8c8bd7d6afe68f2d8d5a8 in the following files:
+ Between lines 3599 and 3607 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 3556 and 3564 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 6 duplicate lines with fingerprint fbc10aa9fbe78b57760a56868ac4a1a9 in the following files:
+ Between lines 272 and 279 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\web\display_server_web.h
+ Between lines 515 and 523 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.h
+ Between lines 210 and 217 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\display_server_android.h
+Found 6 duplicate lines with fingerprint 4e185c69e58fe3c0ca8cb789e0222eff in the following files:
+ Between lines 854 and 859 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\os_linuxbsd.cpp
+ Between lines 799 and 804 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\os_linuxbsd.cpp
+Found 6 duplicate lines with fingerprint 6d8539e9ac1fa3f996318542f45de1f6 in the following files:
+ Between lines 1104 and 1110 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 475 and 481 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 400 and 406 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 358 and 364 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+Found 6 duplicate lines with fingerprint 549493014b63300f8e244efd9b171670 in the following files:
+ Between lines 1215 and 1220 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 593 and 598 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+Found 6 duplicate lines with fingerprint 8fdbf88308fee20a6c4bfed64c9ed63d in the following files:
+ Between lines 702 and 709 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\os_android.cpp
+ Between lines 650 and 657 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\os_android.cpp
+Found 6 duplicate lines with fingerprint b9dc2468752a3fcd818b0167bcd2deca in the following files:
+ Between lines 1792 and 1797 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 1499 and 1504 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 6 duplicate lines with fingerprint 9ca1dc32b54f44f999b91ba35a3c5443 in the following files:
+ Between lines 1565 and 1573 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_thread.cpp
+ Between lines 1451 and 1459 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_thread.cpp
+Found 6 duplicate lines with fingerprint 898733b6b04085f8d187c0963ee19ab5 in the following files:
+ Between lines 1541 and 1548 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\java_class_wrapper.cpp
+ Between lines 1519 and 1526 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\java_class_wrapper.cpp
+ Between lines 1392 and 1399 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\java_class_wrapper.cpp
+Found 6 duplicate lines with fingerprint 885d1b013af0fa47d13a18dbc660ce7e in the following files:
+ Between lines 5880 and 5885 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 1021 and 1026 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\freedesktop_portal_desktop.cpp
+Found 6 duplicate lines with fingerprint 2f4a7d2366b680d05580541cdb6fc375 in the following files:
+ Between lines 6888 and 6893 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 5517 and 5522 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_thread.cpp
+ Between lines 2287 and 2292 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.cpp
+ Between lines 44 and 49 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\tts_linux.cpp
+ Between lines 1367 and 1372 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\os_linuxbsd.cpp
+Found 6 duplicate lines with fingerprint 2374f4ffeb7b1e0ae4acbf515d4a78a6 in the following files:
+ Between lines 367 and 374 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_thread.cpp
+ Between lines 350 and 357 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_thread.cpp
+Found 6 duplicate lines with fingerprint fd051dff7d17b261a9c745769881fe7a in the following files:
+ Between lines 190 and 195 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\export\export_plugin.h
+ Between lines 1930 and 1935 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\export\export_plugin.cpp
+Found 6 duplicate lines with fingerprint 4920f02a1921b647d4446db69c259a38 in the following files:
+ Between lines 733 and 738 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\os_windows.cpp
+ Between lines 7734 and 7739 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 6 duplicate lines with fingerprint 791b99f9ba6c0af7752b65ee3085748b in the following files:
+ Between lines 38 and 44 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\platform_gl.h
+ Between lines 38 and 44 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\platform_gl.h
+ Between lines 37 and 43 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\platform_gl.h
+Found 6 duplicate lines with fingerprint 01cc2d617376e5bf2b2d4495fd5e5925 in the following files:
+ Between lines 5489 and 5495 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 4646 and 4652 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 6 duplicate lines with fingerprint f1cd384d40d29a9f3dc55b8d3d17358d in the following files:
+ Between lines 5086 and 5093 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 5906 and 5913 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 6 duplicate lines with fingerprint 2bcf2728331e5836c4559a4a297d0ed4 in the following files:
+ Between lines 1694 and 1700 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\java_class_wrapper.cpp
+ Between lines 1330 and 1336 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\java_class_wrapper.cpp
+Found 6 duplicate lines with fingerprint a0c73eadd012b9620718df034520a2ad in the following files:
+ Between lines 3119 and 3126 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_thread.cpp
+ Between lines 2185 and 2192 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_thread.cpp
+Found 6 duplicate lines with fingerprint fc5ffe7c6ccb547117b465ff01d803bd in the following files:
+ Between lines 257 and 263 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\winrt_utils.cpp
+ Between lines 242 and 248 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\winrt_utils.cpp
+Found 6 duplicate lines with fingerprint 2f740b460bb1ca910f74cc870f7e1893 in the following files:
+ Between lines 165 and 170 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 1202 and 1207 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\web\display_server_web.cpp
+ Between lines 182 and 187 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 284 and 289 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.cpp
+ Between lines 69 and 74 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\display_server_android.cpp
+Found 6 duplicate lines with fingerprint 2fdee10c26df88ce179d0093c51ebb1b in the following files:
+ Between lines 944 and 952 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\export\export_plugin.cpp
+ Between lines 833 and 841 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\export\export_plugin.cpp
+Found 6 duplicate lines with fingerprint b653393670f061248f170ef65b82767b in the following files:
+ Between lines 5319 and 5324 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 3588 and 3594 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 6 duplicate lines with fingerprint 4cffb75893e659dcd337abf8338985c3 in the following files:
+ Between lines 286 and 292 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\dir_access_jandroid.cpp
+ Between lines 267 and 273 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\dir_access_jandroid.cpp
+ Between lines 235 and 241 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\dir_access_jandroid.cpp
+Found 6 duplicate lines with fingerprint f213656c39fd82cb18eb975dc042acb4 in the following files:
+ Between lines 1614 and 1619 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\export\export_plugin.cpp
+ Between lines 1529 and 1534 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\export\export_plugin.cpp
+ Between lines 1471 and 1476 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\export\export_plugin.cpp
+Found 6 duplicate lines with fingerprint 80afdca926028d7a11b9fb149562b302 in the following files:
+ Between lines 660 and 669 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.cpp
+ Between lines 585 and 594 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.cpp
+Found 6 duplicate lines with fingerprint f267462350af7d52782e1f628db4a0d7 in the following files:
+ Between lines 1863 and 1868 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 1854 and 1859 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 6 duplicate lines with fingerprint 787f496ae641612949fefc5a51c03c40 in the following files:
+ Between lines 319 and 325 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\display_server_macos.h
+ Between lines 466 and 472 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.h
+ Between lines 260 and 266 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.h
+Found 6 duplicate lines with fingerprint 11ea25d6cfc18e815c6dbabcdaf839c4 in the following files:
+ Between lines 1034 and 1039 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 786 and 791 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 6 duplicate lines with fingerprint 5883ea9da0a93369b7d0da447855a78d in the following files:
+ Between lines 5160 and 5171 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_thread.cpp
+ Between lines 5084 and 5095 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_thread.cpp
+Found 6 duplicate lines with fingerprint 372112985799afe3529b683a7bb6f8e8 in the following files:
+ Between lines 3622 and 3628 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 1434 and 1440 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.cpp
+Found 6 duplicate lines with fingerprint ca87bf5135fbf137780d7888226029db in the following files:
+ Between lines 75 and 82 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.h
+ Between lines 83 and 90 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\native_menu_macos.h
+Found 6 duplicate lines with fingerprint 17e1267a001806227bda937badb69d15 in the following files:
+ Between lines 172 and 177 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 290 and 295 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.cpp
+Found 6 duplicate lines with fingerprint 2450bd5af21739f255699c27a1b1e909 in the following files:
+ Between lines 565 and 572 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_embedder.cpp
+ Between lines 546 and 553 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_embedder.cpp
+Found 6 duplicate lines with fingerprint 72a62cd67ec3cfbc2fbdf951ba0b4d56 in the following files:
+ Between lines 242 and 248 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\web\os_web.cpp
+ Between lines 230 and 236 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\web\os_web.cpp
+Found 6 duplicate lines with fingerprint 677a930f8e4db276c7d5374562abbb18 in the following files:
+ Between lines 2406 and 2413 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\os_windows.cpp
+ Between lines 868 and 875 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\export\export_plugin.cpp
+Found 6 duplicate lines with fingerprint f07f13f1e6ca9c4aa403e86f846c837e in the following files:
+ Between lines 5106 and 5113 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 5924 and 5930 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 6 duplicate lines with fingerprint bdb0a69451efc8add8f777782a42afc5 in the following files:
+ Between lines 129 and 136 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\tts_driver_onecore.cpp
+ Between lines 92 and 99 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\tts_driver_onecore.cpp
+Found 6 duplicate lines with fingerprint 0eac90e80ff35fa77e0513a3408a457b in the following files:
+ Between lines 524 and 531 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 449 and 456 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 332 and 339 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 299 and 306 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 266 and 273 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+Found 6 duplicate lines with fingerprint 918e85544b865c52743d5017ee513e0b in the following files:
+ Between lines 46 and 53 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\libgodot_windows.cpp
+ Between lines 46 and 53 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\libgodot_linuxbsd.cpp
+Found 6 duplicate lines with fingerprint 8e0c0179dfbe3647e5d89edfb05983cb in the following files:
+ Between lines 68 and 75 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.h
+ Between lines 41 and 48 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.h
+Found 6 duplicate lines with fingerprint d1eaf7685d36bc951e98be8e0d1fcd65 in the following files:
+ Between lines 1600 and 1607 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\export\export_plugin.cpp
+ Between lines 50 and 57 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\export\export_plugin.cpp
+Found 6 duplicate lines with fingerprint d4092a18f4742b97928d6239f988fecb in the following files:
+ Between lines 40 and 47 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\rendering_context_driver_vulkan_windows.h
+ Between lines 40 and 47 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\rendering_context_driver_vulkan_macos.h
+ Between lines 40 and 47 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\rendering_context_driver_vulkan_x11.h
+Found 6 duplicate lines with fingerprint 4de6cbdb4429e31ad1b3eb182664ddf8 in the following files:
+ Between lines 3408 and 3417 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 3686 and 3695 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 6 duplicate lines with fingerprint c45d585512b157fdbbec35abd282f843 in the following files:
+ Between lines 4197 and 4206 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 4115 and 4124 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 6 duplicate lines with fingerprint b269bda1eed43d28b1e249c8e4c22d6f in the following files:
+ Between lines 1369 and 1376 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_embedder.cpp
+ Between lines 415 and 422 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_embedder.cpp
+Found 6 duplicate lines with fingerprint 0d505cce17132a6fc4187d0bebf21804 in the following files:
+ Between lines 621 and 626 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\os_windows.cpp
+ Between lines 608 and 613 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\os_windows.cpp
+Found 6 duplicate lines with fingerprint 7f2f442016df4b529526d3a872ed04b5 in the following files:
+ Between lines 574 and 581 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\java_class_wrapper.cpp
+ Between lines 485 and 492 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\java_class_wrapper.cpp
+Found 6 duplicate lines with fingerprint fc13bcadf1b78813ae3cb4a7f4ddd0b7 in the following files:
+ Between lines 1007 and 1013 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\export\export_plugin.cpp
+ Between lines 2703 and 2709 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\export\export_plugin.cpp
+ Between lines 490 and 496 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\export\export_plugin.cpp
+Found 6 duplicate lines with fingerprint b7bfdff4c62d5f2eda2bdf0068878180 in the following files:
+ Between lines 1020 and 1029 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 903 and 911 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 772 and 781 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 6 duplicate lines with fingerprint bcb056b393df9a70af4524e0a6dd9239 in the following files:
+ Between lines 3114 and 3119 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 3088 and 3093 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 3048 and 3053 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 6 duplicate lines with fingerprint 9e8ac07a5d31b1833f272e1ea9bb0085 in the following files:
+ Between lines 1144 and 1150 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\export\export_plugin.cpp
+ Between lines 2840 and 2846 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\export\export_plugin.cpp
+ Between lines 627 and 633 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\export\export_plugin.cpp
+Found 6 duplicate lines with fingerprint 79d91068ebf97759fd95a61c24a9e77b in the following files:
+ Between lines 161 and 166 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\crash_handler_windows_signal.cpp
+ Between lines 113 and 118 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\crash_handler_windows_signal.cpp
+ Between lines 219 and 224 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\crash_handler_windows_seh.cpp
+Found 6 duplicate lines with fingerprint 30359960b831999f9dc767df26dcf0df in the following files:
+ Between lines 84 and 89 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\key_mapping_xkb.cpp
+ Between lines 54 and 59 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\key_mapping_xkb.cpp
+Found 6 duplicate lines with fingerprint 9ec33bd55e6ec52b6262c828385a035a in the following files:
+ Between lines 130 and 135 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\wgl_detect_version.cpp
+ Between lines 379 and 385 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\gl_manager_windows_native.cpp
+Found 6 duplicate lines with fingerprint ac8a0301ac5895689f671a8b7e0cd87b in the following files:
+ Between lines 746 and 752 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\os_windows.cpp
+ Between lines 7745 and 7751 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 6 duplicate lines with fingerprint a8442217719ce5461934541d09edddfb in the following files:
+ Between lines 462 and 471 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 399 and 408 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.cpp
+Found 6 duplicate lines with fingerprint 8560b5e63a00808226439636204a3fea in the following files:
+ Between lines 3834 and 3839 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 3797 and 3802 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 3763 and 3768 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 6 duplicate lines with fingerprint bc2a28e191141c78b928c7f19fd36ecf in the following files:
+ Between lines 2712 and 2717 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_thread.cpp
+ Between lines 2616 and 2621 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_thread.cpp
+Found 6 duplicate lines with fingerprint 03f0f95c87b5a297f5ab8749df100c79 in the following files:
+ Between lines 468 and 485 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_embedder.cpp
+ Between lines 449 and 460 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_embedder.cpp
+Found 7 duplicate lines with fingerprint 9f760ccaaf35221047ddf51be6bc8a7d in the following files:
+ Between lines 182 and 188 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 165 and 171 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 7 duplicate lines with fingerprint 0af13d86c5ea9074f3c538e2ba819366 in the following files:
+ Between lines 112 and 119 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\display_server_macos_base.h
+ Between lines 112 and 119 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\display_server_android.h
+ Between lines 181 and 188 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\web\display_server_web.h
+ Between lines 590 and 597 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.h
+ Between lines 204 and 211 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.h
+ Between lines 407 and 414 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.h
+Found 7 duplicate lines with fingerprint 5c0d984aeccdc60ffefeb2df541f8d50 in the following files:
+ Between lines 83 and 90 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\tts_linux.h
+ Between lines 48 and 55 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\tts_windows.h
+Found 7 duplicate lines with fingerprint e2261735d59fbb9af8c1c304c3fb2d75 in the following files:
+ Between lines 380 and 389 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\export\export_plugin.cpp
+ Between lines 675 and 682 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\os_linuxbsd.cpp
+Found 7 duplicate lines with fingerprint 43a556ccaa6a7ff920c9ad69854dfd58 in the following files:
+ Between lines 33 and 51 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\gl_manager_windows_native.cpp
+ Between lines 31 and 54 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\wgl_detect_version.cpp
+Found 7 duplicate lines with fingerprint cbb35167f4c7c3c6d9ae2c2741c6968f in the following files:
+ Between lines 31 and 60 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\detect_prime_x11.cpp
+ Between lines 33 and 51 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\gl_manager_x11.cpp
+Found 7 duplicate lines with fingerprint 0682cc64cc0fb55de3223359730691e7 in the following files:
+ Between lines 95 and 101 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\export\export_plugin.cpp
+ Between lines 2527 and 2533 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\export\export_plugin.cpp
+ Between lines 2093 and 2099 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\export\export_plugin.cpp
+Found 7 duplicate lines with fingerprint bedcaeca34e97da372d37e150b323a66 in the following files:
+ Between lines 490 and 498 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 373 and 381 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 415 and 423 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+Found 7 duplicate lines with fingerprint 4fc4a895ab2709526050b519318fc7db in the following files:
+ Between lines 2462 and 2470 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_embedder.cpp
+ Between lines 2527 and 2535 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_embedder.cpp
+Found 7 duplicate lines with fingerprint 68c65582e6f7a098a4ce500fa0ee7b56 in the following files:
+ Between lines 5404 and 5410 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 6640 and 6646 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 7 duplicate lines with fingerprint dc90a2c50077785db0d50cae5db866b1 in the following files:
+ Between lines 7585 and 7594 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 8632 and 8641 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 7 duplicate lines with fingerprint d364bb48f87482f8097048b552b4a6b2 in the following files:
+ Between lines 83 and 89 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\web\os_web.h
+ Between lines 203 and 209 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\os_windows.h
+Found 7 duplicate lines with fingerprint 900094bb15351910d2f32447d36fc6d0 in the following files:
+ Between lines 542 and 550 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\export\export_plugin.cpp
+ Between lines 2755 and 2763 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\export\export_plugin.cpp
+ Between lines 1063 and 1071 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\export\export_plugin.cpp
+Found 7 duplicate lines with fingerprint 108d62b70885474b065ac3a6a8291fb3 in the following files:
+ Between lines 179 and 185 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.h
+ Between lines 127 and 133 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\display_server_macos.h
+Found 7 duplicate lines with fingerprint 72a3228f3aaf6f829e1fc9c4a661e100 in the following files:
+ Between lines 278 and 284 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\android_input_handler.cpp
+ Between lines 385 and 391 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\android_input_handler.cpp
+Found 7 duplicate lines with fingerprint a63ba3e92c0c963c3373b0fbcf2eb4f9 in the following files:
+ Between lines 261 and 272 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\crash_handler_windows_seh.cpp
+ Between lines 298 and 309 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\crash_handler_windows_signal.cpp
+Found 7 duplicate lines with fingerprint f68d2215232c33027ea356ede5cd9864 in the following files:
+ Between lines 2853 and 2860 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 2969 and 2976 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 7 duplicate lines with fingerprint 3592d7f6dad9f7dc6a7d09f5ff1228f0 in the following files:
+ Between lines 61 and 73 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 82 and 92 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\os_windows.cpp
+Found 7 duplicate lines with fingerprint 3a2ced067e8d6124f95060884dd96be7 in the following files:
+ Between lines 3854 and 3862 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 3872 and 3880 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 7 duplicate lines with fingerprint d80872f376bd5085c2b12df90cfe2825 in the following files:
+ Between lines 99 and 105 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\freedesktop_portal_desktop.h
+ Between lines 464 and 470 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.h
+Found 7 duplicate lines with fingerprint e10bfca55dad29b94a9f728487ef9b05 in the following files:
+ Between lines 618 and 624 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 863 and 869 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+Found 7 duplicate lines with fingerprint 3847c29c6f5af2de214de12f17c9aa2d in the following files:
+ Between lines 2394 and 2402 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_thread.cpp
+ Between lines 6950 and 6958 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 7 duplicate lines with fingerprint e4cdf721fce6bbfdc9a118430238fe0c in the following files:
+ Between lines 109 and 118 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 61 and 70 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\gl_manager_windows_native.cpp
+Found 7 duplicate lines with fingerprint d70b1bc448812044b82f6767fce894b0 in the following files:
+ Between lines 663 and 669 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 4879 and 4885 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 7 duplicate lines with fingerprint 4178dafc391ea851a156376f2953bc28 in the following files:
+ Between lines 8250 and 8256 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 8268 and 8274 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 7 duplicate lines with fingerprint be534d646e0dff46c9a89f62e6f61f49 in the following files:
+ Between lines 56 and 66 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\libgodot_linuxbsd.cpp
+ Between lines 55 and 65 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\libgodot_windows.cpp
+Found 7 duplicate lines with fingerprint 760ea801c95529f372ba8db8b12ab14d in the following files:
+ Between lines 46 and 52 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\tts_driver_onecore.cpp
+ Between lines 120 and 126 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\winrt_utils.cpp
+ Between lines 176 and 182 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\winrt_defines.h
+Found 7 duplicate lines with fingerprint e924ad2805c636c6e662209966a4b859 in the following files:
+ Between lines 1599 and 1607 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.cpp
+ Between lines 5163 and 5171 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 7 duplicate lines with fingerprint fa4ecd4c7cd5f9eea1a80ec89c8c5058 in the following files:
+ Between lines 818 and 824 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 832 and 838 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 7 duplicate lines with fingerprint 46431b776e9b264cc6c09007a6c62aab in the following files:
+ Between lines 277 and 286 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 310 and 319 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 343 and 352 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 385 and 394 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 427 and 436 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 460 and 469 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 502 and 511 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 535 and 544 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+Found 7 duplicate lines with fingerprint 334441b23adadfce93177d79cb41f10c in the following files:
+ Between lines 678 and 684 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 703 and 709 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 838 and 844 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 935 and 941 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 962 and 968 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 1056 and 1062 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 1075 and 1081 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 1195 and 1201 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 638 and 644 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 658 and 664 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 798 and 804 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 818 and 824 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+Found 7 duplicate lines with fingerprint 9b73c6d83f968ba4862655eea3cdb8be in the following files:
+ Between lines 846 and 855 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 1091 and 1100 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 7 duplicate lines with fingerprint 00d0ebdf116c28c0cc0524838a87ef90 in the following files:
+ Between lines 564 and 571 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 590 and 597 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+Found 7 duplicate lines with fingerprint f6201e3e7a54c16cf4e9db2630908869 in the following files:
+ Between lines 209 and 217 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\api\java_class_wrapper.h
+ Between lines 240 and 248 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\api\java_class_wrapper.h
+Found 7 duplicate lines with fingerprint 422a54f44369b3f645177a099b3a8242 in the following files:
+ Between lines 503 and 510 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\export\export_plugin.cpp
+ Between lines 203 and 210 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\export\export_plugin.cpp
+ Between lines 615 and 622 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\export\export_plugin.cpp
+Found 7 duplicate lines with fingerprint 41b6d69491b3a8b1f80bfe474834e767 in the following files:
+ Between lines 173 and 179 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 192 and 198 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 7 duplicate lines with fingerprint c14c6af3e9cca6f0e611a678c5222c3f in the following files:
+ Between lines 258 and 266 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.h
+ Between lines 464 and 472 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.h
+Found 7 duplicate lines with fingerprint a8e41b9504bf08b102d6fd89998c89bf in the following files:
+ Between lines 444 and 453 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.cpp
+ Between lines 459 and 468 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.cpp
+Found 7 duplicate lines with fingerprint 83789cc1895238276b3e875e6e9609e8 in the following files:
+ Between lines 668 and 674 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\java_class_wrapper.cpp
+ Between lines 694 and 700 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\java_class_wrapper.cpp
+Found 7 duplicate lines with fingerprint f83f11e93c50573c562fbd707cfcf7d7 in the following files:
+ Between lines 323 and 330 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 440 and 447 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 290 and 297 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+Found 8 duplicate lines with fingerprint 4022e41cedf6a9d57c820c44532383cb in the following files:
+ Between lines 1592 and 1600 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.cpp
+ Between lines 1569 and 1577 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.cpp
+Found 8 duplicate lines with fingerprint 9a43a9235cb3ef478592574c4f4598a4 in the following files:
+ Between lines 98 and 109 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\godot_windows.cpp
+ Between lines 115 and 126 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\godot_linuxbsd.cpp
+Found 8 duplicate lines with fingerprint 8ca81c17d56d906c7e4cffaed86027d4 in the following files:
+ Between lines 1141 and 1151 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\key_mapping_x11.cpp
+ Between lines 365 and 375 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\key_mapping_xkb.cpp
+Found 8 duplicate lines with fingerprint 4448db9c0ac48d7957d6eb19028c0691 in the following files:
+ Between lines 3388 and 3396 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 3017 and 3025 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 8 duplicate lines with fingerprint 0974e1923e6c0f3fe471cb9d82853a2d in the following files:
+ Between lines 3513 and 3523 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_thread.cpp
+ Between lines 2225 and 2234 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_thread.cpp
+Found 8 duplicate lines with fingerprint 3c7642a494a6979b7a7852a16d0fdced in the following files:
+ Between lines 1586 and 1595 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\export\export_plugin.cpp
+ Between lines 1430 and 1439 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\export\export_plugin.cpp
+Found 8 duplicate lines with fingerprint dee4e496c969978f40f31f41c617c5a0 in the following files:
+ Between lines 98 and 107 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\file_access_filesystem_jandroid.h
+ Between lines 81 and 90 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\file_access_android.h
+Found 8 duplicate lines with fingerprint 535ab352bb1fcc203639cfcc9ae8f38f in the following files:
+ Between lines 765 and 773 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 652 and 660 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 632 and 640 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 612 and 620 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+Found 8 duplicate lines with fingerprint 5708b2cf4d2cf7b083f1721345cddf1a in the following files:
+ Between lines 219 and 233 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\crash_handler_windows_signal.cpp
+ Between lines 130 and 144 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\crash_handler_windows_seh.cpp
+Found 8 duplicate lines with fingerprint 15d846b825284434a195624c8e36a53b in the following files:
+ Between lines 2373 and 2385 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\os_windows.cpp
+ Between lines 184 and 194 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\crash_handler_windows_signal.cpp
+Found 8 duplicate lines with fingerprint d661c1f4209782425d8344518d68f055 in the following files:
+ Between lines 288 and 295 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\web\os_web.cpp
+ Between lines 1254 and 1261 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\os_linuxbsd.cpp
+Found 8 duplicate lines with fingerprint 58141610a1fda2f3d4112b0157c977f1 in the following files:
+ Between lines 4037 and 4044 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\export\export_plugin.cpp
+ Between lines 4012 and 4019 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\export\export_plugin.cpp
+Found 8 duplicate lines with fingerprint 5a317d3273b99e5cf76358a17966963b in the following files:
+ Between lines 766 and 773 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.h
+ Between lines 161 and 168 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\display_server_macos_base.h
+Found 8 duplicate lines with fingerprint 984c3e524b71a25dc68c4d510609dd8b in the following files:
+ Between lines 613 and 622 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\export\export_plugin.cpp
+ Between lines 201 and 210 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\export\export_plugin.cpp
+Found 8 duplicate lines with fingerprint 6c6aae9b1b2729d2eb6e52ef7fc7509d in the following files:
+ Between lines 45 and 55 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\crash_handler_windows.h
+ Between lines 33 and 43 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\crash_handler_macos.h
+ Between lines 33 and 43 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\crash_handler_linuxbsd.h
+Found 8 duplicate lines with fingerprint 2199fc0b59f92ac15c1810cff52a8f11 in the following files:
+ Between lines 116 and 124 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\freedesktop_screensaver.cpp
+ Between lines 75 and 83 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\freedesktop_screensaver.cpp
+Found 8 duplicate lines with fingerprint 45a5b682c0cef4d0b88ff297c879f306 in the following files:
+ Between lines 4054 and 4061 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 4039 and 4046 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 4024 and 4031 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 8 duplicate lines with fingerprint 199e2c5822a8a922439e28c85323ecf2 in the following files:
+ Between lines 2771 and 2784 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\export\export_plugin.cpp
+ Between lines 558 and 571 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\export\export_plugin.cpp
+Found 8 duplicate lines with fingerprint 1b25f7fb7c2122b080775972e98ca9d3 in the following files:
+ Between lines 441 and 450 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\web\export\export_plugin.cpp
+ Between lines 2470 and 2479 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\export\export_plugin.cpp
+Found 8 duplicate lines with fingerprint ba6ad02bfa7d023c2cc6d8e27c566a6f in the following files:
+ Between lines 5348 and 5359 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 5315 and 5326 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 8 duplicate lines with fingerprint 44fe3bccd11a5d5933bdf13c2ec95c31 in the following files:
+ Between lines 1189 and 1197 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 1088 and 1096 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 1069 and 1077 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 1050 and 1058 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 1021 and 1029 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 993 and 1001 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 956 and 964 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 929 and 937 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 903 and 911 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 882 and 890 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 857 and 865 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+Found 8 duplicate lines with fingerprint a15dbe02013439948d63e5e22f61944e in the following files:
+ Between lines 41 and 49 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\gl_manager_windows_angle.h
+ Between lines 51 and 59 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\gl_manager_macos_angle.h
+ Between lines 39 and 47 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\gl_manager_x11_egl.h
+Found 8 duplicate lines with fingerprint 2f65a9b341a65b7d982197620c746157 in the following files:
+ Between lines 8096 and 8104 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 7298 and 7306 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 8 duplicate lines with fingerprint 952d380fc1168e4a0759380078268f59 in the following files:
+ Between lines 1575 and 1584 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\export\export_plugin.cpp
+ Between lines 1419 and 1428 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\export\export_plugin.cpp
+Found 8 duplicate lines with fingerprint c9f6c4891ef3ca0dee161e586737403e in the following files:
+ Between lines 4461 and 4470 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_thread.cpp
+ Between lines 4352 and 4361 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_thread.cpp
+Found 8 duplicate lines with fingerprint 5417cc9158532ef7808b6196800f630b in the following files:
+ Between lines 522 and 534 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.h
+ Between lines 706 and 718 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.h
+Found 8 duplicate lines with fingerprint c732fae5a9d95753947670d0df80f449 in the following files:
+ Between lines 96 and 103 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\web\display_server_web.h
+ Between lines 78 and 85 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\display_server_macos.h
+Found 8 duplicate lines with fingerprint 7b127ed9ee843f28a4dbc709fb831ad4 in the following files:
+ Between lines 7187 and 7197 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 7126 and 7136 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 8 duplicate lines with fingerprint bc123611eec99c0f55cc851dede54529 in the following files:
+ Between lines 2339 and 2350 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 2415 and 2426 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 8 duplicate lines with fingerprint 0b853ec080f655a138851cafd8116211 in the following files:
+ Between lines 7546 and 7554 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 4796 and 4804 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 4678 and 4686 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 8 duplicate lines with fingerprint a87fbca1489f9d67a06447963fc1d03e in the following files:
+ Between lines 288 and 296 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 254 and 262 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+Found 8 duplicate lines with fingerprint 6034354c778b2b2c361a8480a431659a in the following files:
+ Between lines 1219 and 1226 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\java_class_wrapper.cpp
+ Between lines 1208 and 1215 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\java_class_wrapper.cpp
+Found 8 duplicate lines with fingerprint 8e79890e38f490f79f46e5d04df0720f in the following files:
+ Between lines 220 and 227 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\web\display_server_web.h
+ Between lines 244 and 251 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.h
+ Between lines 152 and 159 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\display_server_android.h
+Found 8 duplicate lines with fingerprint fffe670e5b40ca05fdf49ec47a2e6bb2 in the following files:
+ Between lines 1650 and 1659 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\java_class_wrapper.cpp
+ Between lines 1630 and 1639 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\java_class_wrapper.cpp
+Found 8 duplicate lines with fingerprint a981e317e328edee73854c09161a802d in the following files:
+ Between lines 5156 and 5164 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 5130 and 5138 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 9 duplicate lines with fingerprint e7489bd64593a8e15676ea8a384553b6 in the following files:
+ Between lines 215 and 229 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\detect_prime_egl.cpp
+ Between lines 242 and 256 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\detect_prime_x11.cpp
+Found 9 duplicate lines with fingerprint ec3b8a8da6bde5931462b2189bd3a0a4 in the following files:
+ Between lines 2557 and 2565 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\export\export_plugin.cpp
+ Between lines 2898 and 2906 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\export\export_plugin.cpp
+ Between lines 753 and 761 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\export\export_plugin.cpp
+Found 9 duplicate lines with fingerprint fcc8a4ed5948cab8ce737064d80bfad3 in the following files:
+ Between lines 84 and 93 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\export\export_plugin.h
+ Between lines 91 and 100 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\export\export_plugin.h
+ Between lines 160 and 169 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\export\export_plugin.h
+Found 9 duplicate lines with fingerprint 308c3825368778c2bcc70f3f1ffa6668 in the following files:
+ Between lines 1983 and 1993 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 2999 and 3008 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 9 duplicate lines with fingerprint 780677fdd6ebabe0059598b156d116b7 in the following files:
+ Between lines 109 and 119 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\display_server_android.h
+ Between lines 177 and 188 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\web\display_server_web.h
+ Between lines 587 and 597 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.h
+Found 9 duplicate lines with fingerprint 512f3775c7632ccb4797aa8f5bb531d8 in the following files:
+ Between lines 50 and 60 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.h
+ Between lines 78 and 88 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.h
+Found 9 duplicate lines with fingerprint 0af2fc72275385e95808f93564d7e949 in the following files:
+ Between lines 2591 and 2599 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 2868 and 2876 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 2984 and 2992 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 9 duplicate lines with fingerprint 2d0305810843959b57de1e416e8c87a1 in the following files:
+ Between lines 4849 and 4861 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 5607 and 5619 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 9 duplicate lines with fingerprint ee2578e2d75a17f484902267bdcc85f1 in the following files:
+ Between lines 237 and 246 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\display_server_android.h
+ Between lines 191 and 201 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\web\display_server_web.h
+Found 9 duplicate lines with fingerprint df531b16eef7fa3e5717e23c25cddf7c in the following files:
+ Between lines 415 and 427 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.cpp
+ Between lines 478 and 490 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 9 duplicate lines with fingerprint 1b40ef7527a61c4847ca805e84f13de7 in the following files:
+ Between lines 86 and 94 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\detect_prime_x11.cpp
+ Between lines 115 and 123 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\gl_manager_x11.cpp
+Found 9 duplicate lines with fingerprint ce7d660244ff13f9343e1ad8ef811718 in the following files:
+ Between lines 48 and 59 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\freedesktop_screensaver.cpp
+ Between lines 96 and 107 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\freedesktop_screensaver.cpp
+Found 9 duplicate lines with fingerprint 46132aa53890173310b830d09bb3063f in the following files:
+ Between lines 5097 and 5111 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_thread.cpp
+ Between lines 5173 and 5187 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_thread.cpp
+Found 9 duplicate lines with fingerprint 57b5a3fa07834fa6822347e8e6258c98 in the following files:
+ Between lines 47 and 58 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\ios\display_server_ios.h
+ Between lines 51 and 62 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\visionos\display_server_visionos.h
+Found 9 duplicate lines with fingerprint cace91f46d8ba910526141764280c3c1 in the following files:
+ Between lines 1653 and 1662 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\export\export_plugin.cpp
+ Between lines 1809 and 1818 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\export\export_plugin.cpp
+Found 9 duplicate lines with fingerprint a38f651a7912f6fe02b9ca17b5fde892 in the following files:
+ Between lines 803 and 814 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\export\export_plugin.cpp
+ Between lines 861 and 871 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\export\export_plugin.cpp
+Found 9 duplicate lines with fingerprint d71ff6b8c120b320487fd5940d7539f0 in the following files:
+ Between lines 7758 and 7767 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 757 and 766 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\os_windows.cpp
+Found 9 duplicate lines with fingerprint d9c4fe55bbe0c941456d01f509d17a19 in the following files:
+ Between lines 85 and 93 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\export\export_plugin.cpp
+ Between lines 2517 and 2525 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\export\export_plugin.cpp
+Found 9 duplicate lines with fingerprint 9ce567b8ad64f1010f5cd3c1f6ce4f92 in the following files:
+ Between lines 40 and 50 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\egl_manager_wayland.h
+ Between lines 40 and 50 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\egl_manager_wayland_gles.h
+Found 9 duplicate lines with fingerprint 0f0d5fcc39a581ecf2392db2fa33d774 in the following files:
+ Between lines 152 and 160 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\display_server_android.h
+ Between lines 244 and 253 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.h
+Found 9 duplicate lines with fingerprint 6444e8a88d381c62d14a289db4747203 in the following files:
+ Between lines 31 and 43 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\crash_handler_linuxbsd.h
+ Between lines 31 and 43 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\crash_handler_macos.h
+Found 9 duplicate lines with fingerprint 74d93a9484e682f99e235e2570e5b8f2 in the following files:
+ Between lines 770 and 783 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 1018 and 1031 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 9 duplicate lines with fingerprint 491ccab9bd927a08ce529b78a372b139 in the following files:
+ Between lines 78 and 86 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\tts_driver_sapi.cpp
+ Between lines 139 and 147 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\tts_driver_sapi.cpp
+Found 9 duplicate lines with fingerprint c853df94801768ebd8dfda2d816cf303 in the following files:
+ Between lines 417 and 428 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\display_server_macos.h
+ Between lines 780 and 792 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.h
+Found 9 duplicate lines with fingerprint f3a9c6702a56e25594c8af3f543fd8e4 in the following files:
+ Between lines 2806 and 2816 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 2826 and 2836 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 9 duplicate lines with fingerprint ed0383f126ce45350077af043db5bb31 in the following files:
+ Between lines 4024 and 4032 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 4054 and 4062 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 9 duplicate lines with fingerprint 2433bc24eca7ba678238ad05cc389aa4 in the following files:
+ Between lines 1464 and 1472 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_thread.cpp
+ Between lines 1689 and 1697 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_thread.cpp
+Found 9 duplicate lines with fingerprint e9151583fb58d0955a374fcaa5d578cf in the following files:
+ Between lines 181 and 197 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\crash_handler_linuxbsd.cpp
+ Between lines 214 and 229 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\crash_handler_linuxbsd.cpp
+Found 9 duplicate lines with fingerprint af4112d9ee9d39a16ed79f3a160208e7 in the following files:
+ Between lines 417 and 428 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\export\export_plugin.cpp
+ Between lines 2622 and 2633 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\export\export_plugin.cpp
+ Between lines 934 and 945 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\export\export_plugin.cpp
+Found 10 duplicate lines with fingerprint b61daa91dde71c4779915d2a71927f97 in the following files:
+ Between lines 2388 and 2400 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 1248 and 1259 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 10 duplicate lines with fingerprint 649d29100648eb9716da3800cb079dec in the following files:
+ Between lines 150 and 165 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.cpp
+ Between lines 5508 and 5522 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 4664 and 4678 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 10 duplicate lines with fingerprint f310a727bbce46c232ae6497f90936ae in the following files:
+ Between lines 1202 and 1211 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_thread.h
+ Between lines 1185 and 1194 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_thread.h
+Found 10 duplicate lines with fingerprint f8180dba7f351e7d630d3b248f9c5910 in the following files:
+ Between lines 61 and 73 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\tts_driver_sapi.h
+ Between lines 79 and 91 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\tts_driver_onecore.h
+Found 10 duplicate lines with fingerprint 47fc1372fedc823de740478e0d2f4d19 in the following files:
+ Between lines 1812 and 1826 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.cpp
+ Between lines 1760 and 1774 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.cpp
+Found 10 duplicate lines with fingerprint 2dfccf15a0aa96dd0df5c76dc50922e0 in the following files:
+ Between lines 502 and 514 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 343 and 355 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 277 and 289 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+Found 10 duplicate lines with fingerprint d8ca205d94ccf05498a6d395dcf79fca in the following files:
+ Between lines 2827 and 2836 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 2648 and 2657 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 2069 and 2078 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 10 duplicate lines with fingerprint 9d8033723cbcfc21ab178ded68b3c773 in the following files:
+ Between lines 3079 and 3088 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 3457 and 3466 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 10 duplicate lines with fingerprint c0ab0d2d53a4a75459c66392e3578244 in the following files:
+ Between lines 66 and 80 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\file_access_filesystem_jandroid.h
+ Between lines 53 and 67 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\file_access_android.h
+Found 10 duplicate lines with fingerprint 258f86a408d4e5668af981efa202ebba in the following files:
+ Between lines 6368 and 6379 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 2259 and 2271 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.cpp
+Found 10 duplicate lines with fingerprint 351c1658648516154a3bced3a709f8e9 in the following files:
+ Between lines 308 and 318 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\web\javascript_bridge_singleton.cpp
+ Between lines 105 and 115 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\web\api\api.cpp
+Found 10 duplicate lines with fingerprint aa6716c8cc6e664d6b126482704c04b8 in the following files:
+ Between lines 228 and 239 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 324 and 335 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.cpp
+Found 10 duplicate lines with fingerprint 3b6fb1ee7557530b692ca4fc5d9924ae in the following files:
+ Between lines 1369 and 1378 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\os_windows.cpp
+ Between lines 1574 and 1583 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\os_windows.cpp
+ Between lines 1475 and 1484 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\os_windows.cpp
+Found 10 duplicate lines with fingerprint fd66b00dfd0f1284e04d3aaa3fbc439e in the following files:
+ Between lines 6240 and 6255 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 6128 and 6143 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 6099 and 6114 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 10 duplicate lines with fingerprint 5443c544b02eb447123d6d8ba0878484 in the following files:
+ Between lines 5393 and 5402 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 5330 and 5339 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 10 duplicate lines with fingerprint 41506f1d59fb67b6ace3ad4daa43a8f9 in the following files:
+ Between lines 1541 and 1552 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\java_class_wrapper.cpp
+ Between lines 1519 and 1530 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\java_class_wrapper.cpp
+Found 10 duplicate lines with fingerprint 281579abc7c3498c5f5285d214901326 in the following files:
+ Between lines 2962 and 2977 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_embedder.cpp
+ Between lines 2923 and 2939 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_embedder.cpp
+Found 10 duplicate lines with fingerprint 13f1c029b22fe895aac219af7c460ae6 in the following files:
+ Between lines 89 and 100 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\export\export_plugin.h
+ Between lines 82 and 93 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\export\export_plugin.h
+Found 10 duplicate lines with fingerprint e36f81fbfbb8632f1d48e36c6d7204a1 in the following files:
+ Between lines 234 and 245 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.h
+ Between lines 437 and 448 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.h
+Found 10 duplicate lines with fingerprint 6c78c4ae4a6db81815a2a679fa1363c0 in the following files:
+ Between lines 4196 and 4208 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 4160 and 4172 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 11 duplicate lines with fingerprint eadd0ed4250482a517c8800089b7ac59 in the following files:
+ Between lines 821 and 833 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 1071 and 1083 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 11 duplicate lines with fingerprint dcff3beb62971c9114c1822e0164e55c in the following files:
+ Between lines 171 and 184 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\display_server_macos_base.h
+ Between lines 729 and 743 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.h
+Found 11 duplicate lines with fingerprint 76afcc4b6f34826f030fbfc64be7362d in the following files:
+ Between lines 4673 and 4686 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 4791 and 4804 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 11 duplicate lines with fingerprint 494f49f09dc4b2865f53afbbca929cbb in the following files:
+ Between lines 199 and 212 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.h
+ Between lines 403 and 415 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.h
+Found 11 duplicate lines with fingerprint c46976eec56abddb977e709e1e4058e7 in the following files:
+ Between lines 3437 and 3449 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 3057 and 3068 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 11 duplicate lines with fingerprint 74cd591ff234a6ec5f453c8688d9b7c2 in the following files:
+ Between lines 447 and 457 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.h
+ Between lines 627 and 637 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.h
+Found 11 duplicate lines with fingerprint af1b5ab932d54f5d45ad01b5e1c24c14 in the following files:
+ Between lines 109 and 122 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\display_server_android.h
+ Between lines 587 and 600 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.h
+Found 11 duplicate lines with fingerprint 87fa70a1042ac93cc1e9ab8f8b546e0d in the following files:
+ Between lines 2317 and 2332 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.cpp
+ Between lines 7136 and 7155 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 11 duplicate lines with fingerprint 13e3b703990d0be4d7aa52c78057e14d in the following files:
+ Between lines 5318 and 5335 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_thread.cpp
+ Between lines 5374 and 5391 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_thread.cpp
+Found 11 duplicate lines with fingerprint 9126c601804d9f7bdb5fabcce265614c in the following files:
+ Between lines 2895 and 2906 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\export\export_plugin.cpp
+ Between lines 750 and 761 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\export\export_plugin.cpp
+Found 11 duplicate lines with fingerprint a6ff5cbcf92065580032cca38d10ff42 in the following files:
+ Between lines 7109 and 7121 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 7171 and 7183 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 11 duplicate lines with fingerprint b2cb86e10beac128d4b0a07b19e9e342 in the following files:
+ Between lines 367 and 380 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.h
+ Between lines 557 and 570 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.h
+Found 12 duplicate lines with fingerprint e7ac644a73021dd259e6a3d61a7abc28 in the following files:
+ Between lines 31 and 45 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\platform_gl.h
+ Between lines 31 and 45 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\platform_gl.h
+Found 12 duplicate lines with fingerprint 549ad47f263c91eb3957a82e7f56bb00 in the following files:
+ Between lines 385 and 399 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 310 and 324 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+Found 12 duplicate lines with fingerprint a6c05dbd4cf7b31b300cd911adfe7eda in the following files:
+ Between lines 7321 and 7335 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 2517 and 2531 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.cpp
+Found 12 duplicate lines with fingerprint 80395eb845af38bf70343219482143dc in the following files:
+ Between lines 119 and 131 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\freedesktop_at_spi_monitor.cpp
+ Between lines 75 and 87 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\freedesktop_at_spi_monitor.cpp
+Found 12 duplicate lines with fingerprint a4dcd35ab1faefd7aa06f99f17f43d56 in the following files:
+ Between lines 686 and 703 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.h
+ Between lines 503 and 520 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.h
+Found 12 duplicate lines with fingerprint faa0df4588a0ccb8a268080461a93b27 in the following files:
+ Between lines 209 and 223 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 308 and 322 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.cpp
+Found 12 duplicate lines with fingerprint dfd9b475704e37ea4c116c0498d9d7ce in the following files:
+ Between lines 517 and 532 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\os_linuxbsd.cpp
+ Between lines 479 and 494 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\os_linuxbsd.cpp
+Found 12 duplicate lines with fingerprint af0af190b5220f2a1a6704f6f0ac1fde in the following files:
+ Between lines 7555 and 7569 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 2156 and 2171 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 12 duplicate lines with fingerprint ec8d3bfaff366e56b3e3d4c8a1e63bad in the following files:
+ Between lines 343 and 357 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 277 and 291 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+Found 12 duplicate lines with fingerprint c9e721941ba14ab1b69e79b753d6db13 in the following files:
+ Between lines 903 and 915 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 882 and 894 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+Found 12 duplicate lines with fingerprint 7165ac1bc6be129736680cbaeefe3a55 in the following files:
+ Between lines 998 and 1013 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\export\export_plugin.cpp
+ Between lines 481 and 496 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\export\export_plugin.cpp
+Found 12 duplicate lines with fingerprint 6eaddcd6052f12f160e96fd62fa07008 in the following files:
+ Between lines 812 and 824 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 792 and 804 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+Found 12 duplicate lines with fingerprint 7220359efc86561fcff6fe5465bda186 in the following files:
+ Between lines 6340 and 6355 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 6057 and 6072 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 12 duplicate lines with fingerprint 3ce7e6056b44096c621fba7eae884502 in the following files:
+ Between lines 652 and 664 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 632 and 644 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+Found 12 duplicate lines with fingerprint 28732354268877ba29948d51441103fd in the following files:
+ Between lines 334 and 350 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\export\export_plugin.cpp
+ Between lines 134 and 150 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\export\export_plugin.cpp
+Found 12 duplicate lines with fingerprint a24c9db265a11fd940698ff596f5d546 in the following files:
+ Between lines 326 and 339 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 293 and 306 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 518 and 531 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+Found 12 duplicate lines with fingerprint 5311946aa5801521066a977ca6674e76 in the following files:
+ Between lines 1189 and 1201 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 1069 and 1081 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 1050 and 1062 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 956 and 968 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 929 and 941 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+Found 12 duplicate lines with fingerprint 36a4ee9e3a604e2b76da74762256c140 in the following files:
+ Between lines 460 and 474 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 427 and 441 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+Found 13 duplicate lines with fingerprint 849bc64c53b47b2bb69bc0d1d77ff95e in the following files:
+ Between lines 452 and 469 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\export\export_plugin.cpp
+ Between lines 2657 and 2674 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\export\export_plugin.cpp
+ Between lines 969 and 986 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\export\export_plugin.cpp
+Found 13 duplicate lines with fingerprint 8e494d108865470874861a7a3c3f7e1a in the following files:
+ Between lines 228 and 240 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\key_mapping_xkb.cpp
+ Between lines 222 and 234 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\key_mapping_x11.cpp
+Found 13 duplicate lines with fingerprint 1b0e02a410d5e98cdfb6090975c55f60 in the following files:
+ Between lines 2521 and 2533 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\export\export_plugin.cpp
+ Between lines 2087 and 2099 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\export\export_plugin.cpp
+Found 13 duplicate lines with fingerprint 27d8ac314231afabc7cd11269ac1ddcb in the following files:
+ Between lines 56 and 70 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\export\export_plugin.cpp
+ Between lines 122 and 136 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\os_windows.cpp
+Found 13 duplicate lines with fingerprint 0e734c79f7ff5e1b14192c35293527ad in the following files:
+ Between lines 698 and 716 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.h
+ Between lines 360 and 378 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\display_server_macos.h
+Found 13 duplicate lines with fingerprint 04bea7fca961aee0c46382148b815683 in the following files:
+ Between lines 873 and 888 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 8064 and 8079 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 13 duplicate lines with fingerprint 9889e6160849c491d80697e07151e04b in the following files:
+ Between lines 356 and 371 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 398 and 413 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 473 and 488 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+Found 13 duplicate lines with fingerprint 13f2c58ec2aab16e7239d1bdcf543bca in the following files:
+ Between lines 2864 and 2876 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 2980 and 2992 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 13 duplicate lines with fingerprint a4095559588e69e7d3a1a4f5476cec91 in the following files:
+ Between lines 608 and 623 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.h
+ Between lines 427 and 442 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.h
+Found 14 duplicate lines with fingerprint 911540ac81eb44641afd602c5b9082c4 in the following files:
+ Between lines 418 and 434 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.h
+ Between lines 215 and 231 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.h
+Found 14 duplicate lines with fingerprint fdbdb341faf2102e59d263b57d568bf7 in the following files:
+ Between lines 323 and 339 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 290 and 306 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+Found 14 duplicate lines with fingerprint d479b01c3ec91cb36dac32ac7491ca24 in the following files:
+ Between lines 2730 and 2747 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\os_windows.cpp
+ Between lines 1298 and 1314 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\os_linuxbsd.cpp
+Found 14 duplicate lines with fingerprint 0afd8af1d7c23bd085576da1d725a706 in the following files:
+ Between lines 6187 and 6205 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 5661 and 5679 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 4889 and 4907 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 14 duplicate lines with fingerprint 30790c31f8938c05abcac5777c593157 in the following files:
+ Between lines 3825 and 3839 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 3788 and 3802 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 14 duplicate lines with fingerprint 85ec6b20131401ef817f928a53814100 in the following files:
+ Between lines 1012 and 1028 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 864 and 880 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\freedesktop_portal_desktop.cpp
+Found 14 duplicate lines with fingerprint 93ab73ccb17195602298f83acc87eb1d in the following files:
+ Between lines 66 and 98 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 40 and 84 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.cpp
+Found 14 duplicate lines with fingerprint 1029ed702fbd3048cc3db67219c59d81 in the following files:
+ Between lines 1568 and 1583 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\os_windows.cpp
+ Between lines 1469 and 1484 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\os_windows.cpp
+Found 15 duplicate lines with fingerprint bc3aa210fd047a9f8a1becafd944ae69 in the following files:
+ Between lines 104 and 118 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\crash_handler_windows_signal.cpp
+ Between lines 152 and 166 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\crash_handler_windows_signal.cpp
+Found 15 duplicate lines with fingerprint 19b440d69adffa2f6540627154f4fe83 in the following files:
+ Between lines 59 and 77 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\detect_prime_egl.h
+ Between lines 36 and 54 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\detect_prime_x11.h
+Found 15 duplicate lines with fingerprint 5990e9bc9703e25fb797ad7874b8bd63 in the following files:
+ Between lines 6357 and 6378 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 6074 and 6097 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 15 duplicate lines with fingerprint ca50e9d90ba84f537d5593dcbac9344d in the following files:
+ Between lines 4655 and 4678 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 5499 and 5522 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 16 duplicate lines with fingerprint 4d515e9d84f54280acb565fcd37aaa42 in the following files:
+ Between lines 111 and 127 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.h
+ Between lines 125 and 141 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\native_menu_macos.h
+Found 16 duplicate lines with fingerprint 3b73d7dae7a1ead376483b18ef70548c in the following files:
+ Between lines 2177 and 2195 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\os_windows.cpp
+ Between lines 2151 and 2169 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\os_windows.cpp
+ Between lines 2120 and 2138 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\os_windows.cpp
+Found 16 duplicate lines with fingerprint 2e53a22231ed42e0b860799481c6ff13 in the following files:
+ Between lines 41 and 59 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 3419 and 3438 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 16 duplicate lines with fingerprint 10acbff17d01c239fde2cb657281cf22 in the following files:
+ Between lines 722 and 746 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\export\export_plugin.cpp
+ Between lines 238 and 262 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\export\export_plugin.cpp
+Found 17 duplicate lines with fingerprint 8b061be611c4ed27926f663a5be58beb in the following files:
+ Between lines 335 and 358 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\display_server_macos.h
+ Between lines 671 and 694 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.h
+Found 17 duplicate lines with fingerprint 731b96fae6a7a9026510b0335af7c5c6 in the following files:
+ Between lines 182 and 211 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\detect_prime_egl.cpp
+ Between lines 209 and 238 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\detect_prime_x11.cpp
+Found 17 duplicate lines with fingerprint 62dd78b6b359e9be77bc36cfacfe42f5 in the following files:
+ Between lines 403 and 424 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\tts_driver_onecore.cpp
+ Between lines 193 and 214 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\tts_driver_sapi.cpp
+Found 17 duplicate lines with fingerprint 4eb86e3293195f9a330deaba794f4486 in the following files:
+ Between lines 2151 and 2170 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\os_windows.cpp
+ Between lines 2177 and 2196 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\os_windows.cpp
+Found 17 duplicate lines with fingerprint e197697726df3d88699ef19311d8c579 in the following files:
+ Between lines 215 and 236 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\tts_linux.cpp
+ Between lines 192 and 213 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\tts_driver_sapi.cpp
+Found 17 duplicate lines with fingerprint eaf719930462ac08afaaffdfbcd145a5 in the following files:
+ Between lines 86 and 110 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\export\export_plugin.cpp
+ Between lines 226 and 249 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\export\export_plugin.cpp
+Found 17 duplicate lines with fingerprint bee3a6c27a66bf6367efc78dbb20cc4f in the following files:
+ Between lines 449 and 465 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\wayland_thread.cpp
+ Between lines 7359 and 7375 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 17 duplicate lines with fingerprint 03a8544b9d6fd05e7b8900cf3285897b in the following files:
+ Between lines 174 and 196 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\display_server_macos_embedded.h
+ Between lines 347 and 369 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\display_server_macos.h
+Found 17 duplicate lines with fingerprint 7b9a96abee3e039fe69b701383a40a2f in the following files:
+ Between lines 2435 and 2454 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.cpp
+ Between lines 7247 and 7266 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 18 duplicate lines with fingerprint 394c2a4dc025f678699c93738a88cdc2 in the following files:
+ Between lines 45 and 67 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\export\export_plugin.h
+ Between lines 59 and 81 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\export\export_plugin.h
+ Between lines 42 and 64 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\export\export_plugin.h
+Found 18 duplicate lines with fingerprint ce4e8e953b9820b1a5f00e3bfd496d4d in the following files:
+ Between lines 2243 and 2260 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\os_windows.cpp
+ Between lines 2203 and 2220 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\os_windows.cpp
+Found 18 duplicate lines with fingerprint 142b51aa12565533de368370e00d8f4e in the following files:
+ Between lines 77 and 98 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\crash_handler_windows_signal.cpp
+ Between lines 92 and 113 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\crash_handler_windows_seh.cpp
+Found 18 duplicate lines with fingerprint 052ba54f2bd9a1a50194f8fdb6777bc3 in the following files:
+ Between lines 4168 and 4192 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 4088 and 4112 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 19 duplicate lines with fingerprint deb1f3b614167d13bae3d4055f7926f5 in the following files:
+ Between lines 5944 and 5969 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 5984 and 6009 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 19 duplicate lines with fingerprint 83955e18ef7f9a9274e5d4b9553e17b4 in the following files:
+ Between lines 7251 and 7270 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 7439 and 7458 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 20 duplicate lines with fingerprint 466f7f341711a6dc1784382d94a99ac5 in the following files:
+ Between lines 103 and 124 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\wgl_detect_version.cpp
+ Between lines 313 and 334 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\gl_manager_windows_native.cpp
+Found 20 duplicate lines with fingerprint cbd6186983a67ed310f14fad7e0e2804 in the following files:
+ Between lines 424 and 446 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\freedesktop_portal_desktop.cpp
+ Between lines 369 and 391 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\freedesktop_portal_desktop.cpp
+Found 20 duplicate lines with fingerprint f89b00c164c85f4f300307ce124662dc in the following files:
+ Between lines 152 and 195 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\detect_prime_x11.cpp
+ Between lines 133 and 175 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\detect_prime_egl.cpp
+Found 21 duplicate lines with fingerprint ccd8f0735ef23c5ae1d822fbf25b6fe1 in the following files:
+ Between lines 4894 and 4916 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 4972 and 4994 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 4821 and 4843 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 21 duplicate lines with fingerprint 474f5493db8ace73ce517cb39ac5e954 in the following files:
+ Between lines 143 and 165 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\native_menu_macos.h
+ Between lines 128 and 150 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.h
+Found 21 duplicate lines with fingerprint 143b55684f00363b26276e9ea1adf3f7 in the following files:
+ Between lines 356 and 381 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+ Between lines 398 and 423 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.cpp
+Found 21 duplicate lines with fingerprint 49e74ec3fc0cc53e7ae65592c6e53c2d in the following files:
+ Between lines 7672 and 7698 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 676 and 702 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\os_windows.cpp
+Found 21 duplicate lines with fingerprint 0d847b99377801e3eb9185511301cc08 in the following files:
+ Between lines 1027 and 1057 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\export\export_plugin.cpp
+ Between lines 510 and 540 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\export\export_plugin.cpp
+ Between lines 2723 and 2753 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\export\export_plugin.cpp
+Found 22 duplicate lines with fingerprint 095cfaa9c2ff40aa1a35890a9ca9cfa3 in the following files:
+ Between lines 160 and 192 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\display_server_macos_embedded.h
+ Between lines 184 and 215 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\display_server_android.h
+Found 22 duplicate lines with fingerprint 63ac9a308a19d7c7e2e7d30d3c94bc04 in the following files:
+ Between lines 2023 and 2051 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\os_windows.cpp
+ Between lines 1944 and 1972 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\os_windows.cpp
+Found 22 duplicate lines with fingerprint 0d4b693737bf6c587e6ef835fb53894f in the following files:
+ Between lines 6470 and 6499 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 6060 and 6089 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 22 duplicate lines with fingerprint d59ba7d098d234d4e118a6dd497a9771 in the following files:
+ Between lines 84 and 110 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\native_menu_windows.h
+ Between lines 97 and 123 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\native_menu_macos.h
+Found 24 duplicate lines with fingerprint b2bfecf36d85566913b019402017c513 in the following files:
+ Between lines 750 and 779 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\web\export\export_plugin.cpp
+ Between lines 712 and 741 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\web\export\export_plugin.cpp
+Found 24 duplicate lines with fingerprint 4656a3572f3e9ad4fe7e138bafa21607 in the following files:
+ Between lines 7483 and 7511 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 2533 and 2561 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.cpp
+Found 25 duplicate lines with fingerprint f4d9c1fe5af30a4efd0ee9aaca8a05f4 in the following files:
+ Between lines 201 and 225 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\key_mapping_xkb.cpp
+ Between lines 195 and 219 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\key_mapping_x11.cpp
+Found 26 duplicate lines with fingerprint 5fa9721fbe3e8cb784966eca785cedb8 in the following files:
+ Between lines 186 and 224 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\android\display_server_android.h
+ Between lines 248 and 286 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\web\display_server_web.h
+Found 27 duplicate lines with fingerprint a09f66af16355050514e8b8e2028bc9c in the following files:
+ Between lines 4806 and 4844 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+ Between lines 5564 and 5602 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 27 duplicate lines with fingerprint c2216ec144def87a3e1d311099382478 in the following files:
+ Between lines 2340 and 2375 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\display_server_wayland.cpp
+ Between lines 7163 and 7197 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\display_server_x11.cpp
+Found 29 duplicate lines with fingerprint cf7cbaff9f46010b1f9ae8c159f0c10b in the following files:
+ Between lines 333 and 371 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\export\export_plugin.cpp
+ Between lines 629 and 667 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\os_linuxbsd.cpp
+Found 29 duplicate lines with fingerprint 099371281310d16dd40c79997d66f690 in the following files:
+ Between lines 573 and 615 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\export\export_plugin.cpp
+ Between lines 2786 and 2828 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\export\export_plugin.cpp
+Found 33 duplicate lines with fingerprint e58ba94485ec889b0ec8360c6a7e8750 in the following files:
+ Between lines 4878 and 4920 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 4956 and 4998 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 37 duplicate lines with fingerprint 7f9d56acd582fff05da2c7d5d3448bc0 in the following files:
+ Between lines 1634 and 1681 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+ Between lines 1688 and 1735 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\windows\display_server_windows.cpp
+Found 42 duplicate lines with fingerprint 102f6d58579a5902fd0f7cd557587a86 in the following files:
+ Between lines 236 and 277 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\key_mapping_x11.cpp
+ Between lines 242 and 283 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\key_mapping_xkb.cpp
+Found 42 duplicate lines with fingerprint b8a109341eb01a3b7c0f5d6db13f4022 in the following files:
+ Between lines 2713 and 2769 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\macos\export\export_plugin.cpp
+ Between lines 500 and 556 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\export\export_plugin.cpp
+Found 58 duplicate lines with fingerprint 4e7db40905fdac0985fb1af3773557a5 in the following files:
+ Between lines 281 and 354 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\x11\key_mapping_x11.cpp
+ Between lines 287 and 360 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\platform\linuxbsd\wayland\key_mapping_xkb.cpp
+Found 6236 duplicate lines in 595 blocks in 91 files
+Processed a total of 58722 significant (95210 raw) lines in 284 files
+Processing time: 1.841sec

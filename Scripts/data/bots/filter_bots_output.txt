@@ -1,0 +1,38 @@
+[filter_bots] git identities with non-merge commits: 602
+  naive substring 'bot': 2 -> benj@minbot.win; dependabot[bot]
+  bot pattern (measure 1): 1 -> dependabot[bot]
+  behaviour flag (measure 2, >=5 commits and >=80% one template): 0
+Empty DataFrame
+Columns: [commits, top_template_share, median_files, distinct_hours]
+Index: []
+  templated mass commits (template >=3x, >=20 files): 10
+                                                   n  median_files
+name               tpl                                            
+DeeJayLSP          Update HarfBuzz to N            2          97.5
+Jakub Marcowski    libpng: Update to N             1          21.0
+Pāvels Nadtočajevs Update HarfBuzz to N            1          21.0
+Rémi Verschelde    Sync translations with Weblate  6          50.5
+[filter_bots] GitHub logins active in window: 5991; __typename Bot/[bot]: 3; login pattern: 2
+                        login  events type  typename_bot  login_pattern_bot
+                      Copilot      26  Bot          True              False
+copilot-pull-request-reviewer      26  Bot          True              False
+                   Hamood-bot       2 User         False               True
+                   dependabot       1  Bot          True               True
+[filter_bots] comment behaviour (>=10 comments): 595 logins; flagged (top pattern >= 50%): 2
+         login type  comments  patterns  top_pattern_share                                                      top_pattern  empty_share  behaviour_flag
+       Repiteo User      5272       617               0.66                                                          thanks!          0.0            True
+       dhoverb User        39         9               0.54                                                             done          0.0            True
+    SeremTitus User        12         9               0.33 reasons for closing:\r\n\r\n* i’d like to allow others to take o          0.0           False
+        Flarkk User        44        30               0.32                                                          rebased          0.0           False
+     akien-mga User      2908      1750               0.25                                                          thanks!          0.0           False
+    jiasas888b User        16         8               0.25   > > will it support non-ascii characters in the future?\n> \n>          0.0           False
+        zuedev User        17        13               0.24                                                    resolved in N          0.0           False
+     ashwinvbs User        13        11               0.23                                                             done          0.0           False
+  DDarby-Lewis User        31        25               0.23                                                             done          0.0           False
+   aaronjyoder User        10         9               0.20                                                         updated.          0.0           False
+ CantyCanadian User        10         9               0.20     closed due to new policy refusing features made by new contr          0.0           False
+NicolasVIscool User        10         9               0.20     > > our game we finally pinpoint the issue on using gpuparti          0.0           False
+        sydist User        10         9               0.20                                                          thanks!          0.0           False
+          mcdz User        10         8               0.20                                                                N          0.0           False
+   PabloDevGit User        74        61               0.19                                    still in vN.devN.official [N]          0.0           False
+[filter_bots] 35 logins written to rabbit_input.txt for RABBIT validation

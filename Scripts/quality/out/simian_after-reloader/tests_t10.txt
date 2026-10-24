@@ -1,0 +1,392 @@
+Similarity Analyser 2.5.10 - http://www.harukizaemon.com/simian
+Copyright (c) 2003-2018 Simon Harris.  All rights reserved.
+Simian is not free unless used solely for non-commercial or evaluation purposes.
+{failOnDuplication=true, ignoreCharacterCase=true, ignoreCurlyBraces=true, ignoreIdentifierCase=true, ignoreModifiers=true, ignoreStringCase=true, language=C++, threshold=10}
+Found 10 duplicate lines with fingerprint 32a4793b51ca9a82a2687491f293c8b6 in the following files:
+ Between lines 5344 and 5353 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 5312 and 5321 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 5297 and 5306 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 10 duplicate lines with fingerprint 472353ae1bc08843ab0a5ed6e57fe43d in the following files:
+ Between lines 284 and 295 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\core\crypto\test_aes_context.cpp
+ Between lines 165 and 176 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\core\crypto\test_aes_context.cpp
+Found 10 duplicate lines with fingerprint fd0c7fd57c44039068c7310ded7e4f27 in the following files:
+ Between lines 3722 and 3732 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 3698 and 3708 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 10 duplicate lines with fingerprint 5e51dd19fbb024ff7121ad447fbfe436 in the following files:
+ Between lines 2727 and 2736 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 2677 and 2686 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 10 duplicate lines with fingerprint 8ecfdef155517ec1de0ff12761caba98 in the following files:
+ Between lines 3807 and 3816 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 3777 and 3786 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 10 duplicate lines with fingerprint 5f9440e67687c775181c4bf8f5361afb in the following files:
+ Between lines 370 and 381 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_code_edit.cpp
+ Between lines 323 and 334 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_code_edit.cpp
+Found 10 duplicate lines with fingerprint 8f29d9eb980aa165fdeedd3426e7a846 in the following files:
+ Between lines 4035 and 4044 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 4005 and 4014 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 10 duplicate lines with fingerprint a1d1b0024a93f2706033364f7a714d37 in the following files:
+ Between lines 4832 and 4841 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 4177 and 4186 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 10 duplicate lines with fingerprint a67248d1b57942237995d5940e7d7d2b in the following files:
+ Between lines 4869 and 4878 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 4708 and 4717 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 10 duplicate lines with fingerprint d696391e31f3f3e911450fb38496ebd3 in the following files:
+ Between lines 2947 and 2957 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_code_edit.cpp
+ Between lines 2933 and 2943 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_code_edit.cpp
+Found 10 duplicate lines with fingerprint 1767817a915472f547e6d07a722bd8c4 in the following files:
+ Between lines 7685 and 7696 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 7626 and 7637 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 10 duplicate lines with fingerprint c5034fc5ef04764f289d25554fc48ec1 in the following files:
+ Between lines 204 and 214 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_path_follow_3d.cpp
+ Between lines 166 and 176 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_path_follow_3d.cpp
+Found 10 duplicate lines with fingerprint 4c431a54e3bd6ac98d2faec58ecf5b53 in the following files:
+ Between lines 181 and 192 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\core\templates\test_vector.cpp
+ Between lines 158 and 169 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\core\templates\test_vector.cpp
+Found 10 duplicate lines with fingerprint c3604d024d9f7b04a0f21f827a56c0e8 in the following files:
+ Between lines 3519 and 3528 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 3489 and 3498 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 10 duplicate lines with fingerprint 6d2f292f883c184b809d7aa6e5814ae9 in the following files:
+ Between lines 511 and 520 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_tab_container.cpp
+ Between lines 396 and 405 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_tab_container.cpp
+Found 10 duplicate lines with fingerprint e4556118891624e29d3391594bef27ef in the following files:
+ Between lines 478 and 491 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\core\templates\test_list.cpp
+ Between lines 461 and 474 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\core\templates\test_list.cpp
+Found 10 duplicate lines with fingerprint 2830ead4e7fc1486b585fcd8adc341fb in the following files:
+ Between lines 789 and 798 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\core\math\test_geometry_2d.cpp
+ Between lines 773 and 782 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\core\math\test_geometry_2d.cpp
+ Between lines 753 and 762 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\core\math\test_geometry_2d.cpp
+Found 10 duplicate lines with fingerprint 35367f3175de2d65bcd4ab169a49676b in the following files:
+ Between lines 230 and 243 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\core\io\test_uds_server.cpp
+ Between lines 195 and 208 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\core\io\test_uds_server.cpp
+ Between lines 118 and 131 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\core\io\test_uds_server.cpp
+Found 10 duplicate lines with fingerprint ed6373c3a156c3afda0e77005341ef89 in the following files:
+ Between lines 4294 and 4303 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 4278 and 4287 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 10 duplicate lines with fingerprint f7fecd26e62732743718c5a5c99a594e in the following files:
+ Between lines 217 and 230 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\core\io\test_tcp_server.cpp
+ Between lines 175 and 188 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\core\io\test_tcp_server.cpp
+ Between lines 102 and 115 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\core\io\test_tcp_server.cpp
+Found 10 duplicate lines with fingerprint af8a4a03b20b859c4f725355acca69f8 in the following files:
+ Between lines 4577 and 4586 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 4547 and 4556 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 4281 and 4290 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 4195 and 4204 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 4156 and 4165 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 10 duplicate lines with fingerprint 3202baee4199eb881c3b4d3a7b0bc0f2 in the following files:
+ Between lines 368 and 380 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_box_container.cpp
+ Between lines 63 and 75 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_box_container.cpp
+Found 10 duplicate lines with fingerprint 16f065a90ec45f0573abb30c929be7d5 in the following files:
+ Between lines 2348 and 2358 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_split_container.cpp
+ Between lines 2327 and 2337 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_split_container.cpp
+Found 10 duplicate lines with fingerprint 4b66ba8ca6556e971271f251ef2f9b61 in the following files:
+ Between lines 7245 and 7254 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 7231 and 7240 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 10 duplicate lines with fingerprint fe267a41aa64948c8a81c3146da8a077 in the following files:
+ Between lines 4051 and 4060 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 3949 and 3958 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 10 duplicate lines with fingerprint 26735448f4776a8a6ac2e3a30da3cb0a in the following files:
+ Between lines 407 and 416 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 380 and 389 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 353 and 362 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 326 and 335 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 10 duplicate lines with fingerprint 35f5e4f849e206980fdef5efe2a467b5 in the following files:
+ Between lines 212 and 222 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\core\templates\test_hash_set.cpp
+ Between lines 192 and 202 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\core\templates\test_hash_set.cpp
+Found 10 duplicate lines with fingerprint 63a3b25bdd79c53617dfa965c54b4867 in the following files:
+ Between lines 141 and 153 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\servers\test_navigation_server_3d.cpp
+ Between lines 165 and 177 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\servers\test_navigation_server_2d.cpp
+Found 11 duplicate lines with fingerprint b1cff8a1ac9a18f3913ab5947c90780b in the following files:
+ Between lines 4427 and 4437 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 4461 and 4471 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 11 duplicate lines with fingerprint 264be8403d7471c0ee022e620e6117c6 in the following files:
+ Between lines 2466 and 2478 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_code_edit.cpp
+ Between lines 2626 and 2638 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_code_edit.cpp
+Found 11 duplicate lines with fingerprint 2dfd7740afd85d95d9e8835aeb32dac4 in the following files:
+ Between lines 256 and 276 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_curve_2d.cpp
+ Between lines 253 and 273 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_curve_3d.cpp
+Found 11 duplicate lines with fingerprint 0d114c65c0bbb1e003919f0b480c2f57 in the following files:
+ Between lines 5746 and 5756 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 5868 and 5878 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 11 duplicate lines with fingerprint 97545981352d816057a6e03dface8cf6 in the following files:
+ Between lines 3760 and 3772 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 3987 and 3999 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 11 duplicate lines with fingerprint 32df8e15d8d4d4a1b3315657de12ddda in the following files:
+ Between lines 4156 and 4168 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 4577 and 4589 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 11 duplicate lines with fingerprint 16ed6062f3644477a6b277a519e5ede2 in the following files:
+ Between lines 4491 and 4501 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 4526 and 4536 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 11 duplicate lines with fingerprint 4a68446dce1756db0f560d5fa2e4bc38 in the following files:
+ Between lines 5311 and 5321 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 5343 and 5353 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 11 duplicate lines with fingerprint 3f9cc524836e623b1416d87985e0188f in the following files:
+ Between lines 5098 and 5108 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 5134 and 5144 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 11 duplicate lines with fingerprint f535fde073a860ded1160bb0a2cf11c6 in the following files:
+ Between lines 4321 and 4331 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 4351 and 4361 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 11 duplicate lines with fingerprint de5b1a54febb813452aeb2933d661d36 in the following files:
+ Between lines 4214 and 4226 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 4370 and 4382 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 11 duplicate lines with fingerprint a7a9a23b635e89f0b43a98281bb59db8 in the following files:
+ Between lines 4297 and 4307 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 4853 and 4863 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 11 duplicate lines with fingerprint d68dea84c8cfb58476f53dd8c00d9968 in the following files:
+ Between lines 4967 and 4977 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 4997 and 5007 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 11 duplicate lines with fingerprint 73e9356d67437e6bb607daf92f02d6a0 in the following files:
+ Between lines 4633 and 4643 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 4665 and 4675 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 11 duplicate lines with fingerprint caa47cdbb563baa3f964ff0f468b4344 in the following files:
+ Between lines 4546 and 4556 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 4576 and 4586 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 11 duplicate lines with fingerprint 34852c0abc8a0edb5d14c9b8f17309a1 in the following files:
+ Between lines 5474 and 5484 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 5596 and 5606 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 11 duplicate lines with fingerprint e66630029205c6082710c3ec2b7d850d in the following files:
+ Between lines 5224 and 5234 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 5254 and 5264 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 11 duplicate lines with fingerprint 0895b42e76beed5e80f83e18035e0ea1 in the following files:
+ Between lines 62 and 75 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\servers\test_text_server.cpp
+ Between lines 163 and 176 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\servers\test_text_server.cpp
+Found 11 duplicate lines with fingerprint e63f869e8083df870a8141128747f19d in the following files:
+ Between lines 266 and 279 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\servers\test_navigation_server_2d.cpp
+ Between lines 245 and 258 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\servers\test_navigation_server_3d.cpp
+Found 11 duplicate lines with fingerprint ea5cb4d78cd2d6c5c3a3b0d84b7624f5 in the following files:
+ Between lines 5168 and 5178 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 5203 and 5213 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 12 duplicate lines with fingerprint a4194910a2972c16842b2a9ebe2a7091 in the following files:
+ Between lines 853 and 868 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_split_container.cpp
+ Between lines 805 and 820 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_split_container.cpp
+Found 12 duplicate lines with fingerprint 781f3c053f94b5e2d652dfa51a2f3629 in the following files:
+ Between lines 249 and 261 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_flow_container.cpp
+ Between lines 106 and 118 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_flow_container.cpp
+Found 12 duplicate lines with fingerprint b8c39defd32e6d9cddbce19f8c116438 in the following files:
+ Between lines 1231 and 1248 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_code_edit.cpp
+ Between lines 1162 and 1179 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_code_edit.cpp
+Found 12 duplicate lines with fingerprint 010c08c961ba102e39bfe57223bd134b in the following files:
+ Between lines 445 and 461 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_box_container.cpp
+ Between lines 86 and 102 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_box_container.cpp
+Found 12 duplicate lines with fingerprint f84637c814242d90c4a5297d80b00092 in the following files:
+ Between lines 391 and 407 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_box_container.cpp
+ Between lines 140 and 156 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_box_container.cpp
+Found 12 duplicate lines with fingerprint 60ae7e835ce0fe48c53f2521313432e8 in the following files:
+ Between lines 365 and 376 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 338 and 349 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 12 duplicate lines with fingerprint ebad5d0a83cdda0e4e5c976a83f6442b in the following files:
+ Between lines 3964 and 3977 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_code_edit.cpp
+ Between lines 3945 and 3958 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_code_edit.cpp
+Found 12 duplicate lines with fingerprint e38c72a12e232ff018f366271d3cce9e in the following files:
+ Between lines 252 and 266 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_instance_placeholder.cpp
+ Between lines 142 and 156 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_instance_placeholder.cpp
+Found 13 duplicate lines with fingerprint 8da21f0a9fa604bd9108987e5816686d in the following files:
+ Between lines 107 and 121 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\core\templates\test_a_hash_map.cpp
+ Between lines 106 and 120 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\core\templates\test_hash_map.cpp
+Found 13 duplicate lines with fingerprint 82cbe0a067da1fbe382768621163a490 in the following files:
+ Between lines 51 and 63 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_path_follow_3d.cpp
+ Between lines 96 and 108 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_path_follow_3d.cpp
+Found 13 duplicate lines with fingerprint 8370e8992009109cf1045edaea0aface in the following files:
+ Between lines 7034 and 7048 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 7053 and 7067 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 13 duplicate lines with fingerprint ad4870f6e621d143dece876775847ca8 in the following files:
+ Between lines 48 and 60 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_path_follow_2d.cpp
+ Between lines 93 and 105 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_path_follow_2d.cpp
+Found 13 duplicate lines with fingerprint a3c0cc683f32f346080357b1128571d4 in the following files:
+ Between lines 533 and 548 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_tab_container.cpp
+ Between lines 666 and 681 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_tab_container.cpp
+Found 13 duplicate lines with fingerprint 8cf519ecda034aef89d5379fc9100531 in the following files:
+ Between lines 7604 and 7619 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 7644 and 7659 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 13 duplicate lines with fingerprint 921b6f7082e15522f5719427b06d6a1b in the following files:
+ Between lines 819 and 831 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_tab_container.cpp
+ Between lines 836 and 848 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_tab_container.cpp
+ Between lines 853 and 865 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_tab_container.cpp
+Found 13 duplicate lines with fingerprint 12045c0c09690569ba661b9bc677d580 in the following files:
+ Between lines 1275 and 1287 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_tab_bar.cpp
+ Between lines 1292 and 1304 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_tab_bar.cpp
+ Between lines 1309 and 1321 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_tab_bar.cpp
+Found 14 duplicate lines with fingerprint f45620e3063b617b72de40030e6aeca4 in the following files:
+ Between lines 5119 and 5133 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 4446 and 4460 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 14 duplicate lines with fingerprint f6586e941a9dec949bf235096b6b4f27 in the following files:
+ Between lines 1077 and 1093 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_viewport.cpp
+ Between lines 1024 and 1040 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_viewport.cpp
+Found 14 duplicate lines with fingerprint afa2474ca6b0dbf4e4fef8f633aaf711 in the following files:
+ Between lines 764 and 779 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_split_container.cpp
+ Between lines 715 and 730 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_split_container.cpp
+ Between lines 620 and 635 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_split_container.cpp
+Found 14 duplicate lines with fingerprint bb3cad241d82d713ace0bf69e07b98cc in the following files:
+ Between lines 273 and 288 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_tree.cpp
+ Between lines 228 and 243 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_tree.cpp
+Found 14 duplicate lines with fingerprint 43b27cab3959fe8a7d6d14c2c7b6e6f8 in the following files:
+ Between lines 180 and 193 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_arraymesh.cpp
+ Between lines 142 and 155 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_arraymesh.cpp
+Found 14 duplicate lines with fingerprint dd451848cf269c61cc0f361a1efd2fe2 in the following files:
+ Between lines 948 and 964 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_viewport.cpp
+ Between lines 896 and 912 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_viewport.cpp
+Found 14 duplicate lines with fingerprint 83b14caf782aa85a4fcddd621c588d43 in the following files:
+ Between lines 667 and 682 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_split_container.cpp
+ Between lines 574 and 589 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_split_container.cpp
+Found 14 duplicate lines with fingerprint 9951f3b24ab61c9c38d7eea0cd9a1527 in the following files:
+ Between lines 1108 and 1123 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_viewport.cpp
+ Between lines 1055 and 1070 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_viewport.cpp
+ Between lines 1002 and 1017 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_viewport.cpp
+Found 14 duplicate lines with fingerprint aebf9577d1f713c3a24d02ecdef0e5b7 in the following files:
+ Between lines 753 and 768 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_viewport.cpp
+ Between lines 706 and 721 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_viewport.cpp
+Found 14 duplicate lines with fingerprint 41cec7fe700e00d621176b334d6e5c88 in the following files:
+ Between lines 39 and 61 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\servers\test_nav_heap.cpp
+ Between lines 66 and 88 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\servers\test_navigation_server_2d.cpp
+Found 14 duplicate lines with fingerprint 3f4e9350cca2cc9f2ef074843594a9f7 in the following files:
+ Between lines 6270 and 6285 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 6244 and 6259 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 15 duplicate lines with fingerprint 6dd04a125301a6588b0ef93197680e60 in the following files:
+ Between lines 252 and 266 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\core\object\test_class_db.cpp
+ Between lines 293 and 307 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\core\object\test_class_db.cpp
+Found 15 duplicate lines with fingerprint fec7926c69584df90ac6dcfc4af60606 in the following files:
+ Between lines 5576 and 5591 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_code_edit.cpp
+ Between lines 5600 and 5615 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_code_edit.cpp
+Found 15 duplicate lines with fingerprint b17ebbcaff777b6e2588282ff7a061f3 in the following files:
+ Between lines 757 and 775 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_viewport.cpp
+ Between lines 796 and 814 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_viewport.cpp
+Found 15 duplicate lines with fingerprint abdd4a1be20888d975921d1c8c5b1f64 in the following files:
+ Between lines 2361 and 2380 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 2393 and 2412 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 15 duplicate lines with fingerprint 372f049a968adc2f4146b10bd052c731 in the following files:
+ Between lines 565 and 582 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\servers\test_navigation_server_3d.cpp
+ Between lines 662 and 679 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\servers\test_navigation_server_3d.cpp
+Found 15 duplicate lines with fingerprint c8b16264be69bfa232fd7cec63f460c4 in the following files:
+ Between lines 1003 and 1020 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_viewport.cpp
+ Between lines 927 and 944 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_viewport.cpp
+Found 16 duplicate lines with fingerprint 2d6ab9cc09872316f3d410cf948980ed in the following files:
+ Between lines 643 and 665 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_split_container.cpp
+ Between lines 550 and 572 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_split_container.cpp
+Found 16 duplicate lines with fingerprint a1abc0fdf56af807672e85eb4659896e in the following files:
+ Between lines 457 and 474 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\servers\test_text_server.cpp
+ Between lines 429 and 446 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\servers\test_text_server.cpp
+Found 16 duplicate lines with fingerprint 29306286ecc00420d264f725206c4163 in the following files:
+ Between lines 1166 and 1185 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_split_container.cpp
+ Between lines 1114 and 1133 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_split_container.cpp
+Found 16 duplicate lines with fingerprint 64abcb1667dcad2faffd2598ad2ad4b3 in the following files:
+ Between lines 2742 and 2759 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_code_edit.cpp
+ Between lines 2582 and 2599 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_code_edit.cpp
+Found 16 duplicate lines with fingerprint 9ea26cdd3199eb50d9d264e4d0337e6c in the following files:
+ Between lines 1304 and 1320 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 1276 and 1292 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 16 duplicate lines with fingerprint 35dbe262e330b65cc376c170e91fdfd5 in the following files:
+ Between lines 1108 and 1126 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_viewport.cpp
+ Between lines 1055 and 1073 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_viewport.cpp
+Found 16 duplicate lines with fingerprint 84aaa2e4c876d1b21e3a307accb5ba88 in the following files:
+ Between lines 642 and 659 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_tab_container.cpp
+ Between lines 592 and 609 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_tab_container.cpp
+Found 16 duplicate lines with fingerprint 0c06339b07f50d3047a663f5bd29e661 in the following files:
+ Between lines 1061 and 1080 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_split_container.cpp
+ Between lines 1009 and 1028 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_split_container.cpp
+Found 17 duplicate lines with fingerprint 439508fd2cdfb7b0a3707980cd05ef2a in the following files:
+ Between lines 64 and 83 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_curve.cpp
+ Between lines 147 and 166 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_curve.cpp
+Found 17 duplicate lines with fingerprint 8329a7709ab68a13c218417bc84d1aed in the following files:
+ Between lines 94 and 113 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\core\crypto\test_aes_context.cpp
+ Between lines 256 and 275 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\core\crypto\test_aes_context.cpp
+Found 17 duplicate lines with fingerprint aee05c84f5663ca1d503167db401c916 in the following files:
+ Between lines 652 and 672 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\core\object\test_class_db.cpp
+ Between lines 728 and 748 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\core\object\test_class_db.cpp
+Found 17 duplicate lines with fingerprint 073063b74f9afc5f915a9c604402f8c0 in the following files:
+ Between lines 344 and 362 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 398 and 416 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 17 duplicate lines with fingerprint 86b4dcf3de8ac9ddf71481ac6d026c33 in the following files:
+ Between lines 875 and 899 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_split_container.cpp
+ Between lines 907 and 931 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_split_container.cpp
+Found 18 duplicate lines with fingerprint 7e3dc453e03b0f9db93ca98e98f665a1 in the following files:
+ Between lines 547 and 572 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\core\variant\test_dictionary.cpp
+ Between lines 504 and 529 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\core\variant\test_dictionary.cpp
+Found 18 duplicate lines with fingerprint da24357b8bf19075e3aaf3023c4cedaf in the following files:
+ Between lines 253 and 271 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\servers\test_navigation_server_2d.cpp
+ Between lines 152 and 170 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\servers\test_navigation_server_2d.cpp
+Found 19 duplicate lines with fingerprint 9fd1a435d1c20f78db51e914e142efc1 in the following files:
+ Between lines 127 and 146 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\servers\test_navigation_server_3d.cpp
+ Between lines 231 and 250 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\servers\test_navigation_server_3d.cpp
+Found 19 duplicate lines with fingerprint bdb2eccd750fb324f3df25067b359713 in the following files:
+ Between lines 100 and 126 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\core\templates\test_local_vector.cpp
+ Between lines 482 and 508 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\core\templates\test_vector.cpp
+Found 19 duplicate lines with fingerprint 7cdad3639ea1e71eefb88872a08e9a51 in the following files:
+ Between lines 349 and 370 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\servers\test_navigation_server_2d.cpp
+ Between lines 328 and 349 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\servers\test_navigation_server_3d.cpp
+Found 19 duplicate lines with fingerprint 6256ff822e3c87ffdde6a9b406755cfa in the following files:
+ Between lines 536 and 559 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\servers\test_navigation_server_3d.cpp
+ Between lines 633 and 656 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\servers\test_navigation_server_3d.cpp
+Found 19 duplicate lines with fingerprint 1b7b74698461eb4dbd99b0971999f67c in the following files:
+ Between lines 300 and 321 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\servers\test_text_server.cpp
+ Between lines 342 and 364 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\servers\test_text_server.cpp
+Found 20 duplicate lines with fingerprint a41fac5f9195d82649fdc36afb7b7b46 in the following files:
+ Between lines 4011 and 4034 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 3909 and 3932 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 3783 and 3806 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 20 duplicate lines with fingerprint 4f089f8892949f14da78688cbf1b3db5 in the following files:
+ Between lines 316 and 337 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_curve.cpp
+ Between lines 231 and 252 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_curve.cpp
+Found 20 duplicate lines with fingerprint 5a49996c694f4bd32fb08a0f27385369 in the following files:
+ Between lines 54 and 80 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_rich_text_label.cpp
+ Between lines 54 and 80 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_label.cpp
+Found 20 duplicate lines with fingerprint e2088998b1049f9ead6b8b81d38d21ca in the following files:
+ Between lines 192 and 213 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_tree.cpp
+ Between lines 138 and 159 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_tree.cpp
+Found 21 duplicate lines with fingerprint 02ffb9259d0cb59241b90df53f0dcdfa in the following files:
+ Between lines 1320 and 1352 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_code_edit.cpp
+ Between lines 1358 and 1390 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_code_edit.cpp
+Found 21 duplicate lines with fingerprint ba13db4b20e2260d5154edd872d7bf55 in the following files:
+ Between lines 131 and 154 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\core\math\test_quaternion.cpp
+ Between lines 300 and 323 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\core\math\test_quaternion.cpp
+Found 21 duplicate lines with fingerprint 3258472a714bb78772db15cc460a5ad8 in the following files:
+ Between lines 1522 and 1554 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_code_edit.cpp
+ Between lines 1560 and 1592 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_code_edit.cpp
+Found 21 duplicate lines with fingerprint 4a86d461de172f5c530714bac8bfa638 in the following files:
+ Between lines 1265 and 1294 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_split_container.cpp
+ Between lines 1344 and 1373 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_split_container.cpp
+Found 22 duplicate lines with fingerprint dfc3acbf209725039a05020774df8566 in the following files:
+ Between lines 1693 and 1728 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_code_edit.cpp
+ Between lines 1604 and 1639 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_code_edit.cpp
+Found 24 duplicate lines with fingerprint 47dc8e16260e52ccc05b32d6d50bdcac in the following files:
+ Between lines 449 and 477 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\core\templates\test_vector.cpp
+ Between lines 67 and 95 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\core\templates\test_local_vector.cpp
+Found 25 duplicate lines with fingerprint 2dfe01cd70735aeebfce7e612933e652 in the following files:
+ Between lines 2495 and 2523 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_code_edit.cpp
+ Between lines 2655 and 2683 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_code_edit.cpp
+Found 25 duplicate lines with fingerprint 9d5c059808f730834eb322fb36d8bd49 in the following files:
+ Between lines 3904 and 3932 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+ Between lines 4006 and 4034 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_text_edit.cpp
+Found 28 duplicate lines with fingerprint 19b69fa84fe3878fc79afb7aa59f7a08 in the following files:
+ Between lines 125 and 160 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_copy_transform_modifier_3d.cpp
+ Between lines 87 and 122 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_convert_transform_modifier_3d.cpp
+Found 29 duplicate lines with fingerprint c1b7ffe6b074f3e8eed0d6fe5f9bff04 in the following files:
+ Between lines 35 and 76 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_convert_transform_modifier_3d.cpp
+ Between lines 35 and 76 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_copy_transform_modifier_3d.cpp
+Found 29 duplicate lines with fingerprint 08a2505a2d110591b1421bf3d48e9de8 in the following files:
+ Between lines 1550 and 1589 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_split_container.cpp
+ Between lines 1664 and 1703 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_split_container.cpp
+ Between lines 1607 and 1646 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_split_container.cpp
+ Between lines 1722 and 1761 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_split_container.cpp
+Found 32 duplicate lines with fingerprint 5a2b60b66f93cb5a0233d5b34cd0f9bf in the following files:
+ Between lines 97 and 135 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_rich_text_label.cpp
+ Between lines 146 and 184 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_label.cpp
+Found 32 duplicate lines with fingerprint 432f876306cde7fd74fb1f16355d2fd6 in the following files:
+ Between lines 738 and 779 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_split_container.cpp
+ Between lines 689 and 730 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_split_container.cpp
+Found 36 duplicate lines with fingerprint 90a7eb57e731327798852d947b8444ef in the following files:
+ Between lines 199 and 256 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\core\io\test_stream_peer.cpp
+ Between lines 70 and 127 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\core\io\test_stream_peer.cpp
+Found 37 duplicate lines with fingerprint 79ee43804c52a52a37df5d40df37cbf7 in the following files:
+ Between lines 1538 and 1589 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_split_container.cpp
+ Between lines 1652 and 1703 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_split_container.cpp
+Found 40 duplicate lines with fingerprint 10596dcfda0a6bbca5696dd0a117195a in the following files:
+ Between lines 183 and 231 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\servers\test_navigation_server_3d.cpp
+ Between lines 205 and 253 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\servers\test_navigation_server_2d.cpp
+Found 41 duplicate lines with fingerprint bc347bb8a7b2747137bccc0354fdf3e4 in the following files:
+ Between lines 4243 and 4294 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_code_edit.cpp
+ Between lines 4307 and 4358 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_code_edit.cpp
+Found 116 duplicate lines with fingerprint 64466aac4206d726d378dcbdc7fccaf8 in the following files:
+ Between lines 483 and 664 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_control.cpp
+ Between lines 277 and 458 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-reloader\tests\scene\test_control.cpp
+Found 3934 duplicate lines in 247 blocks in 39 files
+Processed a total of 49911 significant (75205 raw) lines in 185 files
+Processing time: 1.133sec

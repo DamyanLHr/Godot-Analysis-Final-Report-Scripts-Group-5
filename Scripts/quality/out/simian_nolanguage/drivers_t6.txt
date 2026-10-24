@@ -1,0 +1,1012 @@
+Similarity Analyser 2.5.10 - http://www.harukizaemon.com/simian
+Copyright (c) 2003-2018 Simon Harris.  All rights reserved.
+Simian is not free unless used solely for non-commercial or evaluation purposes.
+{failOnDuplication=true, ignoreCharacterCase=true, ignoreCurlyBraces=true, ignoreIdentifierCase=true, ignoreModifiers=true, ignoreStringCase=true, threshold=6}
+Found 6 duplicate lines with fingerprint 49f52fc638eb156a09fec02143ac11e2 in the following files:
+ Between lines 3407 and 3413 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 3390 and 3396 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+Found 6 duplicate lines with fingerprint 80184c3cc264a63c1157058ab1adf9ed in the following files:
+ Between lines 106 and 112 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\wasapi\audio_driver_wasapi.h
+ Between lines 110 and 116 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\pulseaudio\audio_driver_pulseaudio.h
+ Between lines 81 and 87 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\alsa\audio_driver_alsa.h
+Found 6 duplicate lines with fingerprint 1b2ecb73ceadbc8ee468da42c6f3ce6b in the following files:
+ Between lines 150 and 157 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\windows\net_socket_winsock.cpp
+ Between lines 181 and 188 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\unix\net_socket_unix.cpp
+Found 6 duplicate lines with fingerprint 6647ef1a3604311458d198ccebc19bfb in the following files:
+ Between lines 1189 and 1195 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\particles_storage.cpp
+ Between lines 1126 and 1134 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\particles_storage.cpp
+Found 6 duplicate lines with fingerprint 61af98248048e1792169f79983fd769f in the following files:
+ Between lines 1469 and 1476 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_device_driver_metal.cpp
+ Between lines 1427 and 1434 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_device_driver_metal.cpp
+Found 6 duplicate lines with fingerprint 70d22e6a58c99b639d532e9dffb27357 in the following files:
+ Between lines 7324 and 7329 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.cpp
+ Between lines 2671 and 2676 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_device_driver_metal.cpp
+Found 6 duplicate lines with fingerprint 3dbe73c007511c2a4fadf7eb1f974f9c in the following files:
+ Between lines 869 and 875 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 859 and 865 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+Found 6 duplicate lines with fingerprint 0c3a91f310cfad0ed7bf048ee04add2a in the following files:
+ Between lines 4898 and 4904 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.cpp
+ Between lines 4869 and 4875 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.cpp
+Found 6 duplicate lines with fingerprint 3aa865029d277a32318b1f76a10ce7b4 in the following files:
+ Between lines 441 and 449 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\material_storage.h
+ Between lines 389 and 397 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\material_storage.h
+ Between lines 292 and 300 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\material_storage.h
+ Between lines 203 and 211 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\material_storage.h
+ Between lines 153 and 161 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\material_storage.h
+Found 6 duplicate lines with fingerprint b5c92385b125e150c5a6a86aad8e804a in the following files:
+ Between lines 482 and 488 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\pulseaudio\audio_driver_pulseaudio.cpp
+ Between lines 258 and 264 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\alsa\audio_driver_alsa.cpp
+Found 6 duplicate lines with fingerprint c340f6214268057015e3a754d598f62a in the following files:
+ Between lines 357 and 366 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\pulseaudio\audio_driver_pulseaudio.cpp
+ Between lines 335 and 344 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\pulseaudio\audio_driver_pulseaudio.cpp
+Found 6 duplicate lines with fingerprint 09ab1f4d945fa42dada91983c86733c8 in the following files:
+ Between lines 5234 and 5240 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.cpp
+ Between lines 5216 and 5222 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.cpp
+Found 6 duplicate lines with fingerprint 6b76a76de9092cb5e7b8dfd12552e085 in the following files:
+ Between lines 137 and 142 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 123 and 128 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+Found 6 duplicate lines with fingerprint 335518646e4bffa0efad1d24ce720a51 in the following files:
+ Between lines 4340 and 4346 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 4300 and 4306 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+Found 6 duplicate lines with fingerprint 06272af5ac360ea074a2e8866eda2b65 in the following files:
+ Between lines 2012 and 2018 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\metal3_objects.cpp
+ Between lines 1970 and 1976 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\metal3_objects.cpp
+ Between lines 1961 and 1967 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\metal3_objects.cpp
+Found 6 duplicate lines with fingerprint 7fc020b54e88bdc7dd3fe10de1784c54 in the following files:
+ Between lines 530 and 535 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_device_driver_metal.cpp
+ Between lines 529 and 534 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_device_driver_metal.cpp
+Found 6 duplicate lines with fingerprint 1bc28669e3bb553ed0aa516450ccf296 in the following files:
+ Between lines 617 and 629 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.h
+ Between lines 759 and 771 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.h
+Found 6 duplicate lines with fingerprint f20d355f5fd9bf9bac30b4dac0618a5f in the following files:
+ Between lines 1152 and 1157 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\rasterizer_canvas_gles3.cpp
+ Between lines 902 and 908 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\rasterizer_canvas_gles3.cpp
+Found 6 duplicate lines with fingerprint a86601a7e6a1935ff06654475eba7afb in the following files:
+ Between lines 922 and 927 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 777 and 782 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+Found 6 duplicate lines with fingerprint 5c2a6e23572463dfdcf767a557ea3b02 in the following files:
+ Between lines 4171 and 4176 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 4161 and 4166 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 4127 and 4132 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+Found 6 duplicate lines with fingerprint fbebe9be353b9c8c09f7b0c899e38cb6 in the following files:
+ Between lines 3843 and 3850 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\rasterizer_scene_gles3.cpp
+ Between lines 3789 and 3796 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\rasterizer_scene_gles3.cpp
+Found 6 duplicate lines with fingerprint 76d26ecfdf0bb57c1337d9db1b953817 in the following files:
+ Between lines 880 and 886 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 759 and 765 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+Found 6 duplicate lines with fingerprint 07313f43f0c949a9498248419b9ed17f in the following files:
+ Between lines 829 and 835 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 819 and 825 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+Found 6 duplicate lines with fingerprint 2f4a7d2366b680d05580541cdb6fc375 in the following files:
+ Between lines 282 and 287 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\pulseaudio\audio_driver_pulseaudio.cpp
+ Between lines 164 and 169 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\alsa\audio_driver_alsa.cpp
+Found 6 duplicate lines with fingerprint 26c640979d0f8fdd3f608776316a5096 in the following files:
+ Between lines 849 and 855 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 839 and 845 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+Found 6 duplicate lines with fingerprint 71b38c0370d56927b163e39146c14230 in the following files:
+ Between lines 1290 and 1295 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\light_storage.cpp
+ Between lines 1147 and 1152 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\light_storage.cpp
+Found 6 duplicate lines with fingerprint 2a210033d1958868aa3a295f314c0d2a in the following files:
+ Between lines 299 and 304 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_context_driver_metal.cpp
+ Between lines 158 and 163 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_context_driver_metal.cpp
+Found 6 duplicate lines with fingerprint ff7bfe48d167b949ee8e03f73e896d5e in the following files:
+ Between lines 4885 and 4891 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.cpp
+ Between lines 4856 and 4862 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.cpp
+Found 6 duplicate lines with fingerprint 2d338c51274b59e2805a1ee788b191e1 in the following files:
+ Between lines 311 and 320 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.h
+ Between lines 368 and 377 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.h
+Found 6 duplicate lines with fingerprint 67413a5915af71447f037fb3c2876fb2 in the following files:
+ Between lines 1728 and 1734 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\light_storage.cpp
+ Between lines 1633 and 1639 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\light_storage.cpp
+Found 6 duplicate lines with fingerprint e13db3baf208a7b898a4e00db0321812 in the following files:
+ Between lines 6551 and 6558 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.cpp
+ Between lines 6533 and 6540 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.cpp
+Found 6 duplicate lines with fingerprint 452d2ad80c8995458e1ef678ad0cc4b4 in the following files:
+ Between lines 658 and 665 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 623 and 631 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+Found 6 duplicate lines with fingerprint 4a69a7e119dc9f5867aad80630250c79 in the following files:
+ Between lines 2629 and 2635 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.cpp
+ Between lines 2576 and 2582 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.cpp
+Found 6 duplicate lines with fingerprint 5f5e70c9a1986805bafa2c79bddd148a in the following files:
+ Between lines 1730 and 1735 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\material_storage.cpp
+ Between lines 1690 and 1695 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\material_storage.cpp
+Found 6 duplicate lines with fingerprint 3ff258607e944b9ebc4f811511ae93f1 in the following files:
+ Between lines 3731 and 3739 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 3684 and 3692 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+Found 6 duplicate lines with fingerprint d9bf668f4781d5b8afa9f92961e87b2e in the following files:
+ Between lines 327 and 335 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_context_driver_metal.cpp
+ Between lines 171 and 179 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_context_driver_metal.cpp
+Found 6 duplicate lines with fingerprint d6462d382308c164f200e93e788c516d in the following files:
+ Between lines 830 and 838 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\pulseaudio\audio_driver_pulseaudio.cpp
+ Between lines 641 and 649 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\pulseaudio\audio_driver_pulseaudio.cpp
+ Between lines 159 and 167 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\pulseaudio\audio_driver_pulseaudio.cpp
+ Between lines 128 and 136 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\pulseaudio\audio_driver_pulseaudio.cpp
+Found 6 duplicate lines with fingerprint f5e0285fdd4917af769655566574b3ec in the following files:
+ Between lines 576 and 581 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\windows\net_socket_winsock.cpp
+ Between lines 750 and 755 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\unix\net_socket_unix.cpp
+Found 6 duplicate lines with fingerprint 4073b8d050f0dad7f1cdb515298fd405 in the following files:
+ Between lines 986 and 992 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 976 and 982 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 966 and 972 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 956 and 962 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 946 and 952 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 936 and 942 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 900 and 906 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 890 and 896 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 809 and 815 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 799 and 805 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 789 and 795 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 779 and 785 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 769 and 775 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+Found 6 duplicate lines with fingerprint cce30bbbb5252a3c5897e5b53fde821b in the following files:
+ Between lines 86 and 92 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\metal3_objects.cpp
+ Between lines 73 and 79 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\metal3_objects.cpp
+Found 6 duplicate lines with fingerprint 73e66771c72dfcc725a5ebb657aa951a in the following files:
+ Between lines 825 and 832 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 774 and 781 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+Found 6 duplicate lines with fingerprint 21f46b0ad2c2aaa3d0caafcd7f263ee1 in the following files:
+ Between lines 1738 and 1743 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\material_storage.cpp
+ Between lines 1698 and 1703 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\material_storage.cpp
+Found 6 duplicate lines with fingerprint 3c62290ac8f1f98a82e01e3aa5624ccf in the following files:
+ Between lines 2789 and 2794 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 2780 and 2785 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+Found 6 duplicate lines with fingerprint c4d42fc67b0000d1658e8014f5db295b in the following files:
+ Between lines 2228 and 2234 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 2215 and 2221 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+Found 6 duplicate lines with fingerprint 18f02afa217bd2a1968a1f6fddc647a5 in the following files:
+ Between lines 909 and 914 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 888 and 893 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+Found 6 duplicate lines with fingerprint 31ad1a14234160607d1f3e509dbb9ad1 in the following files:
+ Between lines 204 and 210 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_shader_container_metal.cpp
+ Between lines 182 and 188 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_shader_container_metal.cpp
+Found 6 duplicate lines with fingerprint d414c98e14cb7f88fd71ad7ea00eac9d in the following files:
+ Between lines 1244 and 1250 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\rasterizer_canvas_gles3.cpp
+ Between lines 1111 and 1118 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\rasterizer_canvas_gles3.cpp
+Found 6 duplicate lines with fingerprint c52498ab0b73dfa031174b8b68fecc20 in the following files:
+ Between lines 153 and 161 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\effects\copy_effects.cpp
+ Between lines 137 and 145 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\effects\copy_effects.cpp
+Found 6 duplicate lines with fingerprint b90812c49b93225ab3c3e725021e3da0 in the following files:
+ Between lines 95 and 100 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\shader_gles3.cpp
+ Between lines 85 and 90 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\shader_gles3.cpp
+Found 6 duplicate lines with fingerprint 223255416776433116a0e9bf64e58e79 in the following files:
+ Between lines 1722 and 1727 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\material_storage.cpp
+ Between lines 1682 and 1687 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\material_storage.cpp
+Found 6 duplicate lines with fingerprint d38e6842d0e9a329a2d26d41e126c626 in the following files:
+ Between lines 706 and 711 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\material_storage.cpp
+ Between lines 696 and 701 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\material_storage.cpp
+Found 6 duplicate lines with fingerprint f430ef6bf686851906397d1d93c4d5f3 in the following files:
+ Between lines 2191 and 2196 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\mesh_storage.cpp
+ Between lines 2181 and 2186 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\mesh_storage.cpp
+Found 6 duplicate lines with fingerprint a4f013af1b4cf8e87ee0d73307e2aad4 in the following files:
+ Between lines 1817 and 1824 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\rasterizer_canvas_gles3.cpp
+ Between lines 1714 and 1721 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\rasterizer_canvas_gles3.cpp
+Found 6 duplicate lines with fingerprint 2175578a9a5c4416ac1240a881e2356d in the following files:
+ Between lines 5123 and 5128 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 5097 and 5102 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+Found 6 duplicate lines with fingerprint d2da7ab8ac5556931946789ef005fff7 in the following files:
+ Between lines 941 and 946 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\metal_objects_shared.cpp
+ Between lines 873 and 878 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\metal_objects_shared.cpp
+Found 6 duplicate lines with fingerprint f2fcc923b13c355982863b48a90ca32a in the following files:
+ Between lines 1713 and 1721 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 1638 and 1646 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+Found 6 duplicate lines with fingerprint ac28a0a3575167f8056cd3f233ca8ead in the following files:
+ Between lines 287 and 294 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\windows\net_socket_winsock.cpp
+ Between lines 376 and 383 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\unix\net_socket_unix.cpp
+Found 6 duplicate lines with fingerprint 8f7c6aff297643f4cf12f2fd6d67bbee in the following files:
+ Between lines 134 and 139 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\utilities.h
+ Between lines 112 and 117 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\utilities.h
+ Between lines 91 and 97 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\utilities.h
+Found 6 duplicate lines with fingerprint 23c6b54353d7d207a45abe9a1b7afef9 in the following files:
+ Between lines 2176 and 2182 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.cpp
+ Between lines 199 and 205 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_device_driver_metal.cpp
+ Between lines 1075 and 1081 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+Found 7 duplicate lines with fingerprint 895df18079105c21f19093054f681248 in the following files:
+ Between lines 413 and 424 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\windows\file_access_windows.cpp
+ Between lines 458 and 469 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\windows\file_access_windows.cpp
+Found 7 duplicate lines with fingerprint e015b64f3402b665d9d4878594006f2a in the following files:
+ Between lines 975 and 982 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 985 and 992 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+Found 7 duplicate lines with fingerprint 8cfdaab3ac5d0628b80b245e73a65cab in the following files:
+ Between lines 306 and 315 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\unix\net_socket_unix.cpp
+ Between lines 324 and 334 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\unix\net_socket_unix.cpp
+Found 7 duplicate lines with fingerprint b5df8bd114d78f11297847080bedfd56 in the following files:
+ Between lines 954 and 962 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\rasterizer_canvas_gles3.cpp
+ Between lines 982 and 990 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\rasterizer_canvas_gles3.cpp
+Found 7 duplicate lines with fingerprint 162f9c810be4a4a9597038c5833033cd in the following files:
+ Between lines 128 and 137 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\pulseaudio\audio_driver_pulseaudio.cpp
+ Between lines 641 and 650 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\pulseaudio\audio_driver_pulseaudio.cpp
+ Between lines 830 and 839 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\pulseaudio\audio_driver_pulseaudio.cpp
+Found 7 duplicate lines with fingerprint 1a2dfba40b3c04b1ea0583aec0784eaa in the following files:
+ Between lines 955 and 962 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 965 and 972 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+Found 7 duplicate lines with fingerprint a26a6dd20179b1e9a79b27026fd21f40 in the following files:
+ Between lines 93 and 103 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_context_driver_d3d12.h
+ Between lines 163 and 172 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_context_driver_vulkan.h
+Found 7 duplicate lines with fingerprint 9ffb195204e3c62b694fa51fa851ba5d in the following files:
+ Between lines 2173 and 2179 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\rasterizer_canvas_gles3.cpp
+ Between lines 2916 and 2922 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\rasterizer_canvas_gles3.cpp
+Found 7 duplicate lines with fingerprint 65e6fb90cc98ed566f374a7ee5d9630d in the following files:
+ Between lines 907 and 913 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_device_driver_metal.cpp
+ Between lines 2955 and 2961 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.cpp
+Found 7 duplicate lines with fingerprint 991be25b56b1fded5406551e29906472 in the following files:
+ Between lines 4160 and 4166 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 4170 and 4176 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+Found 7 duplicate lines with fingerprint d20479ecae041c43b9422e92a7ab9e5d in the following files:
+ Between lines 1997 and 2005 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\mesh_storage.cpp
+ Between lines 2021 and 2029 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\mesh_storage.cpp
+Found 7 duplicate lines with fingerprint e6c0cbaa764448ef3f92ada73b38ae32 in the following files:
+ Between lines 1719 and 1729 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\mesh_storage.cpp
+ Between lines 1740 and 1752 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\mesh_storage.cpp
+Found 7 duplicate lines with fingerprint 5d16e7512089f6392d994a179e09f18c in the following files:
+ Between lines 906 and 913 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\accesskit\accessibility_server_accesskit.cpp
+ Between lines 919 and 926 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\accesskit\accessibility_server_accesskit.cpp
+ Between lines 932 and 939 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\accesskit\accessibility_server_accesskit.cpp
+ Between lines 945 and 952 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\accesskit\accessibility_server_accesskit.cpp
+ Between lines 958 and 965 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\accesskit\accessibility_server_accesskit.cpp
+ Between lines 971 and 978 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\accesskit\accessibility_server_accesskit.cpp
+Found 7 duplicate lines with fingerprint 6fc0a384a5c56add01ab61330e9a25b9 in the following files:
+ Between lines 935 and 942 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 945 and 952 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+Found 7 duplicate lines with fingerprint 2a4a58d2d81935cfb953b6007777b7cc in the following files:
+ Between lines 911 and 919 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 924 and 932 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+Found 7 duplicate lines with fingerprint a41aac804e13e1fb2bc18c31ae6938a9 in the following files:
+ Between lines 530 and 539 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\metal3_objects.cpp
+ Between lines 640 and 649 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\metal3_objects.cpp
+Found 7 duplicate lines with fingerprint 548d94ff51b59f54f0eb5b0dc67f7035 in the following files:
+ Between lines 984 and 991 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\accesskit\accessibility_server_accesskit.cpp
+ Between lines 997 and 1004 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\accesskit\accessibility_server_accesskit.cpp
+ Between lines 1010 and 1017 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\accesskit\accessibility_server_accesskit.cpp
+ Between lines 1036 and 1043 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\accesskit\accessibility_server_accesskit.cpp
+ Between lines 1049 and 1056 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\accesskit\accessibility_server_accesskit.cpp
+Found 7 duplicate lines with fingerprint 45d93c52422a242b450e9118805fd649 in the following files:
+ Between lines 116 and 122 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 115 and 121 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 114 and 120 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 113 and 119 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 112 and 118 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 111 and 117 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 110 and 116 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 109 and 115 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 108 and 114 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 170 and 176 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 201 and 207 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 200 and 206 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 199 and 205 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 198 and 204 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 197 and 203 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 196 and 202 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 312 and 318 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 311 and 317 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 310 and 316 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 309 and 315 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 308 and 314 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 307 and 313 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 306 and 312 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 305 and 311 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 304 and 310 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 303 and 309 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 302 and 308 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 301 and 307 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 300 and 306 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 299 and 305 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 298 and 304 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 297 and 303 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 296 and 302 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 295 and 301 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 294 and 300 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 293 and 299 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 292 and 298 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 291 and 297 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 290 and 296 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 289 and 295 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 288 and 294 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 287 and 293 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 286 and 292 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 285 and 291 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 284 and 290 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 283 and 289 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 282 and 288 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 281 and 287 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 280 and 286 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 279 and 285 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 278 and 284 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 277 and 283 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 276 and 282 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 275 and 281 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 274 and 280 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 273 and 279 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 272 and 278 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 271 and 277 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 270 and 276 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 269 and 275 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 268 and 274 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 267 and 273 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 266 and 272 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 265 and 271 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 264 and 270 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 263 and 269 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 262 and 268 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 261 and 267 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 260 and 266 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 259 and 265 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 258 and 264 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 257 and 263 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 256 and 262 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 255 and 261 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 254 and 260 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 253 and 259 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 252 and 258 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 251 and 257 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 250 and 256 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 249 and 255 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 248 and 254 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 247 and 253 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 246 and 252 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 245 and 251 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 244 and 250 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 243 and 249 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 242 and 248 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 241 and 247 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 240 and 246 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 239 and 245 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 238 and 244 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 237 and 243 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 236 and 242 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 235 and 241 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 234 and 240 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 233 and 239 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+Found 7 duplicate lines with fingerprint ea9d8a2a0fbf410b16c36fed12fe1dd3 in the following files:
+ Between lines 153 and 163 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\material_storage.h
+ Between lines 292 and 302 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\material_storage.h
+ Between lines 441 and 451 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\material_storage.h
+Found 7 duplicate lines with fingerprint 66bbc1f21705f760e63cb4e7c467b12a in the following files:
+ Between lines 4279 and 4287 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 4307 and 4315 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+Found 7 duplicate lines with fingerprint 65fac4d2deed023f38c53a6b63c6e594 in the following files:
+ Between lines 382 and 393 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.h
+ Between lines 326 and 337 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.h
+Found 7 duplicate lines with fingerprint 5ea8fd1538b4978ae72d75903d1888b9 in the following files:
+ Between lines 718 and 729 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.h
+ Between lines 385 and 392 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_device_driver_metal.h
+Found 7 duplicate lines with fingerprint 5809872e7e3e39a3640c3335f0844bc2 in the following files:
+ Between lines 355 and 363 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\pulseaudio\audio_driver_pulseaudio.cpp
+ Between lines 697 and 705 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\pulseaudio\audio_driver_pulseaudio.cpp
+Found 7 duplicate lines with fingerprint ff88ecca8fb0e42075f3030636173515 in the following files:
+ Between lines 4330 and 4339 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 4367 and 4376 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+Found 7 duplicate lines with fingerprint 775b3d3c0652dc9b734f5fcd40018b28 in the following files:
+ Between lines 1973 and 1981 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\mesh_storage.cpp
+ Between lines 2521 and 2528 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\mesh_storage.cpp
+Found 7 duplicate lines with fingerprint 0b06901a588b3cac552a933f4210e8f7 in the following files:
+ Between lines 1648 and 1658 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 1723 and 1733 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+Found 7 duplicate lines with fingerprint 9d2d1b54588fbdea5e7a318230aac940 in the following files:
+ Between lines 446 and 455 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\unix\net_socket_unix.cpp
+ Between lines 298 and 307 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\windows\net_socket_winsock.cpp
+Found 7 duplicate lines with fingerprint 52d022b0aac2baf0bdf21e070590edf6 in the following files:
+ Between lines 1155 and 1161 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 1257 and 1263 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+Found 7 duplicate lines with fingerprint 9272b6f00834aa2f08bfc53358001310 in the following files:
+ Between lines 744 and 751 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\mesh_storage.cpp
+ Between lines 778 and 785 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\mesh_storage.cpp
+Found 7 duplicate lines with fingerprint e19544f2737077cebbf5ce03604f610c in the following files:
+ Between lines 1396 and 1404 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\metal3_objects.cpp
+ Between lines 1472 and 1480 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\metal3_objects.cpp
+Found 7 duplicate lines with fingerprint 7681c68e604ce063e409cd8b2a1b3a2d in the following files:
+ Between lines 450 and 459 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\metal3_objects.h
+ Between lines 523 and 532 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\metal3_objects.h
+Found 7 duplicate lines with fingerprint 9ae7e805e1ca1e20e99f0da404579b62 in the following files:
+ Between lines 59 and 67 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\unix\dir_access_unix.h
+ Between lines 65 and 72 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\windows\dir_access_windows.h
+Found 7 duplicate lines with fingerprint b6c8def81bb2ddc2bdedd4d47dd1816d in the following files:
+ Between lines 572 and 578 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\metal3_objects.cpp
+ Between lines 707 and 713 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\metal3_objects.cpp
+Found 7 duplicate lines with fingerprint ecf236ebd8f3c1d8706d304edc7a3fa5 in the following files:
+ Between lines 1961 and 1968 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\metal3_objects.cpp
+ Between lines 2012 and 2019 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\metal3_objects.cpp
+Found 7 duplicate lines with fingerprint a3d0d1acaf8ae97942205e805a63d2f3 in the following files:
+ Between lines 4509 and 4515 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 4804 and 4810 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+Found 7 duplicate lines with fingerprint f299b5d9e5b4e0effb710c536b6d8b2e in the following files:
+ Between lines 74 and 85 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\pulseaudio\audio_driver_pulseaudio.cpp
+ Between lines 93 and 104 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\pulseaudio\audio_driver_pulseaudio.cpp
+Found 7 duplicate lines with fingerprint e3912a133117999b3b9670a5620b1033 in the following files:
+ Between lines 4825 and 4831 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\rasterizer_scene_gles3.cpp
+ Between lines 56 and 62 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\effects\copy_effects.cpp
+ Between lines 57 and 63 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\effects\feed_effects.cpp
+ Between lines 55 and 61 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\effects\glow.cpp
+ Between lines 56 and 62 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\effects\post_effects.cpp
+Found 7 duplicate lines with fingerprint da3e56ffbbac4edf50dceb47b9620e1d in the following files:
+ Between lines 1492 and 1502 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\metal3_objects.cpp
+ Between lines 1513 and 1523 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\metal3_objects.cpp
+Found 7 duplicate lines with fingerprint 8e28573d4dbdaa044f3b084fde3ff418 in the following files:
+ Between lines 342 and 349 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_context_driver_vulkan.cpp
+ Between lines 349 and 355 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_context_driver_vulkan.cpp
+Found 7 duplicate lines with fingerprint 4febf4189fada3fc86cd328dd96d9f27 in the following files:
+ Between lines 2376 and 2384 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\rasterizer_scene_gles3.cpp
+ Between lines 4170 and 4178 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\rasterizer_scene_gles3.cpp
+ Between lines 4216 and 4224 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\rasterizer_scene_gles3.cpp
+Found 7 duplicate lines with fingerprint fe97e3a11376c2218ddbca2d1ea6d0ac in the following files:
+ Between lines 1938 and 1945 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\material_storage.cpp
+ Between lines 1970 and 1977 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\material_storage.cpp
+Found 8 duplicate lines with fingerprint cca657578639111eb348ba88b048a30c in the following files:
+ Between lines 405 and 418 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\windows\net_socket_winsock.cpp
+ Between lines 567 and 580 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\unix\net_socket_unix.cpp
+Found 8 duplicate lines with fingerprint 2b59717369f99356cc6a0d28e4aafdbb in the following files:
+ Between lines 334 and 341 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.h
+ Between lines 276 and 283 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_device_driver_metal.h
+Found 8 duplicate lines with fingerprint 6cf61ccca9928efa290cf6739868f3ab in the following files:
+ Between lines 323 and 332 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\mesh_storage.cpp
+ Between lines 309 and 320 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\mesh_storage.cpp
+Found 8 duplicate lines with fingerprint f348bcf24afdbee5f7aa3cbbd98528bd in the following files:
+ Between lines 3159 and 3168 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\rasterizer_scene_gles3.cpp
+ Between lines 3091 and 3100 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\rasterizer_scene_gles3.cpp
+Found 8 duplicate lines with fingerprint 4105b43dadaa1a506c12ef6599ad9fb2 in the following files:
+ Between lines 56 and 65 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\windows\file_access_windows.cpp
+ Between lines 51 and 60 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\unix\file_access_unix.cpp
+Found 8 duplicate lines with fingerprint cd767ece4293f0162cf91beb5e8eea72 in the following files:
+ Between lines 303 and 310 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_device_driver_metal.cpp
+ Between lines 559 and 566 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_device_driver_metal.cpp
+ Between lines 499 and 506 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_device_driver_metal.cpp
+Found 8 duplicate lines with fingerprint 9c96df00c7cd20fab00fb88b79dfb60b in the following files:
+ Between lines 483 and 492 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\render_scene_buffers_gles3.cpp
+ Between lines 214 and 223 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\render_scene_buffers_gles3.cpp
+Found 8 duplicate lines with fingerprint 045d989ed082860af31038d658430daf in the following files:
+ Between lines 4230 and 4237 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 4148 and 4155 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+Found 8 duplicate lines with fingerprint 2b8efaf8c5f9404927e268900cd54a8f in the following files:
+ Between lines 221 and 229 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\windows\file_access_windows.cpp
+ Between lines 174 and 182 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\unix\file_access_unix.cpp
+ Between lines 92 and 100 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\unix\file_access_unix_pipe.cpp
+Found 8 duplicate lines with fingerprint bda7e62d09643ffa3ed1172902127c53 in the following files:
+ Between lines 1784 and 1793 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\rasterizer_canvas_gles3.cpp
+ Between lines 1651 and 1660 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\rasterizer_canvas_gles3.cpp
+Found 8 duplicate lines with fingerprint 14d13e795a13aa5f4bdc74367c0282f8 in the following files:
+ Between lines 102 and 110 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\xaudio2\audio_driver_xaudio2.h
+ Between lines 100 and 108 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\wasapi\audio_driver_wasapi.h
+ Between lines 104 and 112 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\pulseaudio\audio_driver_pulseaudio.h
+Found 8 duplicate lines with fingerprint fadec55fae2162a0ba9f56b7194ccd05 in the following files:
+ Between lines 5047 and 5056 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.cpp
+ Between lines 3803 and 3812 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+Found 8 duplicate lines with fingerprint 9679a5877952d6d1f9107c33669bdef1 in the following files:
+ Between lines 2347 and 2357 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_device_driver_metal.cpp
+ Between lines 2255 and 2265 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_device_driver_metal.cpp
+Found 8 duplicate lines with fingerprint 584a7e6abf73480cd20b36fac2fb314e in the following files:
+ Between lines 487 and 499 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\windows\net_socket_winsock.cpp
+ Between lines 465 and 477 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\windows\net_socket_winsock.cpp
+ Between lines 656 and 668 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\unix\net_socket_unix.cpp
+ Between lines 633 and 645 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\unix\net_socket_unix.cpp
+Found 8 duplicate lines with fingerprint 6a13d401a0235767399cae6e5c8608ec in the following files:
+ Between lines 1542 and 1550 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\mesh_storage.cpp
+ Between lines 1494 and 1502 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\mesh_storage.cpp
+Found 8 duplicate lines with fingerprint 07b90f8374b8cf984516df59f781013d in the following files:
+ Between lines 2703 and 2714 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 2407 and 2418 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+Found 8 duplicate lines with fingerprint 1e6d51a01eeb6382aca86097007b78d7 in the following files:
+ Between lines 870 and 877 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\metal_objects_shared.cpp
+ Between lines 792 and 799 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\metal_objects_shared.cpp
+Found 8 duplicate lines with fingerprint 321fbb48fcf63592bb9c609b2395358e in the following files:
+ Between lines 1062 and 1070 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\rasterizer_canvas_gles3.cpp
+ Between lines 1011 and 1019 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\rasterizer_canvas_gles3.cpp
+Found 8 duplicate lines with fingerprint f58015c79d37bcb9eacfc6f51ee0f0e0 in the following files:
+ Between lines 178 and 186 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\material_storage.cpp
+ Between lines 128 and 136 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\material_storage.cpp
+Found 8 duplicate lines with fingerprint fcffdc4e0ffbb581ae1c758e6c452d62 in the following files:
+ Between lines 5278 and 5288 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.cpp
+ Between lines 5255 and 5265 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.cpp
+Found 8 duplicate lines with fingerprint 508b63442eed1d716be63c0259a83d31 in the following files:
+ Between lines 221 and 228 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 199 and 206 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+Found 8 duplicate lines with fingerprint 137c734c963de9b9e13d36f9ecf2eda6 in the following files:
+ Between lines 386 and 395 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_device_driver_metal.h
+ Between lines 570 and 579 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.h
+Found 8 duplicate lines with fingerprint 093426f65c516280a1fae22eac50b11d in the following files:
+ Between lines 262 and 269 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.h
+ Between lines 220 and 227 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_device_driver_metal.h
+ Between lines 289 and 296 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.h
+Found 8 duplicate lines with fingerprint 9be8a99b811da1c7cd4fe0afe04ad805 in the following files:
+ Between lines 414 and 426 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.h
+ Between lines 537 and 549 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.h
+Found 8 duplicate lines with fingerprint 0aba41a0dee43a341493164ebd5cf49f in the following files:
+ Between lines 2499 and 2506 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\mesh_storage.cpp
+ Between lines 1844 and 1851 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\mesh_storage.cpp
+Found 8 duplicate lines with fingerprint 9cd95c5e3f9db37b51e8120c76f5a8b7 in the following files:
+ Between lines 1898 and 1910 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\rasterizer_scene_gles3.cpp
+ Between lines 1875 and 1887 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\rasterizer_scene_gles3.cpp
+ Between lines 1852 and 1864 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\rasterizer_scene_gles3.cpp
+Found 8 duplicate lines with fingerprint 6f88e81929eda21f772a5fa6c750c19a in the following files:
+ Between lines 3030 and 3038 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\material_storage.cpp
+ Between lines 2674 and 2682 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\material_storage.cpp
+Found 8 duplicate lines with fingerprint d741dbf32b3f311d8325df23f18084bb in the following files:
+ Between lines 511 and 520 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\render_scene_buffers_gles3.cpp
+ Between lines 231 and 240 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\render_scene_buffers_gles3.cpp
+Found 8 duplicate lines with fingerprint 681ea3cf34f32fb14a3db37c7d857a9a in the following files:
+ Between lines 1528 and 1539 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\mesh_storage.cpp
+ Between lines 1418 and 1429 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\mesh_storage.cpp
+Found 8 duplicate lines with fingerprint a1b65e5d28cd2b7a0395cfabfba8c9e0 in the following files:
+ Between lines 5135 and 5142 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 5109 and 5116 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+Found 9 duplicate lines with fingerprint 3e0e5af94b5de631684d5e2fb88dd8f0 in the following files:
+ Between lines 289 and 297 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.h
+ Between lines 220 and 228 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_device_driver_metal.h
+Found 9 duplicate lines with fingerprint fc9cf42f0ad5ebdb152c4a47a4e2a391 in the following files:
+ Between lines 4776 and 4786 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.cpp
+ Between lines 4794 and 4804 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.cpp
+Found 9 duplicate lines with fingerprint faac725b1d34a2de522683d172d1f3ad in the following files:
+ Between lines 1376 and 1386 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\rasterizer_scene_gles3.cpp
+ Between lines 1399 and 1409 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\rasterizer_scene_gles3.cpp
+Found 9 duplicate lines with fingerprint 91df3c734540409fbb7242b6af0a721b in the following files:
+ Between lines 140 and 149 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\material_storage.cpp
+ Between lines 190 and 199 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\material_storage.cpp
+Found 9 duplicate lines with fingerprint e3eca52258a7735b9d61b96319b1a5cd in the following files:
+ Between lines 1346 and 1356 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\accesskit\accessibility_server_accesskit.cpp
+ Between lines 1672 and 1682 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\accesskit\accessibility_server_accesskit.cpp
+ Between lines 1688 and 1698 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\accesskit\accessibility_server_accesskit.cpp
+Found 9 duplicate lines with fingerprint 57c06474469c579fc011bb2dfb31aecf in the following files:
+ Between lines 59 and 68 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_context_driver_d3d12.cpp
+ Between lines 56 and 65 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+Found 9 duplicate lines with fingerprint 9b945e3fd7111524f5dd3801f473a6ee in the following files:
+ Between lines 52 and 62 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\unix\net_socket_unix.h
+ Between lines 48 and 58 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\windows\net_socket_winsock.h
+Found 9 duplicate lines with fingerprint 7afeff5375027115fe3bfbc4b34a69b9 in the following files:
+ Between lines 3847 and 3857 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 3885 and 3895 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+Found 9 duplicate lines with fingerprint abb2ed429e6057c49c125e20797e322d in the following files:
+ Between lines 2718 and 2726 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_device_driver_metal.cpp
+ Between lines 7371 and 7379 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.cpp
+Found 9 duplicate lines with fingerprint c0d234ded7ffe05b6853bda9c783d471 in the following files:
+ Between lines 76 and 86 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\unix\file_access_unix_pipe.h
+ Between lines 77 and 87 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\windows\file_access_windows_pipe.h
+Found 9 duplicate lines with fingerprint 1b74fa984677ec8f431ece861638d85a in the following files:
+ Between lines 999 and 1007 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 2086 and 2094 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.cpp
+Found 9 duplicate lines with fingerprint f6c40b1a03be04a25e9aa9dee884cda4 in the following files:
+ Between lines 57 and 68 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\unix\ip_unix.cpp
+ Between lines 40 and 51 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\windows\ip_windows.cpp
+Found 9 duplicate lines with fingerprint 9b4c36671e022f2efd51b669bcea517f in the following files:
+ Between lines 69 and 78 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\effects\cubemap_filter.cpp
+ Between lines 65 and 74 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\effects\copy_effects.cpp
+ Between lines 66 and 75 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\effects\feed_effects.cpp
+ Between lines 64 and 73 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\effects\glow.cpp
+ Between lines 65 and 74 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\effects\post_effects.cpp
+Found 9 duplicate lines with fingerprint 8ab8587fa7dbb0941e4af7f0c2272914 in the following files:
+ Between lines 173 and 182 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\unix\file_access_unix.cpp
+ Between lines 220 and 229 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\windows\file_access_windows.cpp
+Found 9 duplicate lines with fingerprint 9f77411ad13ecbd1db10d2859850692d in the following files:
+ Between lines 899 and 918 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.h
+ Between lines 757 and 776 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.h
+Found 9 duplicate lines with fingerprint 8fcb9f0989004de79063a5aabc023b5f in the following files:
+ Between lines 129 and 137 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\metal_allocator.h
+ Between lines 209 and 217 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\metal_allocator.h
+Found 9 duplicate lines with fingerprint 61d08ba2337f8c9143c8473bf32e1564 in the following files:
+ Between lines 641 and 654 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\pulseaudio\audio_driver_pulseaudio.cpp
+ Between lines 830 and 843 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\pulseaudio\audio_driver_pulseaudio.cpp
+Found 10 duplicate lines with fingerprint 53ad26aef332c47ed1ff0c53a4fb543a in the following files:
+ Between lines 547 and 556 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_device_driver_metal.h
+ Between lines 792 and 801 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.h
+ Between lines 942 and 951 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.h
+Found 10 duplicate lines with fingerprint 644277b181a07338993daf765b60bc25 in the following files:
+ Between lines 2682 and 2700 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 2386 and 2404 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+Found 10 duplicate lines with fingerprint 24a5245f7a5014ca5d405a00b2ec0ad2 in the following files:
+ Between lines 5693 and 5702 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 5550 and 5559 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+Found 10 duplicate lines with fingerprint 7c0eb7b8866914b4a04780d517e306f1 in the following files:
+ Between lines 982 and 992 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_device_driver_metal.cpp
+ Between lines 2850 and 2860 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+Found 10 duplicate lines with fingerprint 2884d1c9b946b9e9a90a4766d6dcddda in the following files:
+ Between lines 297 and 306 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.h
+ Between lines 340 and 349 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.h
+ Between lines 248 and 257 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_device_driver_metal.h
+Found 10 duplicate lines with fingerprint 602bf2746a98e9fe5060444da2b797bb in the following files:
+ Between lines 4395 and 4408 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 4334 and 4348 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+Found 10 duplicate lines with fingerprint fd3cec5dafb5d1402d1eea5e504c3df9 in the following files:
+ Between lines 924 and 940 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\unix\os_unix.cpp
+ Between lines 724 and 741 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\unix\os_unix.cpp
+Found 10 duplicate lines with fingerprint 05a41b5d0a3ae5d8bf3e669204ad9d9b in the following files:
+ Between lines 4193 and 4204 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 4020 and 4031 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+Found 10 duplicate lines with fingerprint 802c104aa33ec6596e414edbe8bb2446 in the following files:
+ Between lines 1795 and 1809 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\rasterizer_canvas_gles3.cpp
+ Between lines 1662 and 1676 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\rasterizer_canvas_gles3.cpp
+Found 10 duplicate lines with fingerprint 942be76e3aa22111be0487ed978351be in the following files:
+ Between lines 216 and 227 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\rasterizer_canvas_gles3.cpp
+ Between lines 152 and 163 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\rasterizer_canvas_gles3.cpp
+Found 10 duplicate lines with fingerprint 59560c1ec9a3dd9987f2d1d4f59b48b0 in the following files:
+ Between lines 203 and 213 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\material_storage.cpp
+ Between lines 153 and 163 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\material_storage.cpp
+Found 11 duplicate lines with fingerprint 9e3ea4aa79935eb6aced2738e302db6b in the following files:
+ Between lines 523 and 535 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 617 and 630 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+Found 11 duplicate lines with fingerprint a98e2be990ebceb3bf4436cde1c314b8 in the following files:
+ Between lines 888 and 903 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\unix\os_unix.cpp
+ Between lines 930 and 945 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\unix\os_unix.cpp
+Found 11 duplicate lines with fingerprint 2080ed388138c753425c8122e3a28ff6 in the following files:
+ Between lines 959 and 970 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\mesh_storage.cpp
+ Between lines 972 and 983 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\mesh_storage.cpp
+Found 11 duplicate lines with fingerprint 82ac4ff3733eba067ea6fb2539445eac in the following files:
+ Between lines 512 and 523 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\light_storage.h
+ Between lines 537 and 548 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\light_storage.h
+Found 11 duplicate lines with fingerprint c74ef1858540e1f7f73272d5e33af103 in the following files:
+ Between lines 538 and 550 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 642 and 655 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+Found 11 duplicate lines with fingerprint 48e3aa0ac388bb11fa7095f408440235 in the following files:
+ Between lines 85 and 98 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\unix\file_access_unix.h
+ Between lines 84 and 97 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\windows\file_access_windows.h
+Found 11 duplicate lines with fingerprint e20b552df96376e871ffd55044bfbc78 in the following files:
+ Between lines 51 and 61 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_shader_container_metal.cpp
+ Between lines 134 and 144 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_shader_container_metal.cpp
+Found 11 duplicate lines with fingerprint 1bfdcbfdad1fed4e9ba91d3a4e93f47d in the following files:
+ Between lines 339 and 349 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.h
+ Between lines 296 and 306 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.h
+Found 11 duplicate lines with fingerprint c8b766f2ff4be3b394d00550f0abfc11 in the following files:
+ Between lines 556 and 567 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\metal3_objects.cpp
+ Between lines 681 and 692 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\metal3_objects.cpp
+Found 11 duplicate lines with fingerprint 3bce31ff99f9557999b53e00ef170738 in the following files:
+ Between lines 553 and 565 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 667 and 680 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+Found 12 duplicate lines with fingerprint 5e32fbe334ad631622433101f03c1343 in the following files:
+ Between lines 557 and 571 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_device_driver_metal.cpp
+ Between lines 497 and 511 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_device_driver_metal.cpp
+Found 12 duplicate lines with fingerprint fbeb5a5b07cb4520916ac1a114a41025 in the following files:
+ Between lines 5930 and 5941 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.cpp
+ Between lines 1972 and 1983 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_device_driver_metal.cpp
+ Between lines 5319 and 5330 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+Found 12 duplicate lines with fingerprint 37b68e2d114a19dab4655231f01e4c6a in the following files:
+ Between lines 307 and 318 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 306 and 317 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 305 and 316 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 304 and 315 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 303 and 314 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 302 and 313 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 301 and 312 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 300 and 311 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 299 and 310 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 298 and 309 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 297 and 308 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 296 and 307 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 295 and 306 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 294 and 305 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 293 and 304 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 292 and 303 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 291 and 302 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 290 and 301 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 289 and 300 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 288 and 299 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 287 and 298 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 286 and 297 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 285 and 296 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 284 and 295 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 283 and 294 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 282 and 293 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 281 and 292 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 280 and 291 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 279 and 290 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 278 and 289 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 277 and 288 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 276 and 287 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 275 and 286 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 274 and 285 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 273 and 284 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 272 and 283 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 271 and 282 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 270 and 281 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 269 and 280 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 268 and 279 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 267 and 278 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 266 and 277 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 265 and 276 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 264 and 275 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 263 and 274 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 262 and 273 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 261 and 272 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 260 and 271 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 259 and 270 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 258 and 269 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 257 and 268 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 256 and 267 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 255 and 266 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 254 and 265 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 253 and 264 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 252 and 263 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 251 and 262 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 250 and 261 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 249 and 260 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 248 and 259 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 247 and 258 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 246 and 257 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 245 and 256 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 244 and 255 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 243 and 254 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 242 and 253 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 241 and 252 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 240 and 251 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 239 and 250 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 238 and 249 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 237 and 248 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 236 and 247 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 235 and 246 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 234 and 245 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 233 and 244 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 196 and 207 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 111 and 122 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 110 and 121 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 109 and 120 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 108 and 119 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+Found 12 duplicate lines with fingerprint 03396437fcb71be01dfe3750f6c23ed0 in the following files:
+ Between lines 2447 and 2458 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\mesh_storage.cpp
+ Between lines 1814 and 1825 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\mesh_storage.cpp
+Found 12 duplicate lines with fingerprint 329c3d901cb28574c9e990c5547f6f07 in the following files:
+ Between lines 249 and 265 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\unix\os_unix.cpp
+ Between lines 228 and 244 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\unix\os_unix.cpp
+ Between lines 207 and 223 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\unix\os_unix.cpp
+Found 12 duplicate lines with fingerprint c00a191c5b68696d5390d3f34273ef01 in the following files:
+ Between lines 319 and 336 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\windows\net_socket_winsock.cpp
+ Between lines 465 and 482 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\unix\net_socket_unix.cpp
+Found 12 duplicate lines with fingerprint b933323166a052d974aa140e6a9c3adc in the following files:
+ Between lines 80 and 94 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\windows\net_socket_winsock.cpp
+ Between lines 114 and 128 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\unix\net_socket_unix.cpp
+Found 12 duplicate lines with fingerprint 79263a4eb4afadb10b3f9567172548fb in the following files:
+ Between lines 211 and 222 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\metal3_objects.cpp
+ Between lines 186 and 197 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\metal3_objects.cpp
+Found 13 duplicate lines with fingerprint eb7dac33d97daceb8ea12f8a91571d44 in the following files:
+ Between lines 1725 and 1744 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\rasterizer_canvas_gles3.cpp
+ Between lines 1828 and 1847 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\rasterizer_canvas_gles3.cpp
+Found 13 duplicate lines with fingerprint 9cf0a7bbe32d47ad9577f4d1a42653b3 in the following files:
+ Between lines 456 and 468 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\metal3_objects.cpp
+ Between lines 893 and 905 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\metal3_objects.cpp
+Found 13 duplicate lines with fingerprint 60e8e1eebe664645fedc8555506c3ddb in the following files:
+ Between lines 4487 and 4501 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 4782 and 4796 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+Found 13 duplicate lines with fingerprint 1149ce6121ccd3837ddedcf45217e6ba in the following files:
+ Between lines 863 and 882 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.h
+ Between lines 495 and 514 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_device_driver_metal.h
+Found 13 duplicate lines with fingerprint 68d664fa7009f757558919b9a27fe5b9 in the following files:
+ Between lines 1942 and 1956 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\mesh_storage.cpp
+ Between lines 2474 and 2487 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\mesh_storage.cpp
+Found 13 duplicate lines with fingerprint f567f626bafe5f43b83651a49d53f941 in the following files:
+ Between lines 3576 and 3597 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.cpp
+ Between lines 4145 and 4166 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.cpp
+Found 14 duplicate lines with fingerprint 28e1352c8a0ed081319b6a555b4cca7d in the following files:
+ Between lines 6949 and 6962 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.cpp
+ Between lines 6934 and 6947 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.cpp
+Found 14 duplicate lines with fingerprint 74049a18605d24ba9d25429fe2e17988 in the following files:
+ Between lines 3419 and 3437 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\material_storage.cpp
+ Between lines 3178 and 3196 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\material_storage.cpp
+ Between lines 2880 and 2898 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\material_storage.cpp
+ Between lines 2704 and 2722 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\material_storage.cpp
+Found 14 duplicate lines with fingerprint 3137375ccf8feef34faf137fac127720 in the following files:
+ Between lines 216 and 236 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_device_driver_metal3.cpp
+ Between lines 175 and 195 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_device_driver_metal3.cpp
+Found 14 duplicate lines with fingerprint 91382b3cd6538f35d110ff81a67230f6 in the following files:
+ Between lines 58 and 77 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\windows\file_access_windows.h
+ Between lines 59 and 78 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\unix\file_access_unix.h
+Found 14 duplicate lines with fingerprint 000cfc03d79d02ea5b26c97d8f13bead in the following files:
+ Between lines 53 and 72 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\windows\file_access_windows_pipe.h
+ Between lines 51 and 71 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\unix\file_access_unix_pipe.h
+Found 15 duplicate lines with fingerprint bbca0842e2c2c5bf83a3d3cd2b5f89e5 in the following files:
+ Between lines 108 and 122 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 304 and 318 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 303 and 317 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 302 and 316 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 301 and 315 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 300 and 314 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 299 and 313 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 298 and 312 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 297 and 311 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 296 and 310 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 295 and 309 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 294 and 308 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 293 and 307 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 292 and 306 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 291 and 305 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 290 and 304 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 289 and 303 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 288 and 302 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 287 and 301 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 286 and 300 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 285 and 299 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 284 and 298 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 283 and 297 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 282 and 296 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 281 and 295 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 280 and 294 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 279 and 293 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 278 and 292 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 277 and 291 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 276 and 290 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 275 and 289 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 274 and 288 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 273 and 287 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 272 and 286 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 271 and 285 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 270 and 284 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 269 and 283 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 268 and 282 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 267 and 281 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 266 and 280 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 265 and 279 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 264 and 278 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 263 and 277 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 262 and 276 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 261 and 275 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 260 and 274 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 259 and 273 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 258 and 272 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 257 and 271 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 256 and 270 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 255 and 269 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 254 and 268 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 253 and 267 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 252 and 266 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 251 and 265 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 250 and 264 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 249 and 263 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 248 and 262 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 247 and 261 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 246 and 260 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 245 and 259 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 244 and 258 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 243 and 257 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 242 and 256 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 241 and 255 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 240 and 254 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 239 and 253 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 238 and 252 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 237 and 251 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 236 and 250 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 235 and 249 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 234 and 248 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 233 and 247 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+Found 15 duplicate lines with fingerprint 05dd9b4ddcad06d2da20ce067a9ca1f0 in the following files:
+ Between lines 488 and 510 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.h
+ Between lines 555 and 577 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.h
+Found 15 duplicate lines with fingerprint 28ca7d32eb055f59d048639d343be886 in the following files:
+ Between lines 82 and 98 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\effects\copy_effects.cpp
+ Between lines 366 and 382 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+Found 15 duplicate lines with fingerprint c0b947e179f05e9e7b86a19f020705ca in the following files:
+ Between lines 430 and 450 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_device_driver_metal.h
+ Between lines 641 and 661 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.h
+ Between lines 791 and 812 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.h
+Found 16 duplicate lines with fingerprint 10b32e2fb2e0a0b27db994b1dae3862b in the following files:
+ Between lines 148 and 167 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_shader_container_metal.h
+ Between lines 748 and 767 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\metal_objects_shared.h
+Found 16 duplicate lines with fingerprint ef98b39c964b8ed223e6c9153f86577b in the following files:
+ Between lines 246 and 267 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\rasterizer_canvas_gles3.cpp
+ Between lines 175 and 196 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\rasterizer_canvas_gles3.cpp
+Found 16 duplicate lines with fingerprint b7a2c0ab7005ec460e1b79ed3a252820 in the following files:
+ Between lines 5604 and 5623 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 5043 and 5062 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+Found 16 duplicate lines with fingerprint 028d637131df07eb797a21929866bcef in the following files:
+ Between lines 952 and 971 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\light_storage.cpp
+ Between lines 914 and 933 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\light_storage.cpp
+Found 16 duplicate lines with fingerprint 181e7c1744fca48928d988af556cfbd5 in the following files:
+ Between lines 100 and 119 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\wasapi\audio_driver_wasapi.h
+ Between lines 104 and 123 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\pulseaudio\audio_driver_pulseaudio.h
+Found 17 duplicate lines with fingerprint b0072c30ec81cd10b19ac152c7ed5bab in the following files:
+ Between lines 2686 and 2702 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_device_driver_metal.cpp
+ Between lines 7339 and 7355 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.cpp
+Found 17 duplicate lines with fingerprint 345ebe74c8ed1b6b09f88fd77282b323 in the following files:
+ Between lines 1795 and 1816 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 1683 and 1704 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+Found 18 duplicate lines with fingerprint 158c5a3161e99cbab5e5d50927bc7774 in the following files:
+ Between lines 825 and 855 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.h
+ Between lines 669 and 699 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.h
+Found 18 duplicate lines with fingerprint ed97e822c4b0bb1605beed669613a325 in the following files:
+ Between lines 430 and 456 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\windows\net_socket_winsock.cpp
+ Between lines 593 and 619 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\unix\net_socket_unix.cpp
+Found 18 duplicate lines with fingerprint 647974683d9707c609b5c7d3507e7bf1 in the following files:
+ Between lines 53 and 74 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\effects\post_effects.cpp
+ Between lines 52 and 73 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\effects\glow.cpp
+ Between lines 54 and 75 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\effects\feed_effects.cpp
+ Between lines 53 and 74 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\effects\copy_effects.cpp
+Found 18 duplicate lines with fingerprint a806340adeb6ccee5ebbe71e524c29d6 in the following files:
+ Between lines 785 and 808 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.h
+ Between lines 935 and 958 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.h
+Found 18 duplicate lines with fingerprint 5f4e1ee35e47f034c382692fe9ef0e39 in the following files:
+ Between lines 2034 and 2061 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\metal3_objects.cpp
+ Between lines 1878 and 1905 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\metal3_objects.cpp
+Found 18 duplicate lines with fingerprint aa52e64e76b8fc05556e46face1356ae in the following files:
+ Between lines 1676 and 1701 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 1600 and 1626 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+Found 19 duplicate lines with fingerprint 420c64c9f94a47c351448c1e3c512865 in the following files:
+ Between lines 5749 and 5778 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.cpp
+ Between lines 6721 and 6750 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.cpp
+Found 20 duplicate lines with fingerprint 0425c7922cc220bdadbc9b1830227344 in the following files:
+ Between lines 74 and 95 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\windows\net_socket_winsock.h
+ Between lines 92 and 113 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\unix\net_socket_unix.h
+Found 20 duplicate lines with fingerprint e2909be001021bd8ef53f475c61b0829 in the following files:
+ Between lines 338 and 363 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_context_driver_metal.cpp
+ Between lines 204 and 229 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_context_driver_metal.cpp
+Found 21 duplicate lines with fingerprint 3a279373e7a1daca6eef60d206c0d420 in the following files:
+ Between lines 65 and 95 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\unix\net_socket_unix.cpp
+ Between lines 45 and 75 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\windows\net_socket_winsock.cpp
+Found 23 duplicate lines with fingerprint cfcd208495d565ef66e7dff9f98764da in the following files:
+ Between lines 296 and 318 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 295 and 317 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 294 and 316 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 293 and 315 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 292 and 314 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 291 and 313 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 290 and 312 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 289 and 311 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 288 and 310 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 287 and 309 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 286 and 308 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 285 and 307 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 284 and 306 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 283 and 305 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 282 and 304 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 281 and 303 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 280 and 302 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 279 and 301 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 278 and 300 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 277 and 299 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 276 and 298 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 275 and 297 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 274 and 296 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 273 and 295 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 272 and 294 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 271 and 293 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 270 and 292 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 269 and 291 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 268 and 290 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 267 and 289 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 266 and 288 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 265 and 287 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 264 and 286 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 263 and 285 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 262 and 284 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 261 and 283 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 260 and 282 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 259 and 281 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 258 and 280 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 257 and 279 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 256 and 278 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 255 and 277 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 254 and 276 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 253 and 275 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 252 and 274 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 251 and 273 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 250 and 272 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 249 and 271 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 248 and 270 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 247 and 269 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 246 and 268 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 245 and 267 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 244 and 266 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 243 and 265 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 242 and 264 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 241 and 263 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 240 and 262 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 239 and 261 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 238 and 260 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 237 and 259 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 236 and 258 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 235 and 257 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 234 and 256 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 233 and 255 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 648 and 670 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\material_storage.cpp
+Found 23 duplicate lines with fingerprint 59e390bae1506b0021daf013067cbf55 in the following files:
+ Between lines 2421 and 2459 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+ Between lines 2717 and 2755 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\gles3\storage\texture_storage.cpp
+Found 26 duplicate lines with fingerprint 72b6e5e69d2090022b3e6abdb157a9f4 in the following files:
+ Between lines 131 and 156 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_context_driver_vulkan.h
+ Between lines 58 and 83 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_context_driver_d3d12.h
+Found 31 duplicate lines with fingerprint ab26043329c84a6310cc7c19338b3f6c in the following files:
+ Between lines 429 and 470 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\metal\rendering_device_driver_metal.h
+ Between lines 640 and 681 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\vulkan\rendering_device_driver_vulkan.h
+Found 32 duplicate lines with fingerprint ce9aacf80fee211490afed389b4853dc in the following files:
+ Between lines 55 and 98 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\windows\ip_windows.cpp
+ Between lines 72 and 115 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\unix\ip_unix.cpp
+Found 36 duplicate lines with fingerprint 54d6768ef200e30e494ad3235f342226 in the following files:
+ Between lines 162 and 211 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\windows\net_socket_winsock.cpp
+ Between lines 199 and 248 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\unix\net_socket_unix.cpp
+Found 85 duplicate lines with fingerprint cfcd208495d565ef66e7dff9f98764da in the following files:
+ Between lines 234 and 318 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 233 and 317 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\godot\drivers\d3d12\rendering_device_driver_d3d12.cpp
+Found 4287 duplicate lines in 438 blocks in 60 files
+Processed a total of 57654 significant (89666 raw) lines in 167 files
+Processing time: 1.371sec

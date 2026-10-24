@@ -1,0 +1,9 @@
+project,number,closed_project,url,open_tasks,open_unassigned,pct_unassigned
+Audio Issue Triage,101,False,https://github.com/orgs/godotengine/projects/101,40,39,97.5
+Documentation tracking,94,False,https://github.com/orgs/godotengine/projects/94,0,0,
+GDScript Issue Triage,79,False,https://github.com/orgs/godotengine/projects/79,120,116,96.7
+4.x Release Priorities & Blockers,61,False,https://github.com/orgs/godotengine/projects/61,66,51,77.3
+Godot project trackers,58,False,https://github.com/orgs/godotengine/projects/58,4,3,75.0
+Buildsystem Issue Triage,53,False,https://github.com/orgs/godotengine/projects/53,14,14,100.0
+GDScript Stabilization Tasks,31,True,https://github.com/orgs/godotengine/projects/31,0,0,
+4.x Priority Issues,28,False,https://github.com/orgs/godotengine/projects/28,0,0,

@@ -1,0 +1,435 @@
+Similarity Analyser 2.5.10 - http://www.harukizaemon.com/simian
+Copyright (c) 2003-2018 Simon Harris.  All rights reserved.
+Simian is not free unless used solely for non-commercial or evaluation purposes.
+{failOnDuplication=true, ignoreCharacterCase=true, ignoreCurlyBraces=true, ignoreIdentifierCase=true, ignoreModifiers=true, ignoreStringCase=true, language=C++, threshold=10}
+Found 10 duplicate lines with fingerprint 0177a3175b0e7c896b65c300c20c880e in the following files:
+ Between lines 297 and 306 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\vulkan\rendering_device_driver_vulkan.h
+ Between lines 248 and 257 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\metal\rendering_device_driver_metal.h
+ Between lines 340 and 349 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.h
+Found 10 duplicate lines with fingerprint 9fdbf5788c91322674531a5bc955536d in the following files:
+ Between lines 203 and 213 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\storage\material_storage.cpp
+ Between lines 153 and 163 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\storage\material_storage.cpp
+Found 10 duplicate lines with fingerprint 3b31931799fdf4b07a432178015a73cf in the following files:
+ Between lines 76 and 87 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\windows\file_access_windows_pipe.h
+ Between lines 75 and 86 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\unix\file_access_unix_pipe.h
+Found 10 duplicate lines with fingerprint 0e6e524381e8d387923f728432d24a19 in the following files:
+ Between lines 5693 and 5702 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 5550 and 5559 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+Found 10 duplicate lines with fingerprint 8a1fbeb4e3712b22a4343dd5a8c5c61a in the following files:
+ Between lines 1795 and 1809 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\rasterizer_canvas_gles3.cpp
+ Between lines 1662 and 1676 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\rasterizer_canvas_gles3.cpp
+Found 10 duplicate lines with fingerprint 47f71002554b54bd30961f2d0d7a1ea3 in the following files:
+ Between lines 4193 and 4204 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 4020 and 4031 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+Found 10 duplicate lines with fingerprint 6bf67090631f17cee53a206396a642e3 in the following files:
+ Between lines 2682 and 2700 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\storage\texture_storage.cpp
+ Between lines 2386 and 2404 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\storage\texture_storage.cpp
+Found 10 duplicate lines with fingerprint 82179235ba48adc428cefd5d0f26a068 in the following files:
+ Between lines 792 and 801 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\vulkan\rendering_device_driver_vulkan.h
+ Between lines 547 and 556 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\metal\rendering_device_driver_metal.h
+ Between lines 942 and 951 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.h
+Found 10 duplicate lines with fingerprint 296c4af3c3049e44dfca6e9ef873bc55 in the following files:
+ Between lines 216 and 227 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\rasterizer_canvas_gles3.cpp
+ Between lines 152 and 163 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\rasterizer_canvas_gles3.cpp
+Found 10 duplicate lines with fingerprint 75d89b4f0e01099a22bca7bd923313e9 in the following files:
+ Between lines 982 and 992 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\metal\rendering_device_driver_metal.cpp
+ Between lines 2850 and 2860 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+Found 10 duplicate lines with fingerprint 272a05ae387ad25b8ca2047545a54dd5 in the following files:
+ Between lines 924 and 940 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\unix\os_unix.cpp
+ Between lines 724 and 741 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\unix\os_unix.cpp
+Found 10 duplicate lines with fingerprint c7de24addb57bd856c3307aa64b0b2bb in the following files:
+ Between lines 4395 and 4408 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\storage\texture_storage.cpp
+ Between lines 4334 and 4348 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\storage\texture_storage.cpp
+Found 11 duplicate lines with fingerprint 946db111085f3b96f4e1aa6c37fbf97b in the following files:
+ Between lines 51 and 61 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\metal\rendering_shader_container_metal.cpp
+ Between lines 134 and 144 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\metal\rendering_shader_container_metal.cpp
+Found 11 duplicate lines with fingerprint cb2e6b784485154273d7ba7f4c7b7f83 in the following files:
+ Between lines 553 and 565 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\storage\texture_storage.cpp
+ Between lines 667 and 680 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\storage\texture_storage.cpp
+Found 11 duplicate lines with fingerprint 08a982ae730633003919372fa2eb414e in the following files:
+ Between lines 556 and 567 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\metal\metal3_objects.cpp
+ Between lines 681 and 692 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\metal\metal3_objects.cpp
+Found 11 duplicate lines with fingerprint 94b134790a183752fe2f397376c800ce in the following files:
+ Between lines 888 and 903 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\unix\os_unix.cpp
+ Between lines 930 and 945 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\unix\os_unix.cpp
+Found 11 duplicate lines with fingerprint 8754007d887dd9ff2d365d0a4ee46b47 in the following files:
+ Between lines 538 and 550 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\storage\texture_storage.cpp
+ Between lines 642 and 655 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\storage\texture_storage.cpp
+Found 11 duplicate lines with fingerprint 526fce64db78da66036e195f094c851d in the following files:
+ Between lines 523 and 535 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\storage\texture_storage.cpp
+ Between lines 617 and 630 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\storage\texture_storage.cpp
+Found 11 duplicate lines with fingerprint 3122ae36ecb056b54462cbca9e96df05 in the following files:
+ Between lines 959 and 970 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\storage\mesh_storage.cpp
+ Between lines 972 and 983 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\storage\mesh_storage.cpp
+Found 11 duplicate lines with fingerprint 7186fc64901b26d66283e807b812c329 in the following files:
+ Between lines 512 and 523 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\storage\light_storage.h
+ Between lines 537 and 548 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\storage\light_storage.h
+Found 12 duplicate lines with fingerprint aa66e8d311bfb7b3c02b61c3092f0aa1 in the following files:
+ Between lines 307 and 318 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 306 and 317 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 305 and 316 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 304 and 315 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 303 and 314 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 302 and 313 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 301 and 312 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 300 and 311 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 299 and 310 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 298 and 309 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 297 and 308 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 296 and 307 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 295 and 306 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 294 and 305 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 293 and 304 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 292 and 303 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 291 and 302 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 290 and 301 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 289 and 300 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 288 and 299 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 287 and 298 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 286 and 297 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 285 and 296 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 284 and 295 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 283 and 294 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 282 and 293 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 281 and 292 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 280 and 291 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 279 and 290 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 278 and 289 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 277 and 288 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 276 and 287 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 275 and 286 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 274 and 285 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 273 and 284 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 272 and 283 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 271 and 282 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 270 and 281 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 269 and 280 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 268 and 279 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 267 and 278 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 266 and 277 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 265 and 276 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 264 and 275 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 263 and 274 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 262 and 273 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 261 and 272 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 260 and 271 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 259 and 270 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 258 and 269 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 257 and 268 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 256 and 267 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 255 and 266 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 254 and 265 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 253 and 264 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 252 and 263 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 251 and 262 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 250 and 261 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 249 and 260 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 248 and 259 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 247 and 258 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 246 and 257 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 245 and 256 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 244 and 255 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 243 and 254 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 242 and 253 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 241 and 252 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 240 and 251 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 239 and 250 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 238 and 249 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 237 and 248 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 236 and 247 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 235 and 246 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 234 and 245 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 233 and 244 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 196 and 207 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 111 and 122 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 110 and 121 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 109 and 120 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 108 and 119 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+Found 12 duplicate lines with fingerprint ecb3490715266d5224e96577ac463ab9 in the following files:
+ Between lines 249 and 265 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\unix\os_unix.cpp
+ Between lines 228 and 244 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\unix\os_unix.cpp
+ Between lines 207 and 223 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\unix\os_unix.cpp
+Found 12 duplicate lines with fingerprint 16e3cf01bc41f4d77cd1c7f387ae8bfa in the following files:
+ Between lines 2447 and 2458 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\storage\mesh_storage.cpp
+ Between lines 1814 and 1825 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\storage\mesh_storage.cpp
+Found 12 duplicate lines with fingerprint b333b2622754fc1bbd2620e72feac2c0 in the following files:
+ Between lines 319 and 336 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\windows\net_socket_winsock.cpp
+ Between lines 465 and 482 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\unix\net_socket_unix.cpp
+Found 12 duplicate lines with fingerprint ab52533dbf636b2c3ebdce3e6306f7f4 in the following files:
+ Between lines 5930 and 5941 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\vulkan\rendering_device_driver_vulkan.cpp
+ Between lines 1972 and 1983 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\metal\rendering_device_driver_metal.cpp
+ Between lines 5319 and 5330 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+Found 12 duplicate lines with fingerprint 68ba52f95cc49bdd37d62d3c6084860e in the following files:
+ Between lines 557 and 571 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\metal\rendering_device_driver_metal.cpp
+ Between lines 497 and 511 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\metal\rendering_device_driver_metal.cpp
+Found 12 duplicate lines with fingerprint 1da739c72e48361353b5676a36c2c32c in the following files:
+ Between lines 211 and 222 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\metal\metal3_objects.cpp
+ Between lines 186 and 197 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\metal\metal3_objects.cpp
+Found 12 duplicate lines with fingerprint a64da2070b51fd4db5f4b13372ab83ac in the following files:
+ Between lines 296 and 311 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\vulkan\rendering_device_driver_vulkan.h
+ Between lines 339 and 351 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.h
+Found 12 duplicate lines with fingerprint 9d0837bf59b307d8eb0aa19cd307c0b5 in the following files:
+ Between lines 80 and 94 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\windows\net_socket_winsock.cpp
+ Between lines 114 and 128 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\unix\net_socket_unix.cpp
+Found 13 duplicate lines with fingerprint 0d04974f591953c320ba1583e837a085 in the following files:
+ Between lines 863 and 882 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.h
+ Between lines 495 and 514 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\metal\rendering_device_driver_metal.h
+Found 13 duplicate lines with fingerprint adfb33d8ca5660f53ee35163d5f879d9 in the following files:
+ Between lines 456 and 468 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\metal\metal3_objects.cpp
+ Between lines 893 and 905 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\metal\metal3_objects.cpp
+Found 13 duplicate lines with fingerprint 37767e9f894b4f989738c68f8d48f323 in the following files:
+ Between lines 1725 and 1744 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\rasterizer_canvas_gles3.cpp
+ Between lines 1828 and 1847 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\rasterizer_canvas_gles3.cpp
+Found 13 duplicate lines with fingerprint 68a89a1a9a3c60c037a2e35f6d7e6804 in the following files:
+ Between lines 4487 and 4501 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 4782 and 4796 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+Found 13 duplicate lines with fingerprint 5b38147f6a9d5f5389f12c00c70ca715 in the following files:
+ Between lines 1942 and 1956 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\storage\mesh_storage.cpp
+ Between lines 2474 and 2487 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\storage\mesh_storage.cpp
+Found 13 duplicate lines with fingerprint f6068c379c61a5ad9a405e3bd361a2d7 in the following files:
+ Between lines 3576 and 3597 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\vulkan\rendering_device_driver_vulkan.cpp
+ Between lines 4145 and 4166 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\vulkan\rendering_device_driver_vulkan.cpp
+Found 14 duplicate lines with fingerprint 1bee61664757e1aaa99ca6f1a0bb9b73 in the following files:
+ Between lines 3419 and 3437 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\storage\material_storage.cpp
+ Between lines 3178 and 3196 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\storage\material_storage.cpp
+ Between lines 2880 and 2898 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\storage\material_storage.cpp
+ Between lines 2704 and 2722 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\storage\material_storage.cpp
+Found 14 duplicate lines with fingerprint 7277c13a15ea6bda01a6c934954ea50a in the following files:
+ Between lines 216 and 236 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\metal\rendering_device_driver_metal3.cpp
+ Between lines 175 and 195 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\metal\rendering_device_driver_metal3.cpp
+Found 14 duplicate lines with fingerprint 4fd9bef1f10586814e5b3e32c0683f74 in the following files:
+ Between lines 6949 and 6962 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\vulkan\rendering_device_driver_vulkan.cpp
+ Between lines 6934 and 6947 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\vulkan\rendering_device_driver_vulkan.cpp
+Found 14 duplicate lines with fingerprint 5bb5f3852662ae602e09abd3a0b03cd8 in the following files:
+ Between lines 53 and 72 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\windows\file_access_windows_pipe.h
+ Between lines 51 and 71 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\unix\file_access_unix_pipe.h
+Found 14 duplicate lines with fingerprint 6e408d844505a776f18805d547148cfa in the following files:
+ Between lines 81 and 97 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\windows\file_access_windows.h
+ Between lines 82 and 98 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\unix\file_access_unix.h
+Found 14 duplicate lines with fingerprint 15bc5b47a07150e0fc7fafa3e7d62d4f in the following files:
+ Between lines 58 and 77 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\windows\file_access_windows.h
+ Between lines 59 and 78 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\unix\file_access_unix.h
+Found 15 duplicate lines with fingerprint 5ef15c0c186ae9d3aa816d978271311f in the following files:
+ Between lines 488 and 510 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\storage\texture_storage.h
+ Between lines 555 and 577 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\storage\texture_storage.h
+Found 15 duplicate lines with fingerprint aea76391532f74873b7ce95f25eca82d in the following files:
+ Between lines 108 and 122 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 304 and 318 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 303 and 317 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 302 and 316 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 301 and 315 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 300 and 314 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 299 and 313 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 298 and 312 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 297 and 311 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 296 and 310 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 295 and 309 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 294 and 308 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 293 and 307 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 292 and 306 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 291 and 305 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 290 and 304 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 289 and 303 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 288 and 302 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 287 and 301 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 286 and 300 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 285 and 299 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 284 and 298 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 283 and 297 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 282 and 296 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 281 and 295 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 280 and 294 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 279 and 293 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 278 and 292 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 277 and 291 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 276 and 290 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 275 and 289 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 274 and 288 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 273 and 287 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 272 and 286 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 271 and 285 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 270 and 284 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 269 and 283 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 268 and 282 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 267 and 281 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 266 and 280 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 265 and 279 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 264 and 278 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 263 and 277 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 262 and 276 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 261 and 275 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 260 and 274 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 259 and 273 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 258 and 272 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 257 and 271 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 256 and 270 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 255 and 269 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 254 and 268 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 253 and 267 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 252 and 266 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 251 and 265 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 250 and 264 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 249 and 263 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 248 and 262 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 247 and 261 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 246 and 260 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 245 and 259 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 244 and 258 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 243 and 257 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 242 and 256 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 241 and 255 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 240 and 254 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 239 and 253 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 238 and 252 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 237 and 251 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 236 and 250 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 235 and 249 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 234 and 248 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 233 and 247 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+Found 15 duplicate lines with fingerprint cf16eec09d8b2f59abb34b795ee38f45 in the following files:
+ Between lines 791 and 812 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.h
+ Between lines 430 and 450 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\metal\rendering_device_driver_metal.h
+ Between lines 641 and 661 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\vulkan\rendering_device_driver_vulkan.h
+Found 15 duplicate lines with fingerprint da45de879019ebe1fc8e9a881284a757 in the following files:
+ Between lines 82 and 98 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\effects\copy_effects.cpp
+ Between lines 366 and 382 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\storage\texture_storage.cpp
+Found 16 duplicate lines with fingerprint 81608d05ad6c7fab3322cd8912c4138a in the following files:
+ Between lines 100 and 119 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\wasapi\audio_driver_wasapi.h
+ Between lines 104 and 123 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\pulseaudio\audio_driver_pulseaudio.h
+Found 16 duplicate lines with fingerprint 0fec125e052bf42bb5ebb6e0c9cb5cd9 in the following files:
+ Between lines 246 and 267 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\rasterizer_canvas_gles3.cpp
+ Between lines 175 and 196 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\rasterizer_canvas_gles3.cpp
+Found 16 duplicate lines with fingerprint d8e4c2abce15935c53ee101dba6f462a in the following files:
+ Between lines 952 and 971 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\storage\light_storage.cpp
+ Between lines 914 and 933 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\storage\light_storage.cpp
+Found 16 duplicate lines with fingerprint 5884d97377e477b1fb1d4a53ae352e90 in the following files:
+ Between lines 148 and 167 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\metal\rendering_shader_container_metal.h
+ Between lines 748 and 767 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\metal\metal_objects_shared.h
+Found 16 duplicate lines with fingerprint 5f702c670277a6ed540761e1c299964b in the following files:
+ Between lines 5604 and 5623 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 5043 and 5062 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+Found 17 duplicate lines with fingerprint 5301bc1f540caec4ebfe00a7434fbaa9 in the following files:
+ Between lines 2686 and 2702 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\metal\rendering_device_driver_metal.cpp
+ Between lines 7339 and 7355 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\vulkan\rendering_device_driver_vulkan.cpp
+Found 17 duplicate lines with fingerprint 4c42ac33bb9105d06408bde6d012c57f in the following files:
+ Between lines 1683 and 1704 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\storage\texture_storage.cpp
+ Between lines 1795 and 1816 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\storage\texture_storage.cpp
+Found 18 duplicate lines with fingerprint 8bbd057c6e4613a56d76a82744d6f513 in the following files:
+ Between lines 785 and 808 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\vulkan\rendering_device_driver_vulkan.h
+ Between lines 935 and 958 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.h
+Found 18 duplicate lines with fingerprint 0f084cb05acf1619da6edbe4f9debe1d in the following files:
+ Between lines 669 and 699 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\vulkan\rendering_device_driver_vulkan.h
+ Between lines 825 and 855 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.h
+Found 18 duplicate lines with fingerprint 6be839b7dfd152b4fdc6343913c6d36f in the following files:
+ Between lines 1676 and 1701 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\storage\texture_storage.cpp
+ Between lines 1600 and 1626 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\storage\texture_storage.cpp
+Found 18 duplicate lines with fingerprint ee242e7e014a9c01d82714ede9c8a87e in the following files:
+ Between lines 2034 and 2061 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\metal\metal3_objects.cpp
+ Between lines 1878 and 1905 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\metal\metal3_objects.cpp
+Found 18 duplicate lines with fingerprint dec564860b848e8815dd40054d521789 in the following files:
+ Between lines 430 and 456 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\windows\net_socket_winsock.cpp
+ Between lines 593 and 619 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\unix\net_socket_unix.cpp
+Found 18 duplicate lines with fingerprint 093715bbeeb3f6ae5e4d1d17ed5ca935 in the following files:
+ Between lines 53 and 74 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\effects\post_effects.cpp
+ Between lines 52 and 73 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\effects\glow.cpp
+ Between lines 54 and 75 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\effects\feed_effects.cpp
+ Between lines 53 and 74 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\effects\copy_effects.cpp
+Found 19 duplicate lines with fingerprint 8a0003929ca0683c6302ccdb06d503a5 in the following files:
+ Between lines 5749 and 5778 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\vulkan\rendering_device_driver_vulkan.cpp
+ Between lines 6721 and 6750 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\vulkan\rendering_device_driver_vulkan.cpp
+Found 20 duplicate lines with fingerprint e587b91495c4714a4f8b9ad51e198f2d in the following files:
+ Between lines 338 and 363 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\metal\rendering_context_driver_metal.cpp
+ Between lines 204 and 229 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\metal\rendering_context_driver_metal.cpp
+Found 20 duplicate lines with fingerprint ac97065281f25a6445fceffa410e2d7a in the following files:
+ Between lines 74 and 95 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\windows\net_socket_winsock.h
+ Between lines 92 and 113 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\unix\net_socket_unix.h
+Found 21 duplicate lines with fingerprint 767adf9f9f70d9f63f3689d472451294 in the following files:
+ Between lines 65 and 95 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\unix\net_socket_unix.cpp
+ Between lines 45 and 75 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\windows\net_socket_winsock.cpp
+Found 23 duplicate lines with fingerprint 4e8db3d19f13a7842f1beb95f710f60e in the following files:
+ Between lines 2421 and 2459 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\storage\texture_storage.cpp
+ Between lines 2717 and 2755 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\storage\texture_storage.cpp
+Found 23 duplicate lines with fingerprint cfcd208495d565ef66e7dff9f98764da in the following files:
+ Between lines 648 and 670 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\gles3\storage\material_storage.cpp
+ Between lines 296 and 318 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 295 and 317 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 294 and 316 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 293 and 315 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 292 and 314 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 291 and 313 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 290 and 312 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 289 and 311 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 288 and 310 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 287 and 309 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 286 and 308 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 285 and 307 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 284 and 306 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 283 and 305 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 282 and 304 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 281 and 303 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 280 and 302 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 279 and 301 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 278 and 300 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 277 and 299 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 276 and 298 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 275 and 297 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 274 and 296 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 273 and 295 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 272 and 294 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 271 and 293 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 270 and 292 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 269 and 291 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 268 and 290 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 267 and 289 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 266 and 288 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 265 and 287 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 264 and 286 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 263 and 285 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 262 and 284 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 261 and 283 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 260 and 282 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 259 and 281 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 258 and 280 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 257 and 279 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 256 and 278 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 255 and 277 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 254 and 276 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 253 and 275 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 252 and 274 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 251 and 273 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 250 and 272 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 249 and 271 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 248 and 270 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 247 and 269 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 246 and 268 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 245 and 267 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 244 and 266 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 243 and 265 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 242 and 264 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 241 and 263 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 240 and 262 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 239 and 261 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 238 and 260 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 237 and 259 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 236 and 258 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 235 and 257 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 234 and 256 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 233 and 255 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+Found 26 duplicate lines with fingerprint 1c0097234f5bb6df626748163839cea6 in the following files:
+ Between lines 131 and 156 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\vulkan\rendering_context_driver_vulkan.h
+ Between lines 58 and 83 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_context_driver_d3d12.h
+Found 31 duplicate lines with fingerprint a9f517f88ca6152e8ff6600bc88f5909 in the following files:
+ Between lines 429 and 470 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\metal\rendering_device_driver_metal.h
+ Between lines 640 and 681 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\vulkan\rendering_device_driver_vulkan.h
+Found 32 duplicate lines with fingerprint f7b9384973171791f3568e14ec3fe9cf in the following files:
+ Between lines 55 and 98 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\windows\ip_windows.cpp
+ Between lines 72 and 115 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\unix\ip_unix.cpp
+Found 36 duplicate lines with fingerprint 43e80e0f18c170383691c6d9baf04879 in the following files:
+ Between lines 162 and 211 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\windows\net_socket_winsock.cpp
+ Between lines 199 and 248 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\unix\net_socket_unix.cpp
+Found 85 duplicate lines with fingerprint cfcd208495d565ef66e7dff9f98764da in the following files:
+ Between lines 234 and 318 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+ Between lines 233 and 317 in C:\Users\Damyan's laptop\Desktop\UNI\Year 3\Capstone Software Developemnt\Scripts\work\after-tests\drivers\d3d12\rendering_device_driver_d3d12.cpp
+Found 2195 duplicate lines in 138 blocks in 38 files
+Processed a total of 57615 significant (89666 raw) lines in 167 files
+Processing time: 0.779sec

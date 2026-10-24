@@ -1,0 +1,6 @@
+definition,threshold_days,dormant
+P75 of gaps,6,94
+P90 of gaps,20,74
+P95 of gaps,39,61
+P99 of gaps,107,40
+configured,107,40
