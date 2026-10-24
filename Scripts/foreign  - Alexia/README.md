@@ -21,6 +21,26 @@ cd "foreign  - Alexia"
 `METRICS_DATA` and `METRICS_OUT` override the data and output folders. The window lives in
 `Scripts/window.py`; `config.py` imports it. `github.py` (the old API client) is no longer used.
 
+## Figures (`plots/`)
+
+Alexia's chart and number scripts, read from `out/` after `run_all.py`. Each runs on its own
+(`-o` for another file, `--show` for a window); `plot_all.py` runs them all headless.
+
+```bash
+../.venv/Scripts/python plots/plot_all.py        # -> out/figures/*.png, printed numbers -> out/plots_output.txt
+```
+
+| Script | Reads | Writes |
+|---|---|---|
+| `commit_per_month.py` | `1_commits_per_month.csv` | `figures/fig_1_commits_per_month.png` |
+| `issues_closed.py` | `2c_issue_closed_age.csv` | `figures/fig_2c_issue_closed_age.png` |
+| `dubious_reruns.py` | `4_rerun_success_rate.csv` | `figures/fig_4_rerun_flaky_share.png` + overall flaky share |
+| `unassigned_projects.py` | `5_project_unassigned.csv` | `figures/fig_5_project_unassigned.png` |
+| `Process_oriented_2.py` | `P2_newcomer_commit_share.csv` | `figures/fig_P2_newcomer_commit_share.png` |
+| `pull_requests_review_time.py` | `3_pull_requests.csv` | overall median time to first review |
+| `milestones_completion_percentage.py` | `6_milestone_completion.csv` | average and item-weighted milestone completion |
+| `P4_retired_key_contributors.py` | `P4_former_key_contributors.csv` | % of each milestone's key contributors no longer key (pooled and mean) |
+
 ## Outputs (`out/`)
 
 | File | Metric |

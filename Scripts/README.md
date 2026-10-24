@@ -81,6 +81,7 @@ export GITHUB_TOKEN=...                         # public read + project read (cl
 .venv/Scripts/python health/filter_bots.py      # bot measures 1 and 2 (git + GitHub)
 .venv/Scripts/python health/categorise.py       # H1 + key / newcomer / dormant / left -> data/categories/people.csv
 (cd "foreign  - Alexia" && ../.venv/Scripts/python run_all.py)   # Alexia's activity + process metrics -> her out/
+.venv/Scripts/python "foreign  - Alexia/plots/plot_all.py"       # her report figures -> her out/figures/
 .venv/Scripts/python health/check_consistency.py                 # fails if her CSVs and ours disagree
 export GITHUB_API_KEY=$GITHUB_TOKEN             # RABBIT reads this name
 .venv-bots/Scripts/rabbit-ng --input-file data/bots/rabbit_input.txt --format csv > data/bots/rabbit_output.csv

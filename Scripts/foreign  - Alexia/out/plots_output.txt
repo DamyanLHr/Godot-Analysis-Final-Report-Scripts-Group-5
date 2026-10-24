@@ -1,0 +1,56 @@
+=== commit_per_month.py
+Saved chart to C:\Users\Damyan's laptop\Documents\GitHub\Godot-Analysis-Final-Report-Scripts-Group-5\Scripts\foreign  - Alexia\plots\..\out\figures\fig_1_commits_per_month.png
+
+=== issues_closed.py
+Saved chart to C:\Users\Damyan's laptop\Documents\GitHub\Godot-Analysis-Final-Report-Scripts-Group-5\Scripts\foreign  - Alexia\plots\..\out\figures\fig_2c_issue_closed_age.png
+
+=== dubious_reruns.py
+Months:                     13
+Failed first attempts:      4167
+Passed on re-run:           368
+Overall flaky share:        368 / 4167 x 100 = 8.83%
+Saved chart to C:\Users\Damyan's laptop\Documents\GitHub\Godot-Analysis-Final-Report-Scripts-Group-5\Scripts\foreign  - Alexia\plots\..\out\figures\fig_4_rerun_flaky_share.png
+
+=== unassigned_projects.py
+Saved chart to C:\Users\Damyan's laptop\Documents\GitHub\Godot-Analysis-Final-Report-Scripts-Group-5\Scripts\foreign  - Alexia\plots\..\out\figures\fig_5_project_unassigned.png
+
+=== Process_oriented_2.py
+Saved chart to C:\Users\Damyan's laptop\Documents\GitHub\Godot-Analysis-Final-Report-Scripts-Group-5\Scripts\foreign  - Alexia\plots\..\out\figures\fig_P2_newcomer_commit_share.png
+
+=== pull_requests_review_time.py
+PRs opened:   7581
+PRs reviewed: 5570 (73.5 %)
+Overall median time to first review: 10.34 h (0.43 days)
+
+=== milestones_completion_percentage.py
+File: C:\Users\Damyan's laptop\Documents\GitHub\Godot-Analysis-Final-Report-Scripts-Group-5\Scripts\foreign  - Alexia\plots\..\out\6_milestone_completion.csv
+Closed milestones: 17
+Average completion percentage: 99.83 %
+Lowest: 97.82 %   Highest: 100.00 %
+Item-weighted completion: 99.94 %
+
+=== P4_retired_key_contributors.py
+Milestone Closed       Old key  Not key anymore       %
+2.0       2017-07-28         9                8   88.9%
+2.1       2018-12-14        16               15   93.8%
+3.0       2019-12-19        34               30   88.2%
+3.1       2019-04-08        43               35   81.4%
+3.2       2021-03-17        45               34   75.6%
+3.3       2021-11-08        11                5   45.5%
+3.4       2021-11-08        14                5   35.7%
+3.5       2023-02-11        14                5   35.7%
+3.6       2024-09-14        13                2   15.4%
+4.0       2023-03-01       107               86   80.4%
+4.1       2023-07-05        30               13   43.3%
+4.2       2023-11-30        35               14   40.0%
+4.3       2024-08-15        50               23   46.0%
+4.4       2025-03-19        48               18   37.5%
+4.5       2025-09-18        41                9   22.0%
+4.6       2026-01-26        36                4   11.1%
+4.7       2026-06-19        33                1    3.0%
+
+Milestones analysed:            17
+Total old key contributors:     579
+Total no longer key:            307
+Overall (pooled) percentage:    53.0%
+Mean of per-milestone values:   49.6%
