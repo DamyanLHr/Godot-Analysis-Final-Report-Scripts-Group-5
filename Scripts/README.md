@@ -8,7 +8,7 @@ commands below.
 |---|---|
 | Repository | `godotengine/godot` |
 | Code snapshot | `57277407e77e61b161f35dbd7aeb510f7a9e26a6` (master, 18 Sep 2026) |
-| Activity window | `2025-09-16T00:00:00Z` → `2026-09-16T00:00:00Z`, end excluded (365 days), in `window.py`; **author** date for git |
+| Activity window | `2025-09-16T00:00:00Z` to `2026-09-16T00:00:00Z`, end excluded (365 days), in `window.py`; **author** date for git |
 | Platform used | Windows 11, Git Bash, Python 3.13.0 |
 
 ## Tools and versions

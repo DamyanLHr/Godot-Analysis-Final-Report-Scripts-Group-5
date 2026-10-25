@@ -17,7 +17,7 @@ What is fetched (raw, one JSON object per line, under ../data/github/):
   milestones.jsonl       REST closed milestones + GraphQL authors of their merged PRs
   meta.json              fetch timestamps per stage, window, request counts -> cite the fetch date
 
-Usage (YOU run this; the token never leaves your shell):
+Usage (needs a GitHub token in the environment):
   export GITHUB_TOKEN=...            (bash)   or   $env:GITHUB_TOKEN="..."  (PowerShell)
   ../.venv/Scripts/python fetch_github.py            # resumes from checkpoints if interrupted
 Token: public read access, plus project read for projects.jsonl (classic token: read:project;

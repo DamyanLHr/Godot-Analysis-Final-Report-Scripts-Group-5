@@ -10,7 +10,7 @@ Measure 2 - behaviour (Dey et al. 2020 activity features, adapted):
   active. Templated + wide-reaching commits are what automation produces.
   Commit-level: templated mass commits (e.g. "Sync translations with Weblate") are flagged even when
   the account is human -> "human account carrying automated / many people's work".
-Measure 3 (validation, run by you with your token): BoDeGHa / RABBIT on the GitHub logins.
+Measure 3 (validation, needs a GitHub token): BoDeGHa / RABBIT on the GitHub logins.
 
 Input:  ../data/git/commits_window.csv; optional ../data/github/*.jsonl
 Output: ../data/bots/*.csv + summary
